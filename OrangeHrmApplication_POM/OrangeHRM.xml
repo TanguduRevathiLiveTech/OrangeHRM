@@ -1,0 +1,20 @@
+<suite name="OrangeHRM Application">
+	
+<test name="LoginPage">
+ 		<classes>
+		 <class name="OrangeHRMApplicationTestCases.OrangeHRM_LoginPageTest"> </class>
+ 		</classes>	 
+ </test>
+ 
+ 
+ 
+ <test name="HomePage">
+ 		<classes>
+		 <class name="OrangeHRMApplicationTestCases.OrangeHRM_HomepageTest"> </class>
+ 		</classes>	 
+ </test>
+ 
+ 
+ 
+ 	
+</suite>

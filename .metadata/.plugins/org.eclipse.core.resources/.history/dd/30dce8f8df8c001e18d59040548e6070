@@ -1,0 +1,71 @@
+package com.utility;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+
+import com.utility.Log;
+
+
+
+public class BaseTest1 {
+	
+	 public static WebDriver driver;
+	String ApplicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+	@BeforeMethod
+	public void setup() {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\ChromeDriver\\chromedriver.exe");
+		driver=new ChromeDriver();
+		driver.navigate().to(ApplicationUrlAddress);
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+		driver.manage().window().maximize();
+		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+
+		Log.info("**********Successfully navigated to OrangeHRM application*********");
+	}
+	@Test(priority=1,description=" Validating OrangeHRM Application Home page Welcome Test ")
+	public static void  LoginFunctionality()
+	{
+		
+		
+		 By UsernameProperty=By.id("txtUsername");
+		 
+		WebElement Username=driver.findElement(UsernameProperty);
+		
+		
+		//<input name="txtPassword" id="txtPassword" auto complete="off" type="password">
+		//identifying the property of Password Element
+		//Test date is giving to Password element
+		
+		By PasswordProperty=By.name("txtPassword");
+		
+		WebElement Password=driver.findElement(PasswordProperty);
+		
+		
+		
+		
+	    By LoginProperty=By.className("button");
+	  
+	    WebElement Login=driver.findElement(LoginProperty);
+	    //Operation should be performed on the element - Password
+		Login.click();
+			
+		Username.sendKeys("Revathi");
+		Password.sendKeys("Revathi@123");
+		Login.click();
+	}
+@AfterMethod
+	public void TearDown() {
+		driver.close();
+		Log.info("*********Successfully closed OrangeHRM application*********");
+		Log.info("*********************************************************************");		
+		
+	}
+}

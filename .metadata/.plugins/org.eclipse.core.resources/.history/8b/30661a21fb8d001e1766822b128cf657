@@ -1,0 +1,31 @@
+package com.StepsDefination;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class OrangeHRMApplicationUserDefinedMethods {
+
+	
+	
+	@Given("^User should be open a chrome browser in the system$")
+	public void user_should_be_open_a_chrome_browser_in_the_system()  {
+	    
+	}
+
+	@When("^User enter a url address of OrangeHrm Application$")
+	public void user_enter_a_url_address_of_OrangeHrm_Application()  {
+	   
+	}
+
+	@Then("^User should be navigated to OrangeHRM Application login page$")
+	public void user_should_be_navigated_to_OrangeHRM_Application_login_page() {
+	}
+
+	@Then("^User should be close the OrangeHRM application Along with the browser$")
+	public void user_should_be_close_the_OrangeHRM_application_Along_with_the_browser() {
+	}
+
+
+	
+}

@@ -1,0 +1,28 @@
+package TestCases;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+
+import Webages.HTMLRadioButton;
+
+public class HTMLRadioButtonTest extends BaseTest {
+
+	
+	
+	
+@Test(priority=1,description="Html Tutorial")
+public void HtmlTutorialTest() throws IOException {
+	HTMLRadioButton HTML=new HTMLRadioButton();
+	HTML.HtmlTutorial();
+}
+
+@Test(priority=2,description="Navigate to Tutorial of Html Pagess")
+public void TutorialOfHTMLPageTest() {
+	HTMLRadioButton HTML=new HTMLRadioButton();
+	HTML.TutorialHTMLPage();
+}
+//
+}

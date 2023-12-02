@@ -1,0 +1,9 @@
+
+#Echoecho application Tutorial element - LinkText(	//<a href="school.htm">Tutorials</a>)
+EchoechoTutorialElementLinkProperty=Tutorials
+
+#Echoecho application Tutorial to navigate HTMl page element - LinkText(//<a href="html.htm"><span class="link">HTML</span></a>
+
+EchoechoTutorialHTMLPageProperty=HTML
+
+#Echoecho application HTML to navigateHTML Tutorial page -LinkText

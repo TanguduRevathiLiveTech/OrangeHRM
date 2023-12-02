@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="OrangeHRMApplication"/>
+    <mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+    <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+        <listEntry value="com.JavaVariables.VariableExample"/>
+        <listEntry value="com.Assignments.TRSTCApplication"/>
+        <listEntry value="com.BasicJava.MyFirstJavaProgram"/>
+        <listEntry value="com.Assignments.Numberpattern"/>
+        <listEntry value="com.AssignmentScriptOrangeHrmLoginPAgeExcel.PersonalDetails"/>
+        <listEntry value="com.BrowserAutomation.TestingMultipleBrowsers"/>
+        <listEntry value="com.UserDefinedMethods.Methodexample3"/>
+        <listEntry value="com.StringCamparsion.StringCases"/>
+        <listEntry value="com.UserDefinedMethods.Methodexample2"/>
+        <listEntry value="com.arrays.MultiDimensionalArrays"/>
+        <listEntry value="com.TimeAndDateCompleteDataTable.TimeAndDataApplicationCompleteTable"/>
+        <listEntry value="com.autoit.AutoItFirstScript"/>
+        <listEntry value="com.UserDefinedMethods.Methodexample9"/>
+        <listEntry value="com.UserDefinedMethods.Methodexample8"/>
+        <listEntry value="OrangeHrmApplicationExcelLogin.OrangrHrmMultipleTestdata"/>
+        <listEntry value="com.UserDefinedMethods.Methodexample5"/>
+        <listEntry value="com.UserDefinedMethods.Methodexample4"/>
+        <listEntry value="com.DropDown.DiaplayAllOptionInDropDown"/>
+        <listEntry value="com.UserDefinedMethods.Methodexample7"/>
+        <listEntry value="com.UserDefinedMethods.Methodexample6"/>
+        <listEntry value="com.Application.MultipleApplication"/>
+        <listEntry value="com.LoopsStatements.ForLoopExample"/>
+        <listEntry value="com.JumpStatements.BreakExample"/>
+        <listEntry value="com.DecisionMakingStatements.IfExample"/>
+        <listEntry value="com.ApplicationTitle.VerificationApplicationTitle"/>
+        <listEntry value="com.Assignments.hlo"/>
+        <listEntry value="com.GoogleApplicationLinkTesting.TestSignInButton"/>
+        <listEntry value="com.LoopsStatements.DoWhileLoopExample"/>
+        <listEntry value="com.DecisionMakingStatements.IfElseExample"/>
+        <listEntry value="com.DropDown.SelectDropDown"/>
+        <listEntry value="com.AlertWindow.TsrtcHandleAlertWindow"/>
+        <listEntry value="com.employeeList.TestNGEmployeeList"/>
+        <listEntry value="ExcelOperationExample.MultipleWriteOperation"/>
+        <listEntry value="com.DropDown.DropDownScrrenshots"/>
+        <listEntry value="com.StringCamparsion.StringequalsIgnoreCaseExample"/>
+        <listEntry value="OrangeHrmApplicationExcelLogin.OrangeHrmApplicationPIMElement"/>
+        <listEntry value="com.UserDefinedMethods.Amazon_BabyWishlist_Click"/>
+        <listEntry value="com.OrangeHRM.OrangeHRMHomePageValidation"/>
+        <listEntry value="tsrtclinksvalidation.TsrtcHeaderScrrenshots"/>
+        <listEntry value="com.arrays.ObjectArray"/>
+        <listEntry value="tsrtclinksvalidation.TSRTC_HeaderBlock_LinksTesting"/>
+        <listEntry value="OrangeHrmApplicationExcelLogin.OrangeHrmExcelLoginTest"/>
+        <listEntry value="ExcelOperationExample.WriteOperationInExcelFile"/>
+        <listEntry value="com.LoopsStatements.NestedLoopExample"/>
+        <listEntry value="com.StringCamparsion.CamparingtwoStrings"/>
+        <listEntry value="com.LoopsStatements.WhileLoopExample"/>
+        <listEntry value="com.ApplicationTitle.ValidatationApplicationTitle"/>
+        <listEntry value="com.employeeList.TestNG"/>
+        <listEntry value="com.employeeList.PropertiesEmployeeList"/>
+        <listEntry value="com.StringCamparsion.StringCantainsExample"/>
+        <listEntry value="com.AssignmentScriptOrangeHrmLoginPAgeExcel.AssignemtScriptForLoginPage"/>
+        <listEntry value="com.DecisionMakingStatements.SwitchExample"/>
+        <listEntry value="com.JumpStatements.ContinueExample"/>
+        <listEntry value="com.Assignments.Charat"/>
+        <listEntry value="com.employeeList.AllpagesEmployeelist"/>
+        <listEntry value="com.DecisionMakingStatements.IfElseIFExample"/>
+        <listEntry value="com.Assignments.Gettext"/>
+        <listEntry value="com.Application.GoogleApplication"/>
+        <listEntry value="com.OrangeHRM.OrangeHRMApplicationLoginPage"/>
+        <listEntry value="ExcelOperationExample.ReadingExcelData"/>
+        <listEntry value="OrangeHrmApplicationExcelLogin.TestNGPIMemployeeList"/>
+        <listEntry value="com.employeeList.BaseTest"/>
+        <listEntry value="com.UserDefinedMethods.MethodExample1"/>
+        <listEntry value="com.StringCamparsion.StringEqualsExample"/>
+        <listEntry value="com.AssignmentScriptOrangeHrmLoginPAgeExcel.TestIngLoginDetails"/>
+        <listEntry value="com.Assignments.Starpatter"/>
+        <listEntry value="com.GoogleApplicationLinkTesting.Google_SignIn_GetText"/>
+        <listEntry value="com.LoginPageScrrenshots.InvalidLoginScrrenshots"/>
+        <listEntry value="com.DecisionMakingStatements.NestedIfExample"/>
+        <listEntry value="com.GoogleApplicationLinkTesting.GetAttribute"/>
+        <listEntry value="com.arrays.SingleDimensionaArrays"/>
+        <listEntry value="com.MouseOver.AmazonSignInMouseOver"/>
+    </listAttribute>
+    <listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+    <listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+    <stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+    <intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>

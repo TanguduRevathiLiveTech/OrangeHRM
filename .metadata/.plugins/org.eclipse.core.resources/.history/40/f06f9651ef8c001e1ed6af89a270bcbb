@@ -1,0 +1,21 @@
+package Webages;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import com.BaseTest.BaseTest;
+
+public  class HTMLRadioButton extends BaseTest{
+
+	//<a href="school.htm">Tutorials</a>
+	public static void HtmlTutorial() {
+		By HtmlTutorialLinkProperty=By.linkText("Tutorials");
+		WebElement HtmlTutorialLink=driver.findElement(HtmlTutorialLinkProperty);
+		HtmlTutorialLink.click();
+		
+		
+	}
+	
+	
+	
+}

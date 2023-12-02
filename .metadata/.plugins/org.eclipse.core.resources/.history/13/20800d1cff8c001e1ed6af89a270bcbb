@@ -1,0 +1,24 @@
+package Webages;
+
+import java.io.IOException;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import com.BaseTest.RediffmailBaseTest;
+import com.utility.PropertiesUserDefined;
+
+public class RediffmailPage extends RediffmailBaseTest {
+
+	//Create a new account
+	public static void RediffmailNewAccount() throws IOException {
+		
+	String Property =PropertiesUserDefined.getproperty("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\NewMaven\\src\\main\\java\\com\\Config\\Elements.properties","RediffmailPageCreateAccountProperty");
+	By RediffmailNewAccountProperty=By.linkText(Property);
+	WebElement RediffmailNewAccount=driver.findElement(RediffmailNewAccountProperty);
+	RediffmailNewAccount.click();
+	
+	
+	
+	}
+}

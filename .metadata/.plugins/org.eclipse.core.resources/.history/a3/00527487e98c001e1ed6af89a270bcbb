@@ -1,0 +1,19 @@
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-1] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[TestNG-tests-1] INFO Log - Succeesfully Navigated to Home page
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - OrangeHRM Applicaiton Home Page Contains Logo - PASS 
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - The Expected Home Page Text - Dashboard
+[TestNG-tests-1] INFO Log - The Actual Home Page Text - Dashboard
+[TestNG-tests-1] INFO Log - OrangeHRM Applicaiton Home Page Contains Text - PASS 
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************

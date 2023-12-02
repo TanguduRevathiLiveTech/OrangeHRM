@@ -1,0 +1,58 @@
+2023-11-27 11:19:47,352 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:19:47,360 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:19:47,411 - Log -INFO -  The expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-11-27 11:19:47,521 - Log -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-11-27 11:19:47,525 - Log -INFO -  OrangeHRM Application LogIn Page Text Validation Successfull - PASS 
+2023-11-27 11:19:47,796 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:19:47,805 - Log -INFO - *********************************************************************
+2023-11-27 11:19:49,018 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:19:49,076 - Log -INFO - OrangeHRM Applicaiton LogIn WebPage Contains Logo - PASS 
+2023-11-27 11:19:49,404 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:19:49,405 - Log -INFO - *********************************************************************
+2023-11-27 11:19:50,729 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:19:52,767 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-27 11:19:52,797 - Log -INFO -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+2023-11-27 11:19:52,799 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-27 11:19:53,714 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-27 11:19:53,716 - Log -INFO -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+2023-11-27 11:19:54,172 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-27 11:19:54,181 - Log -INFO -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+2023-11-27 11:19:54,545 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-27 11:19:54,549 - Log -INFO -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+2023-11-27 11:19:55,939 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-27 11:19:55,963 - Log -INFO -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+2023-11-27 11:19:55,964 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-27 11:19:56,721 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:19:56,722 - Log -INFO - *********************************************************************
+2023-11-27 11:19:57,795 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:19:57,982 - Log -INFO -  The linkedin Logo is displayed SuccessFully
+2023-11-27 11:19:58,075 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:19:58,078 - Log -INFO - *********************************************************************
+2023-11-27 11:19:59,755 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:20:00,022 - Log -INFO -  The Facebook Logo is displayed SuccessFully
+2023-11-27 11:20:00,125 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:20:00,140 - Log -INFO - *********************************************************************
+2023-11-27 11:20:02,727 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:20:03,149 - Log -INFO -  The YouTube Logo is displayed SuccessFully
+2023-11-27 11:20:03,246 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:20:03,252 - Log -INFO - *********************************************************************
+2023-11-27 11:20:05,386 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:20:05,724 - Log -INFO -  The YouTube Logo is displayed SuccessFully
+2023-11-27 11:20:05,848 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:20:05,857 - Log -INFO - *********************************************************************
+2023-11-27 11:20:08,670 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:20:08,685 - Log -INFO - The expected coptRight - OrangeHRM, Inc
+2023-11-27 11:20:08,824 - Log -INFO - The actual CopyRight - OrangeHRM, Inc
+2023-11-27 11:20:09,117 - Log -INFO - The expected coptRight matched with actual copyright
+2023-11-27 11:20:09,401 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:20:09,405 - Log -INFO - *********************************************************************
+2023-11-27 11:20:15,457 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:20:15,466 - Log -INFO - The expected Alternative Select Option - -- Select --
+2023-11-27 11:20:15,877 - Log -INFO - The actual AlternativeSelectOption - -- Select --
+2023-11-27 11:20:17,237 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:20:17,243 - Log -INFO - *********************************************************************
+2023-11-27 11:20:19,582 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 11:20:19,595 - Log -INFO - The expected Alternative Login - Login
+2023-11-27 11:20:19,693 - Log -INFO - The actual Alternative Login - Login
+2023-11-27 11:20:20,108 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 11:20:20,113 - Log -INFO - *********************************************************************

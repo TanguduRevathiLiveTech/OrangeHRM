@@ -1,0 +1,17 @@
+package OrangeHRMApplicationTestCases;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationWebPages.OrangeHRM_HomePage;
+
+public class OrangeHRM_HomepageTest extends BaseTest{
+	
+	@Test(priority=1,description=" Validating OrangeHRM Application LogIn Page LogIn Test ")
+	public void validatingLogInFunctionalityTest()
+	{
+		OrangeHRM_HomePage HomePage = new OrangeHRM_HomePage();
+		HomePage.HomePageWelcomeAdminFunctionality("Revathi", "Revathi");
+
+}
+}

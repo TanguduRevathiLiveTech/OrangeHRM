@@ -1,0 +1,15 @@
+<suite name="OrangeHRM Application" parallel="tests">
+
+ 
+ 
+ 
+ <test name="HomePage">
+ 		<classes>
+		 <class name="OrangeHRMApplicationTestCases.OrangeHRM_HomepageTest"> </class>
+ 		</classes>	 
+ </test>
+ 
+ 
+ 
+ 	
+</suite>

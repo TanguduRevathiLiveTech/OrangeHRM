@@ -1,0 +1,96 @@
+2023-11-27 12:00:08,895 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 12:00:10,859 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 12:00:10,863 - Log -INFO - *********************************************************************
+2023-11-27 12:01:12,865 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 12:01:14,943 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 12:01:14,947 - Log -INFO - *********************************************************************
+2023-11-27 12:06:55,887 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 12:06:59,109 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 12:06:59,124 - Log -INFO - *********************************************************************
+2023-11-27 12:39:38,067 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 12:39:42,426 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 12:39:42,431 - Log -INFO - *********************************************************************
+2023-11-27 12:46:02,072 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 12:46:05,778 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 12:46:05,782 - Log -INFO - *********************************************************************
+2023-11-27 13:07:27,124 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 13:07:31,499 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 13:07:31,507 - Log -INFO - *********************************************************************
+2023-11-27 13:08:44,877 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 13:09:30,327 - Log -INFO - The total Elements - 3
+2023-11-27 13:09:30,653 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 13:09:30,658 - Log -INFO - *********************************************************************
+2023-11-27 13:13:19,151 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 13:13:23,830 - Log -INFO - The total Elements - 3
+2023-11-27 13:13:24,432 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 13:13:24,434 - Log -INFO - *********************************************************************
+2023-11-27 13:14:56,551 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 13:15:20,124 - Log -INFO - The total Elements - 3
+2023-11-27 13:15:20,214 - Log -INFO - The name of the Radio Button Options - 
+2023-11-27 13:15:20,280 - Log -INFO - The name of the Radio Button Options - 
+2023-11-27 13:15:21,752 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 13:15:21,755 - Log -INFO - *********************************************************************
+2023-11-27 13:18:31,479 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 13:18:35,034 - Log -INFO - The total Elements - 3
+2023-11-27 13:18:35,058 - Log -INFO - The name of the Radio Button Options - Milk
+2023-11-27 13:18:45,197 - Log -INFO - The name of the Radio Button Options - Butter
+2023-11-27 13:18:55,266 - Log -INFO - The name of the Radio Button Options - Cheese
+2023-11-27 13:19:05,743 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 13:19:05,759 - Log -INFO - *********************************************************************
+2023-11-27 13:26:07,085 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 13:26:11,135 - Log -INFO - The total Elements in group 1 - 3
+2023-11-27 13:26:11,165 - Log -INFO - The name of the Radio Button Options of Group 1 - Milk
+2023-11-27 13:26:21,288 - Log -INFO - The name of the Radio Button Options of Group 1 - Butter
+2023-11-27 13:26:31,362 - Log -INFO - The name of the Radio Button Options of Group 1 - Cheese
+2023-11-27 13:26:41,539 - Log -INFO - The total Elements in group 2 - 3
+2023-11-27 13:26:41,565 - Log -INFO - The name of the Radio Button Options of Group 2 - Milk
+2023-11-27 13:26:51,647 - Log -INFO - The name of the Radio Button Options of Group 2 - Butter
+2023-11-27 13:27:01,731 - Log -INFO - The name of the Radio Button Options of Group 2 - Cheese
+2023-11-27 13:27:12,165 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 13:27:12,167 - Log -INFO - *********************************************************************
+2023-11-27 13:28:26,171 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 13:28:59,309 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 13:28:59,315 - Log -INFO - *********************************************************************
+2023-11-27 13:32:04,542 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-27 13:32:08,482 - Log -INFO - The total Elements in group 1 - 3
+2023-11-27 13:32:08,574 - Log -INFO - The name of the Radio Button Options of Group 1 - Milk
+2023-11-27 13:32:18,675 - Log -INFO - The name of the Radio Button Options of Group 1 - Butter
+2023-11-27 13:32:28,768 - Log -INFO - The name of the Radio Button Options of Group 1 - Cheese
+2023-11-27 13:32:38,913 - Log -INFO - The total Elements in group 2 - 3
+2023-11-27 13:32:38,967 - Log -INFO - The name of the Radio Button Options of Group 2 - Water
+2023-11-27 13:32:49,057 - Log -INFO - The name of the Radio Button Options of Group 2 - Beer
+2023-11-27 13:32:59,149 - Log -INFO - The name of the Radio Button Options of Group 2 - Wine
+2023-11-27 13:33:09,640 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-27 13:33:09,640 - Log -INFO - *********************************************************************
+2023-11-27 13:54:04,589 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 13:54:07,012 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 13:54:07,016 - Log -INFO - *********************************************************************
+2023-11-27 13:59:56,270 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:00:05,765 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:00:23,427 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 14:00:23,431 - Log -INFO - *********************************************************************
+2023-11-27 14:01:40,818 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:01:58,142 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 14:01:58,142 - Log -INFO - *********************************************************************
+2023-11-27 14:06:16,201 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:06:33,583 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 14:06:33,584 - Log -INFO - *********************************************************************
+2023-11-27 14:09:20,834 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:09:23,386 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 14:09:23,391 - Log -INFO - *********************************************************************
+2023-11-27 14:10:22,625 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:11:15,001 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 14:11:15,005 - Log -INFO - *********************************************************************
+2023-11-27 14:11:17,441 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:11:30,158 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 14:11:30,158 - Log -INFO - *********************************************************************
+2023-11-27 14:12:32,501 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:12:48,839 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 14:12:48,839 - Log -INFO - *********************************************************************
+2023-11-27 14:13:27,284 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:13:29,799 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 14:13:29,801 - Log -INFO - *********************************************************************
+2023-11-27 14:14:46,867 - Log -INFO - **********Successfully navigated to rediffmail application*********
+2023-11-27 14:14:49,136 - Log -INFO - The full name is - Tangudu Revathi
+2023-11-27 14:14:59,643 - Log -INFO - *********Successfully closed rediffmail application*********
+2023-11-27 14:14:59,643 - Log -INFO - *********************************************************************

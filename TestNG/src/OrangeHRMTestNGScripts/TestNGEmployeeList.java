@@ -1,0 +1,244 @@
+package OrangeHRMTestNGScripts;
+
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.List;
+import java.util.Properties;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.testng.annotations.Test;
+
+import com.utility.Log;
+
+public class TestNGEmployeeList extends BaseTest {
+	 FileInputStream PropertiesFile;	
+	 	Properties ElementProperties;	
+	 	
+	
+	@Test(priority=1,description= "Login to orangeHrm Application")
+	public void Loginpage() throws IOException {
+		FileInputStream ExcelFile=new FileInputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\EmployeeList (2).xlsx");
+		XSSFWorkbook ExcelWorkBook=new XSSFWorkbook(ExcelFile);
+		XSSFSheet ExcelTestDataSheet= ExcelWorkBook.getSheet("Sheet1");
+		 PropertiesFile= new FileInputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\com\\config\\Element.properties");
+		 ElementProperties = new Properties();
+		ElementProperties.load(PropertiesFile);
+		XSSFRow ExcelTestDataRow=ExcelTestDataSheet.getRow(1);
+		XSSFCell ExcelTestDataRowOfCell=ExcelTestDataRow.getCell(0);
+	    String  TestDataUserNameValue=ExcelTestDataRowOfCell.getStringCellValue();
+	    By UsernameProperty=By.id(ElementProperties.getProperty("orangeHRMApplicationLogInPageUserNameProperty"));
+		WebElement Username=driver.findElement(UsernameProperty);
+		Username.sendKeys(TestDataUserNameValue);
+		Log.info("The Test Data for User name - "+TestDataUserNameValue);
+		ExcelTestDataRow=ExcelTestDataSheet.getRow(1);
+		ExcelTestDataRowOfCell=ExcelTestDataRow.getCell(1);
+	    String TestDataPasswordValue=ExcelTestDataRowOfCell.getStringCellValue();
+        By passWordProperty=By.name(ElementProperties.getProperty("orangeHRMApplicationLogInPagePasswordProperty"));
+        WebElement PassWordProperty=driver.findElement(passWordProperty);
+        PassWordProperty.sendKeys(TestDataPasswordValue);
+        Log.info("The Test Data for Password - "+TestDataPasswordValue);
+        By LoginProperty=By.className(ElementProperties.getProperty("orangeHRMApplicationLogInPageLogInButtonProperty"));
+	    //Finding the element by using property in the current page
+	    WebElement Login=driver.findElement(LoginProperty);
+	
+		Login.click();
+		By WelcomeAdminProperty=By.id(ElementProperties.getProperty("orangehRMApplicationHomePageWelComAdminProperty"));
+		 //identify the element by using the property
+		 WebElement welcomeAdmin=driver.findElement(WelcomeAdminProperty);
+		 
+		
+			XSSFCell ExcelTestDataRowOfCell1=ExcelTestDataRow.getCell(2);
+			String  HomePageTestData=ExcelTestDataRowOfCell1.getStringCellValue();
+
+			String Expected_HomePageElementText=HomePageTestData;
+			Log.info("The expected Element Text - "+Expected_HomePageElementText);
+		 String Actual_HomePageElementText=welcomeAdmin.getText();
+		 XSSFCell Actual_HomePageElementText1=ExcelTestDataRow.createCell(3);
+		 Actual_HomePageElementText1.setCellValue(Actual_HomePageElementText);
+		 Log.info("The Actual  is Element Text - "+Actual_HomePageElementText);
+		 
+		   if(Actual_HomePageElementText.contains(Expected_HomePageElementText))
+		{
+			   Log.info(" Succesfully Navigated to OrangeHRM Application HomePage - PASS");
+			   XSSFCell HomePageTestResultRowOfCell=ExcelTestDataRow.createCell(4);
+				HomePageTestResultRowOfCell.setCellValue("Succesfully Navigated to OrangeHRM Application HomePage - PASS");
+
+		
+		
+		}
+		else
+		{
+			Log.info(" Failed to Navigated to OrangeHRM Application HomePage - FAIL");
+			Cell HomePageTestResultRowOfCell=ExcelTestDataRow.createCell(4);
+			HomePageTestResultRowOfCell.setCellValue(" Failed to Navigated to OrangeHRM Application HomePage - FAIL");
+		}
+		
+		   FileOutputStream HomePageTextInExcelFile= new FileOutputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\EmployeeList (2).xlsx");
+		   ExcelWorkBook.write(HomePageTextInExcelFile);
+		
+	}
+	@Test(priority=2,description= "Navigate to Employee list page")
+	public void PIMEmployeeList() throws IOException {
+		
+		FileInputStream ExcelFile=new FileInputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\EmployeeList (2).xlsx");
+        XSSFWorkbook ExcelworkBook =new XSSFWorkbook(ExcelFile);
+        XSSFSheet WorkBookSheet = ExcelworkBook.getSheet("Sheet1");
+        
+		By PIMElementProperty=By.id(ElementProperties.getProperty("orangehRMApplicationHomePagePIMProperty"));
+		WebElement PIM =driver.findElement(PIMElementProperty);
+		PIM.click();
+		//<a href="/orangehrm-4.2.0.1/symfony/web/index.php/pim/viewEmployeeList/reset/1" id="menu_pim_viewEmployeeList">Employee List</a>
+		By EmployeeListProperty=By.linkText(ElementProperties.getProperty("orangeHRMApplicationEmployeeListProperty"));
+		WebElement EmployeeList=driver.findElement(EmployeeListProperty);
+		EmployeeList.click();
+		///html/body/div[1]/div[3]/div[2]/div
+		///html/body/div[1]/div[3]/div[2]/div/form
+		///html/body/div[1]/div[3]/div[1]/div[1]/h1
+		XSSFRow RowofSheet=WorkBookSheet.getRow(1);
+		XSSFCell ExcelTestDataRowOfCell1=RowofSheet.getCell(5);
+		String  ExpectedEmployeeListPageText=ExcelTestDataRowOfCell1.getStringCellValue();
+		Log.info("The Expected EmployeeList Page Text - "+ExpectedEmployeeListPageText);
+
+		By EmployeeListpropertyText=By.xpath("/html/body/div[1]/div[3]/div[1]/div[1]/h1");
+		WebElement EmployeeListText=driver.findElement(EmployeeListpropertyText);
+		String ActualEmployeeListText=EmployeeListText.getText();
+		Log.info("The Actual Home Page Text - "+ActualEmployeeListText);
+		 RowofSheet=WorkBookSheet.getRow(1);
+		 ExcelTestDataRowOfCell1=RowofSheet.createCell(6);
+		ExcelTestDataRowOfCell1.setCellValue(ActualEmployeeListText);
+		
+		if(ActualEmployeeListText.equals(ExpectedEmployeeListPageText)) {
+			Log.info(" Succesfully Navigated to OrangeHRM Application Employee list Page - PASS");
+			   XSSFCell EmployeeListPageTestResultRowOfCell=RowofSheet.createCell(7);
+			   EmployeeListPageTestResultRowOfCell.setCellValue("Succesfully Navigated to OrangeHRM Application Employee list Page - PASS");
+
+		
+		
+		}
+		else
+		{
+			Log.info(" Failed to Navigated to OrangeHRM Application Employee list Page - FAIL");
+			Cell EmployeeListTestResultRowOfCell=RowofSheet.createCell(7);
+			EmployeeListTestResultRowOfCell.setCellValue(" Failed to Navigated to OrangeHRM Application Employee list Page - FAIL");
+		}
+		FileOutputStream EmployeeListPageTextInExcelFile= new FileOutputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\EmployeeList (2).xlsx");
+		ExcelworkBook.write(EmployeeListPageTextInExcelFile);
+		}
+	@Test(priority=3,description= "Navigate to Employee list page and Display Employee Details")
+		public void EmployeeDetails() throws IOException {
+			FileInputStream ExcelFile=new FileInputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\EmployeeList.xlsx");
+	        XSSFWorkbook ExcelworkBook =new XSSFWorkbook(ExcelFile);
+	        XSSFSheet WorkBookSheet = ExcelworkBook.getSheet("Sheet1");
+	        
+	        
+		By EmployyeListFormProperty=By.xpath(ElementProperties.getProperty("orangeHRMApplicationEmployeeListFormProperty"));
+		WebElement EmployyeListForm=driver.findElement(EmployyeListFormProperty);
+		//<a href="javascript:submitPage(2)" class="tiptip">Next</a>
+		//By NextTablePageProperty=By.linkText("Next");
+		// Going to the WebTable and finding the Number of Rows in it
+		//List<WebElement>NextTablePage=EmployyeListForm.findElements(NextTablePageProperty);
+		//  int Next =NextTablePage.size();
+		
+		
+		By rowProperty=By.tagName(ElementProperties.getProperty("orangeHRMApplicationEmployeeListFormRowsProperty"));
+		// Going to the WebTable and finding the Number of Rows in it
+		List<WebElement>rows=EmployyeListForm.findElements(rowProperty);
+		Log.info("The number of rows - "+rows.size());
+		
+        
+       
+   
+    	 
+		// in the WebTable - should goto every Row of the WebTable
+		for(int rowIndex=1;rowIndex<rows.size();rowIndex++)
+		{
+		// Going to a particular Row
+		
+	 WebElement TableRow=rows.get(rowIndex);
+	By rowOfCellProperty=By.tagName(ElementProperties.getProperty("orangeHRMApplicationEmployeeListFormrowOfcellsProperty"));
+	List<WebElement>rowOfCells=TableRow.findElements(rowOfCellProperty);
+				
+         XSSFRow RowofSheet=WorkBookSheet.createRow(rowIndex);
+         
+		//  goto every Row of cell
+         
+		for(int rowOfCellIndex=0;rowOfCellIndex<rowOfCells.size();rowOfCellIndex++)
+		{
+		WebElement Cells=rowOfCells.get(rowOfCellIndex);
+		String EmployeeDetails=Cells.getText();
+		
+		XSSFCell RowOfCell=RowofSheet.createCell(rowOfCellIndex);
+		RowOfCell.setCellValue(EmployeeDetails);
+		
+		Log.info(EmployeeDetails+ " | ");
+
+		}
+		
+		//<a class="current" href="#">2</a>
+		
+		}
+		
+     
+     
+		FileOutputStream EmployeDetailsInExcelFile= new FileOutputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\EmployeeList.xlsx");
+		ExcelworkBook.write(EmployeDetailsInExcelFile);
+	}
+	
+	@Test(priority=4,description= "Back to login page")
+	public void LogOut() throws IOException {
+		
+		FileInputStream ExcelFile=new FileInputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\EmployeeList (2).xlsx");
+        XSSFWorkbook ExcelworkBook =new XSSFWorkbook(ExcelFile);
+        XSSFSheet WorkBookSheet = ExcelworkBook.getSheet("Sheet1");
+        
+		By WelcomeAdminProperty=By.linkText("Welcome Admin");
+		 //identify the element by using the property
+		 WebElement welcomeAdmin=driver.findElement(WelcomeAdminProperty);
+		 welcomeAdmin.click();
+		 By logOutProperty=By.linkText("Logout");
+		 WebElement logOut=driver.findElement(logOutProperty);
+		 logOut.click();
+		 XSSFRow RowofSheet=WorkBookSheet.getRow(1);
+			XSSFCell ExcelTestDataRowOfCell1=RowofSheet.getCell(8);
+			String  ExpectedLoginPageText=ExcelTestDataRowOfCell1.getStringCellValue();
+		
+			Log.info("The login page should contains text -"+ExpectedLoginPageText);
+			//<div id="logInPanelHeading">LOGIN Panel</div>
+			By LoginPanelProperty=By.id("logInPanelHeading");
+			WebElement LoginPanel=driver.findElement(LoginPanelProperty);
+			String ActualLoginPageText=LoginPanel.getText();
+			 RowofSheet=WorkBookSheet.getRow(1);
+			 ExcelTestDataRowOfCell1=RowofSheet.createCell(9);
+			 ExcelTestDataRowOfCell1.setCellValue(ActualLoginPageText);
+		
+
+			 Log.info("The Actual login panel should cantains - "+ActualLoginPageText);
+			if(ActualLoginPageText.equals(ExpectedLoginPageText)) {
+				Log.info("Successfully navigated to login page - PASS");
+				XSSFCell LoginPageTestResultRowOfCell=RowofSheet.createCell(10);
+				LoginPageTestResultRowOfCell.setCellValue("Succesfully Navigated to OrangeHRM Application Login Page - PASS");
+
+				
+			}
+			else {
+				Log.info("Failed navigated to login page - FAIL");
+				XSSFCell LoginPageTestResultRowOfCell=RowofSheet.createCell(10);
+				LoginPageTestResultRowOfCell.setCellValue("Failed Navigated to OrangeHRM Application Login Page - PASS");
+
+			
+			}
+			FileOutputStream EmployeeListPageTextInExcelFile= new FileOutputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\EmployeeList (2).xlsx");
+			ExcelworkBook.write(EmployeeListPageTextInExcelFile);
+	}///html/body/div[1]/div[3]/div[2]/div/form/div[5]/ul/li[4]
+	///html/body/div[1]/div[3]/div[2]/div/form/div[5]/ul/li[5]
+	///html/body/div[1]/div[3]
+	///html/body/div[1]/div[3]/div[2]/div/form/div[1]/ul/li[4]
+}

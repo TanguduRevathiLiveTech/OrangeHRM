@@ -1,0 +1,35 @@
+package Webages;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import com.BaseTest.BaseTest;
+import com.utility.PropertiesUserDefined;
+
+public  class HTMLRadioButton extends BaseTest{
+
+	//<a href="school.htm">Tutorials</a>
+	public static void HtmlTutorial() throws IOException 
+	{
+String	property=PropertiesUserDefined.getproperty("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\NewMaven\\src\\main\\java\\com\\Config\\Elements.properties","EchoechoTutorialElementLinkProperty" );
+	
+		By HtmlTutorialLinkProperty=By.linkText(property);
+		WebElement HtmlTutorialLink=driver.findElement(HtmlTutorialLinkProperty);
+		HtmlTutorialLink.click();
+		
+		
+	}//<a href="html.htm"><span class="link">HTML</span></a>
+	public static void TutorialHTMLPage() {
+		By TutorialHTMLPageProperty=By.linkText("HTML");
+		WebElement TutorialOfHTMLPage=driver.findElement(TutorialHTMLPageProperty);
+		TutorialOfHTMLPage.click();
+		
+	
+	}
+	//<a href="htmlforms10.htm">���RADIO BUTTON</a>
+	
+	
+}

@@ -1,0 +1,297 @@
+2023-11-23 13:21:58,403 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-23 13:21:58,926 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-23 13:21:58,966 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-23 13:21:58,970 - Log -INFO - The login page should contains text -Invalid credentials
+2023-11-23 13:21:59,497 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-23 13:21:59,503 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-23 13:22:00,072 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-23 13:22:00,077 - Log -INFO - *********************************************************************
+2023-11-23 13:22:53,536 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-23 13:22:53,986 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-23 13:22:54,026 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-23 13:22:54,029 - Log -INFO - The login page should contains text -Invalid credentials
+2023-11-23 13:22:54,754 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-23 13:22:54,759 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-23 13:22:55,209 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-23 13:22:55,216 - Log -INFO - *********************************************************************
+2023-11-23 19:18:04,840 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-23 19:18:05,156 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-23 19:18:05,161 - Log -INFO - *********************************************************************
+2023-11-23 19:29:10,126 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-23 19:29:26,904 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-23 19:29:26,907 - Log -INFO - *********************************************************************
+2023-11-23 19:35:07,159 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-23 19:35:26,791 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-23 19:35:26,795 - Log -INFO - *********************************************************************
+2023-11-23 19:41:54,889 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-23 19:42:11,407 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-23 19:42:11,411 - Log -INFO - *********************************************************************
+2023-11-23 19:43:55,753 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-23 19:44:13,086 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-23 19:44:13,089 - Log -INFO - *********************************************************************
+2023-11-23 19:46:51,783 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 15:50:40,973 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 15:50:41,344 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 15:50:41,348 - Log -INFO - *********************************************************************
+2023-11-24 15:51:34,393 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 15:51:34,745 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 15:51:34,747 - Log -INFO - *********************************************************************
+2023-11-24 15:52:21,996 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 15:52:22,643 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 15:52:22,647 - Log -INFO - *********************************************************************
+2023-11-24 15:52:50,294 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 15:52:50,707 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 15:52:50,734 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 15:52:50,949 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 15:52:50,956 - Log -INFO - *********************************************************************
+2023-11-24 16:06:37,317 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 16:06:37,716 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 16:06:37,747 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 16:06:37,775 - Log -INFO - The login page should contains text -Invalid credentials
+2023-11-24 16:06:38,877 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 16:06:38,884 - Log -INFO - *********************************************************************
+2023-11-24 16:08:13,110 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 16:08:13,495 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 16:08:13,532 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 16:08:13,569 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 16:08:14,494 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 16:08:14,499 - Log -INFO - *********************************************************************
+2023-11-24 16:09:20,157 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 16:09:20,537 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 16:09:20,578 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 16:09:20,607 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 16:09:21,271 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 16:09:21,278 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 16:09:21,596 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 16:09:21,605 - Log -INFO - *********************************************************************
+2023-11-24 16:10:12,930 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 16:10:13,309 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 16:10:13,345 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 16:10:13,387 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 16:10:14,011 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 16:10:14,016 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 16:10:14,360 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 16:10:14,369 - Log -INFO - *********************************************************************
+2023-11-24 16:31:29,251 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 16:31:29,751 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 16:31:29,753 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 16:31:29,804 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 16:31:29,849 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 16:31:30,684 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 16:31:30,689 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 16:31:30,800 - Log -INFO - The number of rows - 4
+2023-11-24 16:31:34,761 - Log -INFO - The User Name is  - Revathi
+2023-11-24 16:31:34,763 - Log -INFO - The Password is - Revathi@123
+2023-11-24 16:31:34,765 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-11-24 16:31:34,803 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 16:31:34,805 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-24 16:31:35,911 - Log -INFO - The User Name is  - rev
+2023-11-24 16:31:35,919 - Log -INFO - The Password is - rev123
+2023-11-24 16:31:35,927 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 16:31:36,990 - Log -INFO - The User Name is  - tangudu
+2023-11-24 16:31:36,994 - Log -INFO - The Password is - tangudu123
+2023-11-24 16:31:36,996 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 16:31:39,108 - Log -INFO - The User Name is  - Revathi
+2023-11-24 16:31:39,116 - Log -INFO - The Password is - Revathi@123
+2023-11-24 16:31:39,119 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-11-24 16:31:39,159 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 16:31:39,162 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-24 16:31:42,810 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-24 16:31:42,853 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-24 16:31:42,853 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 16:31:43,440 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 16:31:43,451 - Log -INFO - *********************************************************************
+2023-11-24 17:23:54,631 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:23:55,287 - Log -INFO - The  Expected login page should contains text -Invalid credentials
+2023-11-24 17:23:55,324 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:23:55,355 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:23:55,966 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:23:55,973 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-24 17:23:56,491 - Log -INFO - The User Name is  - UserName
+2023-11-24 17:23:56,496 - Log -INFO - The Password is - Password
+2023-11-24 17:23:56,498 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:23:58,404 - Log -INFO - The User Name is  - Revathi
+2023-11-24 17:23:58,407 - Log -INFO - The Password is - Revathi@123
+2023-11-24 17:23:58,430 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-24 17:23:58,528 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 17:23:58,532 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:23:59,471 - Log -INFO - The User Name is  - rev
+2023-11-24 17:23:59,478 - Log -INFO - The Password is - rev123
+2023-11-24 17:23:59,479 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:24:00,389 - Log -INFO - The User Name is  - tangudu
+2023-11-24 17:24:00,391 - Log -INFO - The Password is - tangudu123
+2023-11-24 17:24:00,391 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:24:01,135 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 17:24:01,135 - Log -INFO - *********************************************************************
+2023-11-24 17:28:43,014 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:28:43,561 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:28:43,726 - Log -INFO - The  Expected login page should contains text -Invalid credentials
+2023-11-24 17:28:43,783 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:28:43,809 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:28:44,073 - Log -INFO - The  Expected login page should contains text -Invalid credentials
+2023-11-24 17:28:44,120 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:28:44,148 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:28:44,555 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:28:44,558 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-24 17:28:44,974 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:28:44,977 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-24 17:28:45,805 - Log -INFO - The User Name is  - UserName
+2023-11-24 17:28:45,813 - Log -INFO - The Password is - Password
+2023-11-24 17:28:45,825 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:28:46,290 - Log -INFO - The User Name is  - UserName
+2023-11-24 17:28:46,293 - Log -INFO - The Password is - Password
+2023-11-24 17:28:46,296 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:28:47,854 - Log -INFO - The User Name is  - Revathi
+2023-11-24 17:28:47,857 - Log -INFO - The Password is - Revathi@123
+2023-11-24 17:28:47,886 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-24 17:28:48,000 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 17:28:48,003 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:28:48,349 - Log -INFO - The User Name is  - Revathi
+2023-11-24 17:28:48,352 - Log -INFO - The Password is - Revathi@123
+2023-11-24 17:28:48,390 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-24 17:28:48,485 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 17:28:48,488 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:28:49,233 - Log -INFO - The User Name is  - rev
+2023-11-24 17:28:49,239 - Log -INFO - The Password is - rev123
+2023-11-24 17:28:49,245 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:28:49,550 - Log -INFO - The User Name is  - rev
+2023-11-24 17:28:49,554 - Log -INFO - The Password is - rev123
+2023-11-24 17:28:49,559 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:28:50,497 - Log -INFO - The User Name is  - tangudu
+2023-11-24 17:28:50,501 - Log -INFO - The Password is - tangudu123
+2023-11-24 17:28:50,507 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:28:50,615 - Log -INFO - The User Name is  - tangudu
+2023-11-24 17:28:50,619 - Log -INFO - The Password is - tangudu123
+2023-11-24 17:28:50,622 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:28:51,493 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 17:28:51,493 - Log -INFO - *********************************************************************
+2023-11-24 17:29:17,049 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:29:17,477 - Log -INFO - The  Expected login page should contains text -Invalid credentials
+2023-11-24 17:29:17,522 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:29:17,555 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:29:18,324 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:29:18,328 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-24 17:29:19,306 - Log -INFO - The User Name is  - UserName
+2023-11-24 17:29:19,312 - Log -INFO - The Password is - Password
+2023-11-24 17:29:19,317 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:29:46,635 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:29:46,982 - Log -INFO - The  Expected login page should contains text -Invalid credentials
+2023-11-24 17:29:47,029 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:29:47,056 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:29:47,662 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:29:47,665 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-24 17:29:48,572 - Log -INFO - The User Name is  - UserName
+2023-11-24 17:29:48,575 - Log -INFO - The Password is - Password
+2023-11-24 17:29:48,583 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:29:50,281 - Log -INFO - The User Name is  - Revathi
+2023-11-24 17:29:50,284 - Log -INFO - The Password is - Revathi@123
+2023-11-24 17:29:50,312 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-24 17:29:50,398 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 17:29:50,401 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:29:51,221 - Log -INFO - The User Name is  - rev
+2023-11-24 17:29:51,224 - Log -INFO - The Password is - rev123
+2023-11-24 17:29:51,232 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:29:51,975 - Log -INFO - The User Name is  - tangudu
+2023-11-24 17:29:51,977 - Log -INFO - The Password is - tangudu123
+2023-11-24 17:29:51,979 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:29:52,716 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 17:29:52,716 - Log -INFO - *********************************************************************
+2023-11-24 17:36:42,815 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:36:43,202 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 17:36:43,231 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:36:43,254 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:36:43,962 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:36:43,965 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 17:36:45,020 - Log -INFO - The User Name is  - UserName
+2023-11-24 17:36:45,027 - Log -INFO - The Password is - Password
+2023-11-24 17:36:45,030 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:36:46,749 - Log -INFO - The User Name is  - Revathi
+2023-11-24 17:36:46,753 - Log -INFO - The Password is - Revathi@123
+2023-11-24 17:36:46,772 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-24 17:36:46,849 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 17:36:46,854 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:36:47,803 - Log -INFO - The User Name is  - rev
+2023-11-24 17:36:47,812 - Log -INFO - The Password is - rev123
+2023-11-24 17:36:47,817 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:36:48,731 - Log -INFO - The User Name is  - tangudu
+2023-11-24 17:36:48,735 - Log -INFO - The Password is - tangudu123
+2023-11-24 17:36:48,737 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:36:49,525 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 17:36:49,527 - Log -INFO - *********************************************************************
+2023-11-24 17:37:36,526 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:37:36,952 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 17:37:36,997 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:37:37,023 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:37:37,685 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:37:37,690 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 17:37:39,643 - Log -INFO - The User Name is  - Revathi
+2023-11-24 17:37:39,649 - Log -INFO - The Password is - Revathi@123
+2023-11-24 17:37:39,679 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-24 17:37:39,772 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 17:37:39,774 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:37:40,572 - Log -INFO - The User Name is  - rev
+2023-11-24 17:37:40,576 - Log -INFO - The Password is - rev123
+2023-11-24 17:37:40,579 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:37:41,421 - Log -INFO - The User Name is  - tangudu
+2023-11-24 17:37:41,425 - Log -INFO - The Password is - tangudu123
+2023-11-24 17:37:41,437 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:37:42,162 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 17:37:42,162 - Log -INFO - *********************************************************************
+2023-11-24 17:38:30,022 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:38:30,402 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 17:38:30,448 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:38:30,481 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:38:31,132 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:38:31,137 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 17:38:32,924 - Log -INFO - The User Name is  - Revathi
+2023-11-24 17:38:32,928 - Log -INFO - The Password is - Revathi@123
+2023-11-24 17:38:32,946 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-24 17:38:33,020 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 17:38:33,023 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:38:33,830 - Log -INFO - The User Name is  - rev
+2023-11-24 17:38:33,833 - Log -INFO - The Password is - rev123
+2023-11-24 17:38:33,836 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:38:34,741 - Log -INFO - The User Name is  - tangudu
+2023-11-24 17:38:34,746 - Log -INFO - The Password is - tangudu123
+2023-11-24 17:38:34,752 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:38:35,484 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 17:38:35,490 - Log -INFO - *********************************************************************
+2023-11-24 17:54:35,034 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:54:35,431 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 17:54:35,463 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:54:35,486 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:54:36,106 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:54:36,110 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 17:54:37,997 - Log -INFO - The User Name is  - Revathi
+2023-11-24 17:54:38,001 - Log -INFO - The Password is - Revathi@123
+2023-11-24 17:54:38,033 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-24 17:54:38,130 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 17:54:38,133 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:54:39,017 - Log -INFO - The User Name is  - rev
+2023-11-24 17:54:39,021 - Log -INFO - The Password is - rev123
+2023-11-24 17:54:39,023 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:54:39,886 - Log -INFO - The User Name is  - tangudu
+2023-11-24 17:54:39,900 - Log -INFO - The Password is - tangudu123
+2023-11-24 17:54:39,902 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:55:24,937 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 17:55:25,314 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 17:55:25,347 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 17:55:25,376 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 17:55:25,917 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 17:55:25,921 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 17:55:27,856 - Log -INFO - The User Name is  - Revathi
+2023-11-24 17:55:27,859 - Log -INFO - The Password is - Revathi@123
+2023-11-24 17:55:27,877 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-24 17:55:27,940 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-24 17:55:27,942 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:55:28,943 - Log -INFO - The User Name is  - rev
+2023-11-24 17:55:28,948 - Log -INFO - The Password is - rev123
+2023-11-24 17:55:28,952 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:55:29,770 - Log -INFO - The User Name is  - tangudu
+2023-11-24 17:55:29,772 - Log -INFO - The Password is - tangudu123
+2023-11-24 17:55:29,781 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-24 17:55:32,304 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-24 17:55:32,385 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-24 17:55:32,391 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 17:55:32,844 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-24 17:55:32,860 - Log -INFO - *********************************************************************

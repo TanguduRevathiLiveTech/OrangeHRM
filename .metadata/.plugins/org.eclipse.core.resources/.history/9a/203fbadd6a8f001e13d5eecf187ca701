@@ -1,0 +1,467 @@
+package com.ExcelOperation;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Properties;
+import java.util.concurrent.TimeUnit;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+import com.ExcelCommonMethods.ExcelOperationMethods;
+import com.ExcelCommonMethods.ExcelOperationMethodsMultipleData;
+import com.utility.Log;
+
+public class TestNGAddEmployee extends BaseTest{
+     FileInputStream PropertiesFile;	
+ 	Properties ElementProperties;	
+	
+	
+	
+	
+	@Test(priority=1,description=" Validating OrangeHrm LoginPage Using Loginpanel Text")
+	public void LoginPanelText() throws IOException {
+		
+		 PropertiesFile= new FileInputStream("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\com\\config\\Element.properties");
+		 ElementProperties = new Properties();
+		ElementProperties.load(PropertiesFile);
+		
+	String	 ExpectedLoginPageText =ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles1\\copy\\AddEmployee.xlsx", "Sheet1", 1, 0);
+		Log.info("The Expected login page should contains text -"+ExpectedLoginPageText);
+		//<div id="logInPanelHeading">LOGIN Panel</div>
+		By LoginPanelProperty=By.id(ElementProperties.getProperty("orangeHRMApplicationLogInPageLoginPanelProperty"));
+		WebElement LoginPanel=driver.findElement(LoginPanelProperty);
+		String ActualLoginPageText=LoginPanel.getText();
+		ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 1, ActualLoginPageText);
+		Log.info("The Actual login panel should cantains - "+ActualLoginPageText);
+		if(ActualLoginPageText.equals(ExpectedLoginPageText)) {
+			Log.info("Successfully navigated to login page - PASS");
+			ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 2, "Successfully navigated to login page - PASS");
+		}
+		else {
+			 Log.info("Failed navigated to login page - FAIL");
+             ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 2, "Failed navigated to login page - FAIL");	}
+		     System.out.println("*****************************************************************************");
+		
+	}
+	@Test(priority=2,description=" Validating OrangeHrm LoginPage Using Login page title")
+	public void LoginPageTitle() throws IOException {
+		
+		//XSSFRow ExcelTestDataRow=ExcelTestDataSheet.getRow(1);
+		//XSSFCell ExcelTestDataRowOfCell=ExcelTestDataRow.getCell(3);
+		//String  TestDataLoginPageTitle=ExcelTestDataRowOfCell.getStringCellValue();
+		String ExpectedLoginPageTitle = ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 3);
+				
+		Log.info("The expected  title login page should contains  -"+ExpectedLoginPageTitle);
+		//<div id="logInPanelHeading">LOGIN Panel</div>
+		
+		String ActualLoginPageTitle=driver.getTitle();
+		//Cell loginPanel=ExcelTestDataRow.createCell(4);
+		//loginPanel.setCellValue(ActualLoginPageTitle);
+     ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 4, ActualLoginPageTitle);
+		Log.info("The Actual login panel should cantains - "+ActualLoginPageTitle);
+		if(ActualLoginPageTitle.equals(ExpectedLoginPageTitle)) {
+			Log.info("Successfully navigated to login page - PASS");
+			//Cell loginPanelTestResult=ExcelTestDataRow.createCell(5);
+			//loginPanelTestResult.setCellValue("Successfully navigated to login page - PASS");
+		ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 5, "Successfully navigated to login page - PASS");
+		}
+		else {
+			Log.info("Failed navigated to login page - FAIL");
+			//Cell loginPanelTestResult=ExcelTestDataRow.createCell(5);
+			//loginPanelTestResult.setCellValue("Failed navigated to login page - FAIL");
+        ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx","Sheet1", 1, 5, "Failed navigated to login page - FAIL");
+		}
+		System.out.println("***********************************************************************************");
+		
+		
+		
+	}
+	@Test(priority=3,description=" Validating OrangeHrm Home Page Using Admin Text")
+	public void HomePageValidation() throws IOException
+	{
+		
+		String  TestDataUserNameValue=ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 6);
+	    By UsernameProperty=By.id(ElementProperties.getProperty("orangeHRMApplicationLogInPageUserNameProperty"));
+		WebElement Username=driver.findElement(UsernameProperty);
+		Username.sendKeys(TestDataUserNameValue);
+		Log.info("The Test Data for User name - "+TestDataUserNameValue);
+		
+		String TestDataPasswordValue=ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 7);
+        By passWordProperty=By.name(ElementProperties.getProperty("orangeHRMApplicationLogInPagePasswordProperty"));
+        WebElement PassWordProperty=driver.findElement(passWordProperty);
+        PassWordProperty.sendKeys(TestDataPasswordValue);
+        Log.info("The Test Data for Password - "+TestDataPasswordValue);
+        By LoginProperty=By.className(ElementProperties.getProperty("orangeHRMApplicationLogInPageLogInButtonProperty"));
+	    //Finding the element by using property in the current page
+	    WebElement Login=driver.findElement(LoginProperty);
+	    //Operation should be performed on the element - Password
+		Login.click();
+		 By WelcomeAdminProperty=By.id(ElementProperties.getProperty("orangehRMApplicationHomePageWelComAdminProperty"));
+		 //identify the element by using the property
+		 WebElement welcomeAdmin=driver.findElement(WelcomeAdminProperty);
+		 
+		 String Expected_HomePageElementText=ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 8);
+			Log.info("The expected Element Text - "+Expected_HomePageElementText);
+		 String Actual_HomePageElementText=welcomeAdmin.getText();
+		 Log.info("The Actual  is Element Text - "+Actual_HomePageElementText);
+       ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 9, Actual_HomePageElementText);
+if(Actual_HomePageElementText.contains(Expected_HomePageElementText))
+		{
+	   Log.info(" Succesfully Navigated to OrangeHRM Application HomePage - PASS");
+      ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 10, " Succesfully Navigated to OrangeHRM Application HomePage - PASS");		}
+		else
+		{
+		Log.info(" Failed to Navigated to OrangeHRM Application HomePage - FAIL");
+		ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 10, " Failed to Navigated to OrangeHRM Application HomePage - FAIL");
+		}
+		  
+		System.out.println("******************************************************************************************");
+	}
+	
+	//<a href="/orangehrm-4.2.0.1/symfony/web/index.php/pim/viewPimModule" id="menu_pim_viewPimModule" class="firstLevelMenu"><b>PIM</b></a>
+	@Test(priority=4,description=" Perform operation on PIm alement in Home page")
+	public void PImelement() throws IOException {
+		
+		By PIMElementProperty=By.id(ElementProperties.getProperty("orangehRMApplicationHomePagePIMProperty"));
+		WebElement PIM =driver.findElement(PIMElementProperty);
+		PIM.click();
+		Log.info("Successfully perform operation on PIM element");
+		
+	//<a href="/orangehrm-4.2.0.1/symfony/web/index.php/pim/addEmployee" id="menu_pim_addEmployee">Add Employee</a>
+	
+		By AddEmployeeElementProperty=By.linkText(ElementProperties.getProperty("orangehRMApplicationHomePageAddEmployeeProperty"));
+	
+		WebElement AddEmployee =driver.findElement(AddEmployeeElementProperty);
+		AddEmployee.click();
+		
+		String ExpectedAddEmployeText=ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx","Sheet1", 1, 11);
+		Log.info("The Expected Text that Add Employee page should contains - "+ExpectedAddEmployeText);
+	   //<label class="hasTopFieldHelp">Full Name</label>
+	   ///html/body/div[1]/div[3]/div/div[1]      /html/body/div[1]/div[3]/div/div[2]/div[1]
+	   By AddEmployeHeadBlockProperty=By.xpath(ElementProperties.getProperty("orangehRMApplicationHomePageAddEmployeeHeadBlockProperty"));
+	   WebElement AddEmployeHeadBlock =driver.findElement(AddEmployeHeadBlockProperty);
+	   By AddEmoloyePageValidationTextProperty=By.tagName(ElementProperties.getProperty("orangehRMApplicationAddEmoloyePageTextProperty"));
+       WebElement AddEmployeePageValidationText=AddEmployeHeadBlock.findElement(AddEmoloyePageValidationTextProperty);
+       
+	   String ActualTextofAddEmployee=  AddEmployeePageValidationText.getText();
+	  
+	   ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 12, ActualTextofAddEmployee);
+	   Log.info("The Actual Text that Add Employee page should - " +ActualTextofAddEmployee);
+	if(ActualTextofAddEmployee.contains(ExpectedAddEmployeText)) {
+		Log.info("Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS");
+	ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 13,"Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS");
+	}
+		
+	else{	
+		Log.info("Failed Navigated to OrangeHRM Application  AddEmployee Page - PASS");
+        ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", 1, 13, "Failed Navigated to OrangeHRM Application  AddEmployee Page - PASS");
+	}
+	
+	System.out.println("*************************************************************************");
+	}
+	@Test(priority=5,description="Adding Emplyoee Details and Validating Employee Details")
+	public void AddEmployeeDetails() throws IOException, InterruptedException {
+	int	rowcount=ExcelOperationMethodsMultipleData.getRowValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1");
+	System.out.println("The total number of rows - "+rowcount);
+		for(int rowofindex=1;rowofindex<=rowcount;rowofindex++) {
+			String  TestDataFirstName=ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", rowofindex, 14);
+		//XSSFRow ExcelTestDataRow=ExcelTestDataSheet.getRow(rowofindex);
+		//XSSFCell ExcekTestDataRowOfCell=ExcelTestDataRow.getCell(14);
+	    //String  TestDataFirstName=ExcekTestDataRowOfCell.getStringCellValue();
+	  //  <input class="formInputText" maxlength="30" type="text" name="firstName" id="firstName">
+	    By FirstNameProperty=By.id(ElementProperties.getProperty("orangehRMApplicationAddEmoloyePageFirstnameProperty"));
+		WebElement FirstName=driver.findElement(FirstNameProperty);
+		
+		FirstName.sendKeys( TestDataFirstName);
+		Log.info("The First Name is - "+TestDataFirstName);
+		Actions keyBoardActions = new Actions(driver);
+		keyBoardActions.sendKeys(Keys.TAB).build().perform();
+
+		//ExcelTestDataRow=ExcelTestDataSheet.getRow(rowofindex);
+		//ExcekTestDataRowOfCell=ExcelTestDataRow.getCell(15);
+	   // String TestDataMiddleName=ExcekTestDataRowOfCell.getStringCellValue();
+		String TestDataMiddleName= ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx","Sheet1" , rowofindex, 15);
+	    keyBoardActions.sendKeys(TestDataMiddleName).build().perform();
+	    Log.info("The Middle Name is - "+TestDataMiddleName);
+	   // ExcelTestDataRow=ExcelTestDataSheet.getRow(rowofindex);
+		//ExcekTestDataRowOfCell=ExcelTestDataRow.getCell(16);
+	    //String TestDataLastName=ExcekTestDataRowOfCell.getStringCellValue();
+	    String TestDataLastName=ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", rowofindex, 16);
+		keyBoardActions.sendKeys(Keys.TAB).build().perform(); // will move to EmployeeId
+
+		keyBoardActions.sendKeys(TestDataLastName).build().perform();
+		Log.info("The Last Name is - "+TestDataLastName);
+		keyBoardActions.sendKeys(Keys.TAB).build().perform(); // will move to EmployeeId
+
+		keyBoardActions.sendKeys(Keys.TAB).build().perform(); // will move to Photograph
+
+		keyBoardActions.sendKeys(Keys.ENTER).build().perform();
+		
+		Thread.sleep(10000);//C:\\Users\\revat\\OneDrive\\Desktop\\Photograph.exe
+		java.lang.Runtime.getRuntime().exec("C:\\Users\\revat\\OneDrive\\Desktop\\Photograph.exe");
+		//java.lang.Runtime.getRuntime().exec("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\OrangeHRMApplication\\AutoIt\\EmployeeProfile.exe");
+		Thread.sleep(10000);
+		//id="empPic"
+		
+		 
+        //<label for="employeeId">Employee Id</label>
+        //<input class="formInputText valid" maxlength="10" type="text" name="employeeId" value="0001" id="employeeId">
+        By EmployeeIDProperty=By.name(ElementProperties.getProperty("orangehRMApplicationAddEmoloyePageEmployeeIDProperty"));
+        WebElement EmployeeID=driver.findElement(EmployeeIDProperty);
+        String ExpectedEmployeIDValue=EmployeeID.getAttribute("value");
+        
+       // ExcelTestDataRow=ExcelTestDataSheet.getRow(rowofindex);
+        //XSSFCell PIMPageemployeeID=ExcelTestDataRow.createCell(17);
+       // PIMPageemployeeID.setCellValue(ExpectedEmployeIDValue);
+        
+        
+        ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", rowofindex, rowofindex, ExpectedEmployeIDValue);
+        
+        By SaveProperty=By.id(ElementProperties.getProperty("orangehRMApplicationAddEmoloyePageSaveButtonProperty"));
+        WebElement Save=driver.findElement(SaveProperty);
+        Save.click();///html/body/div[1]/div[3]/div/div[2]/div[1]
+        //<a href="/orangehrm-4.2.0.1/symfony/web/index.php/pim/viewPersonalDetails/empNumber/0020">Personal Details</a>
+       // ExcelTestDataRow=ExcelTestDataSheet.getRow(rowofindex);
+        //XSSFCell ExcelFirstName=ExcelTestDataRow.getCell(18);
+	    String  ExpectedPersonalDetailsPage=ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", rowofindex, rowofindex)
+	    Log.info("The Expected Personal Details Page cantains Text - "+ExpectedPersonalDetailsPage);
+	    //<label for="Full_Name" class="hasTopFieldHelp">Full Name</label>
+	    ///html/body/div[1]/div[3]/div/div[2]/div[1]
+	    By PersonalDetailsPageValidationProperty=By.xpath(ElementProperties.getProperty("orangehRMApplicationPersonalDetailsProperty"));
+        WebElement PersonalDetailsPageValidation=driver.findElement(PersonalDetailsPageValidationProperty);
+        By PersonalDetailsPageValidationTextProperty=By.tagName(ElementProperties.getProperty("orangehRMApplicationPersonalDetailsTextProperty"));
+        WebElement PersonalDetailsPageValidationText=PersonalDetailsPageValidation.findElement(PersonalDetailsPageValidationProperty);
+        
+	    String ActualPersonalDetailsPage=PersonalDetailsPageValidationText.getText();
+	    Log.info("The Actual Personal Details Page cantains Text - "+ActualPersonalDetailsPage);
+	   // Cell PersonalDetailsPage=ExcelTestDataRow.createCell(19);
+	   // PersonalDetailsPage.setCellValue(ActualPersonalDetailsPage);
+	    ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", rowofindex, rowofindex, ActualPersonalDetailsPage);
+	    if(ActualPersonalDetailsPage.contains(ExpectedPersonalDetailsPage)) {
+	    	
+	    	Log.info("Successfully navigated to PersonalDetails page - Pass");
+	    	//XSSFCell personaldetailsvalidationTestResult=ExcelTestDataRow.createCell(20);
+	    	//personaldetailsvalidationTestResult.setCellValue("Successfully Navigated to OrangeHRM Application PersonalDetails Page - PASS");
+     ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", "Sheet1", rowofindex, rowofindex, ActualPersonalDetailsPage);
+	    }
+	    else {
+	    	Log.info("Falied navigated to Personal Details page");
+			//XSSFCell personaldetailsvalidationTestResult=ExcelTestDataRow.createCell(20);
+			//personaldetailsvalidationTestResult.setCellValue("Failed Navigated to OrangeHRM Application PersonalDetails Page - PASS");
+ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ExpectedPersonalDetailsPage, rowofindex, rowofindex, ActualPersonalDetailsPage);
+		}
+	    
+	    //<input value="T" type="text" name="personal[txtEmpFirstName]" class="block default editable" maxlength="30" title="First Name"
+	    // id="personal_txtEmpFirstName" disabled="disabled">
+	    
+	    System.out.println("*********************************************************************");
+	    
+	    
+	    By PersonalDetailsFirstNameproperty=By.id(ElementProperties.getProperty("orangehRMApplicationPersonalDetailsFirstnameProperty"));
+	    WebElement PersonalDetailsFirstName=driver.findElement(PersonalDetailsFirstNameproperty);
+	    String ActualFirstName=PersonalDetailsFirstName.getAttribute("Value");
+	    Log.info("The Expected First Name - "+TestDataFirstName);
+	    Log.info("The Actual First Name - "+ActualFirstName);
+	    ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ActualPersonalDetailsPage, rowofindex, rowofindex, ActualFirstName);
+	    //Cell ActualFirstNameCell=ExcelTestDataRow.createCell(21);
+	    //ActualFirstNameCell.setCellValue(ActualFirstName);
+	    ///html/body/div[1]/div[3]/div/div[1]/div
+	    By ImageProperty=By.xpath(ElementProperties.getProperty("orangehRMApplicationPersonalDetailsImageProperty"));
+	    WebElement image=driver.findElement(ImageProperty);
+	   By imageFullNameproperty= By.tagName(ElementProperties.getProperty("orangehRMApplicationPersonalDetailsImageEmployeeNameProperty"));
+	   WebElement imageFullName=image.findElement(imageFullNameproperty);
+	   String ImageUpperSideFullName=imageFullName.getText();
+	   
+	    if( ActualFirstName.equals(TestDataFirstName) && ImageUpperSideFullName.contains(ActualFirstName)  )
+
+	    {
+	    	System.out.println("***********************************************************");
+	    	Log.info("The Actual First Name - "+ActualFirstName);
+	    	Log.info("The ImageUpperSideFullName - "+ImageUpperSideFullName);
+	    	Log.info("The Full name of personal details page is matched with Profile pic Full name");
+	    	System.out.println("********************************************************");
+	    	Log.info( "Expected first name in personal details matched with actual first name");
+	    	//XSSFCell personaldetailsvalidationFullNameTestResult=ExcelTestDataRow.createCell(22);
+	    	//personaldetailsvalidationFullNameTestResult.setCellValue("Expected full name in personal details matched with actual full name");
+	    	ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ActualFirstName, rowofindex, rowofindex, ImageUpperSideFullName); 
+	    }
+	    else {
+	    	System.out.println("***********************************************************");
+	    	Log.info("The Actual First Name - "+ActualFirstName);
+	    	Log.info("The ImageUpperSideFullName - "+ImageUpperSideFullName);
+	    	Log.info("The Full name of personal details page is NOT matched with Propile pic Full name");
+	    	System.out.println("********************************************************");
+
+	    	Log.info( "Expected first name in personal details is not matched with actual first name");
+	    	//XSSFCell personaldetailsvalidationFullNameTestResult=ExcelTestDataRow.createCell(22);
+	    	//personaldetailsvalidationFullNameTestResult.setCellValue("Expected first name in personal details is not matched with actual first name");
+ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ActualFirstName, rowofindex, rowofindex, ImageUpperSideFullName);
+	    	
+	    }
+	    
+	    
+	    //<input value="Tangudu" type="text" name="personal[txtEmpMiddleName]" class="block default editable" maxlength="30" title="Middle Name" id="personal_txtEmpMiddleName" disabled="disabled">
+	    By PersonalDetailsMiddleNameproperty=By.id(ElementProperties.getProperty("orangehRMApplicationPersonalDetailsMiddlenameProperty"));
+	    WebElement PersonalDetailsMiddleName=driver.findElement(PersonalDetailsMiddleNameproperty);
+	    String ActualMiddleName=PersonalDetailsMiddleName.getAttribute("Value");
+	    Log.info("The Expected Middle Name - "+TestDataMiddleName);
+	    Log.info("The Actual Middle Name - "+ActualMiddleName);
+	   // Cell ActualMiddleNameCell=ExcelTestDataRow.createCell(23);
+	   // ActualMiddleNameCell.setCellValue(ActualMiddleName);
+	    ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ImageUpperSideFullName, rowofindex, rowofindex, ActualMiddleName);
+	    if(ActualMiddleName.equals(TestDataMiddleName)&& ImageUpperSideFullName.contains(ActualMiddleName))
+	    {
+	    	System.out.println("***********************************************************");
+	    	Log.info("The Actual Middle Name - "+ActualMiddleName);
+	    	Log.info("The ImageUpperSideFullName - "+ImageUpperSideFullName);
+	    	Log.info("The Middle name of personal details page is matched with Profile pic Middle name");
+    	    System.out.println("********************************************************");
+    	    Log.info( "Expected Middle name in personal details matched with actual Middle name");
+	    	//XSSFCell personaldetailsvalidationFullNameTestResult=ExcelTestDataRow.createCell(24);
+	    	//personaldetailsvalidationFullNameTestResult.setCellValue("Expected  middle name in personal details matched with actual  middle name");
+ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ImageUpperSideFullName, rowofindex, rowofindex, ActualMiddleName);
+	    }
+	    else {
+	    	System.out.println("***********************************************************");
+	    	Log.info("The Actual Middle Name - "+ActualMiddleName);
+	    	Log.info("The ImageUpperSideFullName - "+ImageUpperSideFullName);
+	    	Log.info("The Middle name of personal details page is  NOT matched with Profile pic Middle name");
+    	    System.out.println("********************************************************");
+    	    Log.info( "Expected Middle name in personal details is not matched with actual Middle name");
+	    	//XSSFCell personaldetailsvalidationMiddleNameTestResult=ExcelTestDataRow.createCell(24);
+	    	//personaldetailsvalidationMiddleNameTestResult.setCellValue("Expected Middle name in personal details is not matched with actual Middle name");
+ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ImageUpperSideFullName, rowofindex, rowofindex, ActualMiddleName);
+	    	
+	    }
+	    
+	    //<input value="Revathi" type="text" name="personal[txtEmpLastName]" class="block default editable" maxlength="30" title="Last Name" id="personal_txtEmpLastName" disabled="disabled">
+	    By PersonalDetailsLastNameproperty=By.id(ElementProperties.getProperty("orangehRMApplicationPersonalDetailsLastnameProperty"));
+	    WebElement PersonalDetailslastName=driver.findElement(PersonalDetailsLastNameproperty);
+	    String ActualLastName=PersonalDetailslastName.getAttribute("Value");
+	    Log.info("The Expected Last Name - "+TestDataLastName);
+	    Log.info("The  Actual Last Name - "+ActualLastName);
+	    //Cell ActualLastNameCell=ExcelTestDataRow.createCell(25);
+	    //ActualLastNameCell.setCellValue(ActualLastName);
+	    ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ActualMiddleName, rowofindex, rowofindex, ActualLastName);
+	    if( ActualLastName.equals(TestDataLastName)&& ImageUpperSideFullName.contains(ActualLastName)) {
+	    	System.out.println("***********************************************************");
+	    	Log.info("The Actual Last Name - "+ActualLastName);
+	    	Log.info("The ImageUpperSideFullName - "+ImageUpperSideFullName);
+	    	System.out.println("The Last name of personal details page is matched with Profile pic Last name");
+	    	System.out.println("********************************************************");
+	    	Log.info( "Expected Last name in personal details matched with actual last name");
+	    	//XSSFCell personaldetailsvalidationLastNameTestResult=ExcelTestDataRow.createCell(26);
+	    	//personaldetailsvalidationLastNameTestResult.setCellValue("Expected Last name in personal details matched with actual Last name");
+ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ActualMiddleName, rowofindex, rowofindex, ActualLastName);
+	    }
+	    else {
+	    	System.out.println("***********************************************************");
+	    	Log.info("The Actual Last Name - "+ActualLastName);
+	    	Log.info("The ImageUpperSideFullName - "+ImageUpperSideFullName);
+	    	Log.info("The Last name of personal details page is NOT matched with Profile pic Last name");
+	    	System.out.println("********************************************************");
+	    	Log.info( "Expected Last name in personal details is not matched with actual Last name");
+	    	//XSSFCell personaldetailsvalidationLastNameTestResult=ExcelTestDataRow.createCell(26);
+	    	//personaldetailsvalidationLastNameTestResult.setCellValue("Expected Last name in personal details is not matched with actual Last name");
+ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ActualMiddleName, rowofindex, rowofindex, ActualLastName);
+	    	
+	    }
+	    
+	    //<input value="0025" type="text" name="personal[txtEmployeeId]" maxlength="10" class="editable" 
+	    //id="personal_txtEmployeeId" disabled="disabled">
+	    
+	    By PersonalDetailsEmployeeIDProperty=By.id(ElementProperties.getProperty("orangehRMApplicationPersonalDetailsEmployeeIDProperty"));
+        WebElement PersonalDetailsEmployeeID=driver.findElement(PersonalDetailsEmployeeIDProperty);
+        String ActualPersonalDetailsEmployeeIDValue=PersonalDetailsEmployeeID.getAttribute("value");
+        Log.info("The Expected EmployeeID - "+ExpectedEmployeIDValue);
+        Log.info("The  Actual EmployeeID - "+ActualPersonalDetailsEmployeeIDValue);
+        ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ActualLastName, rowofindex, rowofindex, ActualPersonalDetailsEmployeeIDValue);
+       // ExcelTestDataRow=ExcelTestDataSheet.getRow(rowofindex);
+       // XSSFCell ActualemployeeID=ExcelTestDataRow.createCell(27);
+       // ActualemployeeID.setCellValue(ActualPersonalDetailsEmployeeIDValue);
+        if(ActualPersonalDetailsEmployeeIDValue.equals(ExpectedEmployeIDValue)) {
+        	Log.info( "Expected EmployeID in personal details matched with actual  EmployeID name");
+	    	//XSSFCell personaldetailsvalidationLastNameTestResult=ExcelTestDataRow.createCell(28);
+	    	//personaldetailsvalidationLastNameTestResult.setCellValue("Expected  EmployeID name in personal details matched with actual  EmployeID name");
+ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ActualLastName, rowofindex, rowofindex, ActualPersonalDetailsEmployeeIDValue);
+	    }
+	    else {
+	    	Log.info( "Expected EmployeID in personal details is not matched with actual  EmployeID name");
+	    	//XSSFCell personaldetailsvalidationLastNameTestResult=ExcelTestDataRow.createCell(28);
+	    	//personaldetailsvalidationLastNameTestResult.setCellValue("Expected  EmployeID name in personal details is not matched with actual  EmployeID name");
+ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ActualLastName, rowofindex, rowofindex, ActualPersonalDetailsEmployeeIDValue);
+	    	
+	    }
+        By ImageValidationProperty=By.id(ElementProperties.getProperty("OrangeHRMApplicationPersonalDetailsProfileProperty"));
+		WebElement ImageValidation=driver.findElement(ImageValidationProperty);
+		 boolean flag=ImageValidation.isDisplayed();
+		 if(flag) {
+			 Log.info("The Profile is Displayed SuccessFully in the Personal Details Page - "+flag);
+		 }
+		 else {
+			 Log.info("The Profile is  Not Displayed SuccessFully in the Personal Details Page - "+flag);
+
+		 }
+       System.out.println("****************************************************************************");
+        driver.navigate().back();
+        driver.navigate().refresh();
+		}
+		
+	}
+	@Test(priority=6,description=" Back to Login Page")
+	public void LogOut() throws IOException {
+		By WelcomeAdminProperty=By.id(ElementProperties.getProperty("orangehRMApplicationHomePageWelComAdminProperty"));
+		 //identify the element by using the property
+		 WebElement welcomeAdmin=driver.findElement(WelcomeAdminProperty);
+		 welcomeAdmin.click();
+		 By logOutProperty=By.linkText(ElementProperties.getProperty("orangehRMApplicationHomePageLogOutProperty"));
+		 WebElement logOut=driver.findElement(logOutProperty);
+		 logOut.click();
+		
+			//XSSFRow ExcelTestDataRow=ExcelTestDataSheet.getRow(1);
+			//XSSFCell ExcelTestDataRowOfCell=ExcelTestDataRow.getCell(29);
+		    //String  TestDataLoginPanel=ExcelTestDataRowOfCell.getStringCellValue();
+ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ApplicationUrlAddress, 0, 0)
+			String ExpectedLoginPageText=TestDataLoginPanel;
+			Log.info("The login page should contains text -"+ExpectedLoginPageText);
+			//<div id="logInPanelHeading">LOGIN Panel</div>
+			By LoginPanelProperty=By.id(ElementProperties.getProperty("orangeHRMApplicationLogInPageLoginPanelProperty"));
+			WebElement LoginPanel=driver.findElement(LoginPanelProperty);
+			String ActualLoginPageText=LoginPanel.getText();
+			//Cell loginPanel=ExcelTestDataRow.createCell(30);
+			//loginPanel.setCellValue(ActualLoginPageText);
+      ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ExpectedLoginPageText, 0, 0, ActualLoginPageText);
+			Log.info("The Actual login panel should cantains - "+ActualLoginPageText);
+			if(ActualLoginPageText.equals(ExpectedLoginPageText)) {
+				Log.info("Successfully navigated to login page - PASS");
+				//Cell loginPanelTestResult=ExcelTestDataRow.createCell(31);
+				//loginPanelTestResult.setCellValue("Successfully navigated to login page - PASS");
+			ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ExpectedLoginPageText, 0, 0, ActualLoginPageText);
+			}
+			else {
+				Log.info("Failed navigated to login page - FAIL");
+				//Cell loginPanelTestResult=ExcelTestDataRow.createCell(31);
+				//loginPanelTestResult.setCellValue("Failed navigated to login page - FAIL");
+      ExcelOperationMethods.setRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\TestNG\\src\\TestNgExcelFiles\\AddEmployee.xlsx", ExpectedLoginPageText, 0, 0, ActualLoginPageText);
+
+			}
+			
+		    Log.info("******************************************************************************8");
+	}
+	
+
+}

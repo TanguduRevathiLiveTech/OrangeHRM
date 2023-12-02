@@ -1,0 +1,27 @@
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The number of rows - 4
+[main] INFO Log - The User Name is  - Revathi
+[main] INFO Log - The Password is - Revathi@123
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The User Name is  - rev
+[main] INFO Log - The Password is - rev123
+[main] INFO Log -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+[main] INFO Log - The User Name is  - tangudu
+[main] INFO Log - The Password is - tangudu123
+[main] INFO Log -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+[main] INFO Log - The User Name is  - Revathi
+[main] INFO Log - The Password is - Revathi@123
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - *********Successfully closed OrangeHRM application*********

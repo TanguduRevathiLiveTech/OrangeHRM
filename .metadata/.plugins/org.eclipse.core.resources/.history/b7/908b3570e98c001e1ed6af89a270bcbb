@@ -1,0 +1,58 @@
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log -  The expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[TestNG-tests-1] INFO Log -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[TestNG-tests-1] INFO Log -  OrangeHRM Application LogIn Page Text Validation Successfull - PASS 
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - OrangeHRM Applicaiton LogIn WebPage Contains Logo - PASS 
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-1] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[TestNG-tests-1] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[TestNG-tests-1] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-1] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[TestNG-tests-1] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-1] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[TestNG-tests-1] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-1] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[TestNG-tests-1] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-1] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[TestNG-tests-1] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log -  The linkedin Logo is displayed SuccessFully
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log -  The Facebook Logo is displayed SuccessFully
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log -  The YouTube Logo is displayed SuccessFully
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log -  The YouTube Logo is displayed SuccessFully
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - The expected coptRight - OrangeHRM, Inc
+[TestNG-tests-1] INFO Log - The actual CopyRight - OrangeHRM, Inc
+[TestNG-tests-1] INFO Log - The expected coptRight matched with actual copyright
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - The expected Alternative Select Option - -- Select --
+[TestNG-tests-1] INFO Log - The actual AlternativeSelectOption - -- Select --
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - The expected Alternative Login - Login
+[TestNG-tests-1] INFO Log - The actual Alternative Login - Login
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************

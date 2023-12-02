@@ -1,0 +1,41 @@
+package OrangeHRMApplicationTestCases;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationWebPages.OrangeHRM_LoginPage;
+import com.utility.ExcelOperationMethods;
+import com.utility.ExcelOperationMethodsMultipleData;
+
+public class OrangeHRM_LoginPageTest extends BaseTest{
+	@Test(priority=1,description="Validating OrangeHRM Application LogIn Page Text Test")
+public void validatingLogInPanelTextTest() {
+		OrangeHRM_LoginPage loginpage= new OrangeHRM_LoginPage();
+		loginpage.validatingLogInPanelText();
+	}
+	
+	@Test(priority=2,description=" Validating OrangeHRM Application LogIn Page Logo Test ")
+	public void validatingOrangeHRMApplicationLogInPageLogoTest()
+	{
+	OrangeHRM_LoginPage loginpage = new OrangeHRM_LoginPage();
+	loginpage.validatingOrangeHRMApplicationLogInPageLogo();
+	}
+
+	@Test(priority=3,description=" Validating OrangeHRM Application LogIn Page Log Test ")
+	public void  ValidatingLogInFunctionality() throws IOException
+	{
+	 int LastRowCount=ExcelOperationMethodsMultipleData.getRowValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\OrangeHrmApplication_POM\\src\\main\\java\\com\\OrangeHRMApplicationTestDataFiles\\Multipledata.xlsx", "Sheet1");
+		for(int rowcount=1;rowcount<=LastRowCount;rowcount++) {
+		
+		String UserName=ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\OrangeHrmApplication_POM\\src\\main\\java\\com\\OrangeHRMApplicationTestDataFiles\\Multipledata.xlsx", "Sheet1", rowcount,0 );
+		String Password=ExcelOperationMethods.getRowOfCellValue("C:\\Users\\revat\\OneDrive\\Desktop\\OrangeHRMApplication\\OrangeHrmApplication_POM\\src\\main\\java\\com\\OrangeHRMApplicationTestDataFiles\\Multipledata.xlsx", "Sheet1", rowcount,1 );
+		OrangeHRM_LoginPage loginpage = new OrangeHRM_LoginPage();
+
+		loginpage.ValidatingLogInFunctionality(UserName, Password);
+		
+		}
+		
+}
+}

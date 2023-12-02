@@ -1,0 +1,1995 @@
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The Expected login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The User Name is  - Revathi
+[main] INFO Log - The Password is - Revathi@123
+[main] INFO Log - The Expected Text Homae page should contains - Revathi@123
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The Expected login page should contains text -Invalid credentials
+[main] INFO Log - The User Name is  - Revathi
+[main] INFO Log - The Password is - Revathi@123
+[main] INFO Log - The Expected Text Homae page should contains - Revathi@123
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The Expected login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The User Name is  - Revathi
+[main] INFO Log - The Password is - Revathi@123
+[main] INFO Log - The Expected Text Homae page should contains - Revathi@123
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+[main] INFO Log - The User Name is  - rev
+[main] INFO Log - The Password is - rev123
+[main] INFO Log -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+[main] INFO Log - The User Name is  - tangudu
+[main] INFO Log - The Password is - tangudu123
+[main] INFO Log -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+[main] INFO Log - The User Name is  - Revathi
+[main] INFO Log - The Password is - Revathi@123
+[main] INFO Log - The Expected Text Homae page should contains - Revathi@123
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Test Data for User name - Revathi
+[main] INFO Log - The Test Data for Password - Revathi@123
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The Expected EmployeeList Page Text - Employee Information
+[main] INFO Log - The Actual Home Page Text - Employee Information
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application Employee list Page - PASS
+[main] INFO Log - The number of rows - 51
+[main] INFO Log -  | 
+[main] INFO Log - 0100 | 
+[main] INFO Log - a b | 
+[main] INFO Log - c | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0109 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0110 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0111 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0112 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0113 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0114 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0115 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0116 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0117 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0118 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0119 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0120 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0124 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0140 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0144 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0145 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0146 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0147 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0148 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0149 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0150 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0151 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0152 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0153 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0154 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0155 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0156 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0157 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0158 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0159 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0191 | 
+[main] INFO Log - w c | 
+[main] INFO Log - q | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0061 | 
+[main] INFO Log - hi hlo | 
+[main] INFO Log - rev | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0013 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0016 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0018 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0023 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0034 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0037 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0040 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0043 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0046 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0049 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0052 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0055 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0058 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0063 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0066 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0069 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0074 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The number of rows - 4
+[main] INFO Log - The User Name is  - Revathi
+[main] INFO Log - The Password is - Revathi@123
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The User Name is  - rev
+[main] INFO Log - The Password is - rev123
+[main] INFO Log -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+[main] INFO Log - The User Name is  - tangudu
+[main] INFO Log - The Password is - tangudu123
+[main] INFO Log -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+[main] INFO Log - The User Name is  - Revathi
+[main] INFO Log - The Password is - Revathi@123
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The expected  title login page should contains  -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Failed navigated to login page - FAIL
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The expected  title login page should contains  -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Failed navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Revathi
+[main] INFO Log - The Test Data for Password - Revathi@123
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The expected  title login page should contains  -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Failed navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Revathi
+[main] INFO Log - The Test Data for Password - Revathi@123
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log - The Expected Text that Add Employee page should contains - Add Employee
+[main] INFO Log - The Actual Text that Add Employee page should - Add Employee
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The expected  title login page should contains  -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Failed navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Revathi
+[main] INFO Log - The Test Data for Password - Revathi@123
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log - The Expected Text that Add Employee page should contains - Add Employee
+[main] INFO Log - The Actual Text that Add Employee page should - Add Employee
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+[main] INFO Log - The First Name is - T
+[main] INFO Log - The Middle Name is - Tangudu
+[main] INFO Log - The Last Name is - Revathi
+[main] INFO Log - The Expected Personal Details Page cantains Text - Personal Details
+[main] INFO Log - The Actual Personal Details Page cantains Text - Personal Details
+[main] INFO Log - Successfully navigated to PersonalDetails page - Pass
+[main] INFO Log - The Expected First Name - T
+[main] INFO Log - The Actual First Name - T
+[main] INFO Log - The Actual First Name - T
+[main] INFO Log - The ImageUpperSideFullName - T Tangudu Revathi
+[main] INFO Log - The Full name of personal details page is matched with Profile pic Full name
+[main] INFO Log - Expected first name in personal details matched with actual first name
+[main] INFO Log - The Expected Middle Name - Tangudu
+[main] INFO Log - The Actual Middle Name - Tangudu
+[main] INFO Log - The Actual Middle Name - Tangudu
+[main] INFO Log - The ImageUpperSideFullName - T Tangudu Revathi
+[main] INFO Log - The Middle name of personal details page is matched with Profile pic Middle name
+[main] INFO Log - Expected Middle name in personal details matched with actual Middle name
+[main] INFO Log - The Expected Last Name - Revathi
+[main] INFO Log - The  Actual Last Name - Revathi
+[main] INFO Log - The Actual Last Name - Revathi
+[main] INFO Log - The ImageUpperSideFullName - T Tangudu Revathi
+[main] INFO Log - Expected Last name in personal details matched with actual last name
+[main] INFO Log - The Expected EmployeeID - 0192
+[main] INFO Log - The  Actual EmployeeID - 0192
+[main] INFO Log - Expected EmployeID in personal details matched with actual  EmployeID name
+[main] INFO Log - The Profile is Displayed SuccessFully in the Personal Details Page - true
+[main] INFO Log - The First Name is - rev2
+[main] INFO Log - The Middle Name is - re1223
+[main] INFO Log - The Last Name is - rev12345
+[main] INFO Log - The Expected Personal Details Page cantains Text - Personal Details
+[main] INFO Log - The Actual Personal Details Page cantains Text - Personal Details
+[main] INFO Log - Successfully navigated to PersonalDetails page - Pass
+[main] INFO Log - The Expected First Name - rev2
+[main] INFO Log - The Actual First Name - rev2
+[main] INFO Log - The Actual First Name - rev2
+[main] INFO Log - The ImageUpperSideFullName - rev2 re1223 rev12345
+[main] INFO Log - The Full name of personal details page is matched with Profile pic Full name
+[main] INFO Log - Expected first name in personal details matched with actual first name
+[main] INFO Log - The Expected Middle Name - re1223
+[main] INFO Log - The Actual Middle Name - re1223
+[main] INFO Log - The Actual Middle Name - re1223
+[main] INFO Log - The ImageUpperSideFullName - rev2 re1223 rev12345
+[main] INFO Log - The Middle name of personal details page is matched with Profile pic Middle name
+[main] INFO Log - Expected Middle name in personal details matched with actual Middle name
+[main] INFO Log - The Expected Last Name - rev12345
+[main] INFO Log - The  Actual Last Name - rev12345
+[main] INFO Log - The Actual Last Name - rev12345
+[main] INFO Log - The ImageUpperSideFullName - rev2 re1223 rev12345
+[main] INFO Log - Expected Last name in personal details matched with actual last name
+[main] INFO Log - The Expected EmployeeID - 0193
+[main] INFO Log - The  Actual EmployeeID - 0193
+[main] INFO Log - Expected EmployeID in personal details matched with actual  EmployeID name
+[main] INFO Log - The Profile is Displayed SuccessFully in the Personal Details Page - true
+[main] INFO Log - The First Name is - tangudu3
+[main] INFO Log - The Middle Name is - tang12
+[main] INFO Log - The Last Name is - tang567
+[main] INFO Log - The Expected Personal Details Page cantains Text - Personal Details
+[main] INFO Log - The Actual Personal Details Page cantains Text - Personal Details
+[main] INFO Log - Successfully navigated to PersonalDetails page - Pass
+[main] INFO Log - The Expected First Name - tangudu3
+[main] INFO Log - The Actual First Name - tangudu3
+[main] INFO Log - The Actual First Name - tangudu3
+[main] INFO Log - The ImageUpperSideFullName - tangudu3 tang12 tang567
+[main] INFO Log - The Full name of personal details page is matched with Profile pic Full name
+[main] INFO Log - Expected first name in personal details matched with actual first name
+[main] INFO Log - The Expected Middle Name - tang12
+[main] INFO Log - The Actual Middle Name - tang12
+[main] INFO Log - The Actual Middle Name - tang12
+[main] INFO Log - The ImageUpperSideFullName - tangudu3 tang12 tang567
+[main] INFO Log - The Middle name of personal details page is matched with Profile pic Middle name
+[main] INFO Log - Expected Middle name in personal details matched with actual Middle name
+[main] INFO Log - The Expected Last Name - tang567
+[main] INFO Log - The  Actual Last Name - tang567
+[main] INFO Log - The Actual Last Name - tang567
+[main] INFO Log - The ImageUpperSideFullName - tangudu3 tang12 tang567
+[main] INFO Log - Expected Last name in personal details matched with actual last name
+[main] INFO Log - The Expected EmployeeID - 0194
+[main] INFO Log - The  Actual EmployeeID - 0194
+[main] INFO Log - Expected EmployeID in personal details matched with actual  EmployeID name
+[main] INFO Log - The Profile is Displayed SuccessFully in the Personal Details Page - true
+[main] INFO Log - The First Name is - 
+[main] INFO Log - The Middle Name is - 
+[main] INFO Log - The Last Name is - 
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The expected  title login page should contains  -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Failed navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Revathi
+[main] INFO Log - The Test Data for Password - Revathi@123
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log - The Expected Text that Add Employee page should contains - Add Employee
+[main] INFO Log - The Actual Text that Add Employee page should - Add Employee
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+[main] INFO Log - The First Name is - T
+[main] INFO Log - The Middle Name is - Tangudu
+[main] INFO Log - The Last Name is - Revathi
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - The expected  title login page should contains  -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Failed navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Revathi
+[main] INFO Log - The Test Data for Password - Revathi@123
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log - The Expected Text that Add Employee page should contains - Add Employee
+[main] INFO Log - The Actual Text that Add Employee page should - Add Employee
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+[main] INFO Log - The First Name is - T
+[main] INFO Log - The Middle Name is - Tangudu
+[main] INFO Log - The Last Name is - Revathi
+[main] INFO Log - The Expected Personal Details Page cantains Text - Personal Details
+[main] INFO Log - The Actual Personal Details Page cantains Text - Personal Details
+[main] INFO Log - Successfully navigated to PersonalDetails page - Pass
+[main] INFO Log - The Expected First Name - T
+[main] INFO Log - The Actual First Name - T
+[main] INFO Log - The Actual First Name - T
+[main] INFO Log - The ImageUpperSideFullName - T Tangudu Revathi
+[main] INFO Log - The Full name of personal details page is matched with Profile pic Full name
+[main] INFO Log - Expected first name in personal details matched with actual first name
+[main] INFO Log - The Expected Middle Name - Tangudu
+[main] INFO Log - The Actual Middle Name - Tangudu
+[main] INFO Log - The Actual Middle Name - Tangudu
+[main] INFO Log - The ImageUpperSideFullName - T Tangudu Revathi
+[main] INFO Log - The Middle name of personal details page is matched with Profile pic Middle name
+[main] INFO Log - Expected Middle name in personal details matched with actual Middle name
+[main] INFO Log - The Expected Last Name - Revathi
+[main] INFO Log - The  Actual Last Name - Revathi
+[main] INFO Log - The Actual Last Name - Revathi
+[main] INFO Log - The ImageUpperSideFullName - T Tangudu Revathi
+[main] INFO Log - Expected Last name in personal details matched with actual last name
+[main] INFO Log - The Expected EmployeeID - 0195
+[main] INFO Log - The  Actual EmployeeID - 0195
+[main] INFO Log - Expected EmployeID in personal details matched with actual  EmployeID name
+[main] INFO Log - The Profile is Displayed SuccessFully in the Personal Details Page - true
+[main] INFO Log - The First Name is - rev2
+[main] INFO Log - The Middle Name is - re1223
+[main] INFO Log - The Last Name is - rev12345
+[main] INFO Log - The Expected Personal Details Page cantains Text - Personal Details
+[main] INFO Log - The Actual Personal Details Page cantains Text - Personal Details
+[main] INFO Log - Successfully navigated to PersonalDetails page - Pass
+[main] INFO Log - The Expected First Name - rev2
+[main] INFO Log - The Actual First Name - rev2
+[main] INFO Log - The Actual First Name - rev2
+[main] INFO Log - The ImageUpperSideFullName - rev2 re1223 rev12345
+[main] INFO Log - The Full name of personal details page is matched with Profile pic Full name
+[main] INFO Log - Expected first name in personal details matched with actual first name
+[main] INFO Log - The Expected Middle Name - re1223
+[main] INFO Log - The Actual Middle Name - re1223
+[main] INFO Log - The Actual Middle Name - re1223
+[main] INFO Log - The ImageUpperSideFullName - rev2 re1223 rev12345
+[main] INFO Log - The Middle name of personal details page is matched with Profile pic Middle name
+[main] INFO Log - Expected Middle name in personal details matched with actual Middle name
+[main] INFO Log - The Expected Last Name - rev12345
+[main] INFO Log - The  Actual Last Name - rev12345
+[main] INFO Log - The Actual Last Name - rev12345
+[main] INFO Log - The ImageUpperSideFullName - rev2 re1223 rev12345
+[main] INFO Log - Expected Last name in personal details matched with actual last name
+[main] INFO Log - The Expected EmployeeID - 0196
+[main] INFO Log - The  Actual EmployeeID - 0196
+[main] INFO Log - Expected EmployeID in personal details matched with actual  EmployeID name
+[main] INFO Log - The Profile is Displayed SuccessFully in the Personal Details Page - true
+[main] INFO Log - The First Name is - tangudu3
+[main] INFO Log - The Middle Name is - tang12
+[main] INFO Log - The Last Name is - tang567
+[main] INFO Log - The Expected Personal Details Page cantains Text - Personal Details
+[main] INFO Log - The Actual Personal Details Page cantains Text - Personal Details
+[main] INFO Log - Successfully navigated to PersonalDetails page - Pass
+[main] INFO Log - The Expected First Name - tangudu3
+[main] INFO Log - The Actual First Name - tangudu3
+[main] INFO Log - The Actual First Name - tangudu3
+[main] INFO Log - The ImageUpperSideFullName - tangudu3 tang12 tang567
+[main] INFO Log - The Full name of personal details page is matched with Profile pic Full name
+[main] INFO Log - Expected first name in personal details matched with actual first name
+[main] INFO Log - The Expected Middle Name - tang12
+[main] INFO Log - The Actual Middle Name - tang12
+[main] INFO Log - The Actual Middle Name - tang12
+[main] INFO Log - The ImageUpperSideFullName - tangudu3 tang12 tang567
+[main] INFO Log - The Middle name of personal details page is matched with Profile pic Middle name
+[main] INFO Log - Expected Middle name in personal details matched with actual Middle name
+[main] INFO Log - The Expected Last Name - tang567
+[main] INFO Log - The  Actual Last Name - tang567
+[main] INFO Log - The Actual Last Name - tang567
+[main] INFO Log - The ImageUpperSideFullName - tangudu3 tang12 tang567
+[main] INFO Log - Expected Last name in personal details matched with actual last name
+[main] INFO Log - The Expected EmployeeID - 0197
+[main] INFO Log - The  Actual EmployeeID - 0197
+[main] INFO Log - Expected EmployeID in personal details matched with actual  EmployeID name
+[main] INFO Log - The Profile is Displayed SuccessFully in the Personal Details Page - true
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - ******************************************************************************8
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Test Data for User name - Revathi
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The Expected EmployeeList Page Text - Employee Information
+[main] INFO Log - The Actual Home Page Text - Employee Information
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application Employee list Page - PASS
+[main] INFO Log - The number of rows - 51
+[main] INFO Log -  | 
+[main] INFO Log - 0100 | 
+[main] INFO Log - a b | 
+[main] INFO Log - c | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0109 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0110 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0111 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0112 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0113 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0114 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0115 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0116 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0117 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0118 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0119 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0120 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0124 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0140 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0144 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0145 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0146 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0147 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0148 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0149 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0150 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0151 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0152 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0153 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0154 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0155 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0156 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0157 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0158 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0159 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0191 | 
+[main] INFO Log - w c | 
+[main] INFO Log - q | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0061 | 
+[main] INFO Log - hi hlo | 
+[main] INFO Log - rev | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0013 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0016 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0018 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0023 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0034 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0037 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0040 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0043 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0046 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0049 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0052 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0055 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0058 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0063 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0066 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0069 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0074 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Test Data for User name - Revathi
+[main] INFO Log - The Test Data for Password - Revathi@123
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The Expected EmployeeList Page Text - Employee Information
+[main] INFO Log - The Actual Home Page Text - Employee Information
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application Employee list Page - PASS
+[main] INFO Log - The number of rows - 51
+[main] INFO Log -  | 
+[main] INFO Log - 0100 | 
+[main] INFO Log - a b | 
+[main] INFO Log - c | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0109 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0110 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0111 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0112 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0113 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0114 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0115 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0116 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0117 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0118 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0119 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0120 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0124 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0140 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0144 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0145 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0146 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0147 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0148 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0149 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0150 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0151 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0152 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0153 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0154 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0155 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0156 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0157 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0158 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0159 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0191 | 
+[main] INFO Log - w c | 
+[main] INFO Log - q | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0061 | 
+[main] INFO Log - hi hlo | 
+[main] INFO Log - rev | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0013 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0016 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0018 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0023 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0034 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0037 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0040 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0043 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0046 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0049 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0052 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0055 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0058 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0063 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0066 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0069 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0074 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Test Data for User name - Revathi
+[main] INFO Log - The Test Data for Password - Revathi@123
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The Expected EmployeeList Page Text - Employee Information
+[main] INFO Log - The Actual Home Page Text - Employee Information
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application Employee list Page - PASS
+[main] INFO Log - The number of rows - 51
+[main] INFO Log -  | 
+[main] INFO Log - 0100 | 
+[main] INFO Log - a b | 
+[main] INFO Log - c | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0109 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0110 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0111 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0112 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0113 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0114 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0115 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0116 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0117 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0118 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0119 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0120 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0124 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0140 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0144 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0145 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0146 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0147 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0148 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0149 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0150 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0151 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0152 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0153 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0154 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0155 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0156 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0157 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0158 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0159 | 
+[main] INFO Log - d e | 
+[main] INFO Log - f | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0191 | 
+[main] INFO Log - w c | 
+[main] INFO Log - q | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0061 | 
+[main] INFO Log - hi hlo | 
+[main] INFO Log - rev | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0013 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0016 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0018 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0023 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0034 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0037 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0040 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0043 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0046 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0049 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0052 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0055 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0058 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0063 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0066 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0069 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - 0074 | 
+[main] INFO Log - rev2 re1223 | 
+[main] INFO Log - rev12345 | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log -  | 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************

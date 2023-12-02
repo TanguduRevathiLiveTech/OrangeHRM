@@ -1,0 +1,1995 @@
+2023-11-24 18:53:10,088 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-24 18:53:10,530 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-24 18:53:10,562 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-24 18:53:10,590 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-24 18:53:11,410 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-24 18:53:11,415 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-24 18:53:12,843 - Log -INFO - The User Name is  - Revathi
+2023-11-24 18:53:12,853 - Log -INFO - The Password is - Revathi@123
+2023-11-24 18:53:12,904 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-25 11:25:26,039 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-25 11:25:26,605 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-25 11:25:26,642 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-25 11:25:26,694 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-25 11:25:32,987 - Log -INFO - The User Name is  - Revathi
+2023-11-25 11:25:32,999 - Log -INFO - The Password is - Revathi@123
+2023-11-25 11:25:33,149 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-25 11:25:48,918 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-25 11:25:48,924 - Log -INFO - *********************************************************************
+2023-11-25 12:18:27,944 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-25 12:18:28,420 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-25 12:18:28,454 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-25 12:18:28,496 - Log -INFO - The Expected login page should contains text -Invalid credentials
+2023-11-25 12:18:29,367 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-25 12:18:29,370 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-25 12:18:31,790 - Log -INFO - The User Name is  - Revathi
+2023-11-25 12:18:31,794 - Log -INFO - The Password is - Revathi@123
+2023-11-25 12:18:31,811 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-25 12:18:31,931 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-25 12:18:31,935 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-25 12:18:33,087 - Log -INFO - The User Name is  - rev
+2023-11-25 12:18:33,095 - Log -INFO - The Password is - rev123
+2023-11-25 12:18:33,100 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-25 12:18:34,267 - Log -INFO - The User Name is  - tangudu
+2023-11-25 12:18:34,277 - Log -INFO - The Password is - tangudu123
+2023-11-25 12:18:34,284 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-25 12:18:36,735 - Log -INFO - The User Name is  - Revathi
+2023-11-25 12:18:36,735 - Log -INFO - The Password is - Revathi@123
+2023-11-25 12:18:36,761 - Log -INFO - The Expected Text Homae page should contains - Revathi@123
+2023-11-25 12:18:37,167 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-25 12:18:37,167 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-25 12:18:40,431 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-25 12:18:40,512 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-25 12:18:40,512 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-25 12:18:41,084 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-25 12:18:41,084 - Log -INFO - *********************************************************************
+2023-11-26 12:05:10,387 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-26 12:05:10,929 - Log -INFO - The Test Data for User name - Revathi
+2023-11-26 12:05:10,988 - Log -INFO - The Test Data for Password - Revathi@123
+2023-11-26 12:05:15,144 - Log -INFO - The expected Element Text - Admin
+2023-11-26 12:05:15,164 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-26 12:05:15,166 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-26 12:05:18,284 - Log -INFO - The Expected EmployeeList Page Text - Employee Information
+2023-11-26 12:05:18,324 - Log -INFO - The Actual Home Page Text - Employee Information
+2023-11-26 12:05:18,327 - Log -INFO -  Succesfully Navigated to OrangeHRM Application Employee list Page - PASS
+2023-11-26 12:05:18,445 - Log -INFO - The number of rows - 51
+2023-11-26 12:05:18,498 - Log -INFO -  | 
+2023-11-26 12:05:18,510 - Log -INFO - 0100 | 
+2023-11-26 12:05:18,523 - Log -INFO - a b | 
+2023-11-26 12:05:18,535 - Log -INFO - c | 
+2023-11-26 12:05:18,545 - Log -INFO -  | 
+2023-11-26 12:05:18,558 - Log -INFO -  | 
+2023-11-26 12:05:18,572 - Log -INFO -  | 
+2023-11-26 12:05:18,583 - Log -INFO -  | 
+2023-11-26 12:05:18,612 - Log -INFO -  | 
+2023-11-26 12:05:18,625 - Log -INFO - 0109 | 
+2023-11-26 12:05:18,640 - Log -INFO - d e | 
+2023-11-26 12:05:18,655 - Log -INFO - f | 
+2023-11-26 12:05:18,670 - Log -INFO -  | 
+2023-11-26 12:05:18,693 - Log -INFO -  | 
+2023-11-26 12:05:18,709 - Log -INFO -  | 
+2023-11-26 12:05:18,724 - Log -INFO -  | 
+2023-11-26 12:05:18,758 - Log -INFO -  | 
+2023-11-26 12:05:18,775 - Log -INFO - 0110 | 
+2023-11-26 12:05:18,789 - Log -INFO - d e | 
+2023-11-26 12:05:18,799 - Log -INFO - f | 
+2023-11-26 12:05:18,812 - Log -INFO -  | 
+2023-11-26 12:05:18,822 - Log -INFO -  | 
+2023-11-26 12:05:18,835 - Log -INFO -  | 
+2023-11-26 12:05:18,847 - Log -INFO -  | 
+2023-11-26 12:05:18,875 - Log -INFO -  | 
+2023-11-26 12:05:18,886 - Log -INFO - 0111 | 
+2023-11-26 12:05:18,896 - Log -INFO - d e | 
+2023-11-26 12:05:18,906 - Log -INFO - f | 
+2023-11-26 12:05:18,919 - Log -INFO -  | 
+2023-11-26 12:05:18,934 - Log -INFO -  | 
+2023-11-26 12:05:18,947 - Log -INFO -  | 
+2023-11-26 12:05:18,959 - Log -INFO -  | 
+2023-11-26 12:05:18,980 - Log -INFO -  | 
+2023-11-26 12:05:18,993 - Log -INFO - 0112 | 
+2023-11-26 12:05:19,003 - Log -INFO - d e | 
+2023-11-26 12:05:19,013 - Log -INFO - f | 
+2023-11-26 12:05:19,022 - Log -INFO -  | 
+2023-11-26 12:05:19,032 - Log -INFO -  | 
+2023-11-26 12:05:19,045 - Log -INFO -  | 
+2023-11-26 12:05:19,056 - Log -INFO -  | 
+2023-11-26 12:05:19,087 - Log -INFO -  | 
+2023-11-26 12:05:19,098 - Log -INFO - 0113 | 
+2023-11-26 12:05:19,110 - Log -INFO - d e | 
+2023-11-26 12:05:19,121 - Log -INFO - f | 
+2023-11-26 12:05:19,130 - Log -INFO -  | 
+2023-11-26 12:05:19,141 - Log -INFO -  | 
+2023-11-26 12:05:19,151 - Log -INFO -  | 
+2023-11-26 12:05:19,164 - Log -INFO -  | 
+2023-11-26 12:05:19,197 - Log -INFO -  | 
+2023-11-26 12:05:19,207 - Log -INFO - 0114 | 
+2023-11-26 12:05:19,218 - Log -INFO - d e | 
+2023-11-26 12:05:19,230 - Log -INFO - f | 
+2023-11-26 12:05:19,239 - Log -INFO -  | 
+2023-11-26 12:05:19,248 - Log -INFO -  | 
+2023-11-26 12:05:19,258 - Log -INFO -  | 
+2023-11-26 12:05:19,268 - Log -INFO -  | 
+2023-11-26 12:05:19,287 - Log -INFO -  | 
+2023-11-26 12:05:19,299 - Log -INFO - 0115 | 
+2023-11-26 12:05:19,310 - Log -INFO - d e | 
+2023-11-26 12:05:19,320 - Log -INFO - f | 
+2023-11-26 12:05:19,330 - Log -INFO -  | 
+2023-11-26 12:05:19,339 - Log -INFO -  | 
+2023-11-26 12:05:19,349 - Log -INFO -  | 
+2023-11-26 12:05:19,358 - Log -INFO -  | 
+2023-11-26 12:05:19,380 - Log -INFO -  | 
+2023-11-26 12:05:19,390 - Log -INFO - 0116 | 
+2023-11-26 12:05:19,400 - Log -INFO - d e | 
+2023-11-26 12:05:19,409 - Log -INFO - f | 
+2023-11-26 12:05:19,419 - Log -INFO -  | 
+2023-11-26 12:05:19,427 - Log -INFO -  | 
+2023-11-26 12:05:19,436 - Log -INFO -  | 
+2023-11-26 12:05:19,447 - Log -INFO -  | 
+2023-11-26 12:05:19,479 - Log -INFO -  | 
+2023-11-26 12:05:19,489 - Log -INFO - 0117 | 
+2023-11-26 12:05:19,501 - Log -INFO - d e | 
+2023-11-26 12:05:19,510 - Log -INFO - f | 
+2023-11-26 12:05:19,518 - Log -INFO -  | 
+2023-11-26 12:05:19,527 - Log -INFO -  | 
+2023-11-26 12:05:19,537 - Log -INFO -  | 
+2023-11-26 12:05:19,546 - Log -INFO -  | 
+2023-11-26 12:05:19,573 - Log -INFO -  | 
+2023-11-26 12:05:19,584 - Log -INFO - 0118 | 
+2023-11-26 12:05:19,596 - Log -INFO - d e | 
+2023-11-26 12:05:19,606 - Log -INFO - f | 
+2023-11-26 12:05:19,617 - Log -INFO -  | 
+2023-11-26 12:05:19,628 - Log -INFO -  | 
+2023-11-26 12:05:19,640 - Log -INFO -  | 
+2023-11-26 12:05:19,651 - Log -INFO -  | 
+2023-11-26 12:05:19,682 - Log -INFO -  | 
+2023-11-26 12:05:19,692 - Log -INFO - 0119 | 
+2023-11-26 12:05:19,702 - Log -INFO - d e | 
+2023-11-26 12:05:19,715 - Log -INFO - f | 
+2023-11-26 12:05:19,724 - Log -INFO -  | 
+2023-11-26 12:05:19,735 - Log -INFO -  | 
+2023-11-26 12:05:19,745 - Log -INFO -  | 
+2023-11-26 12:05:19,755 - Log -INFO -  | 
+2023-11-26 12:05:19,794 - Log -INFO -  | 
+2023-11-26 12:05:19,805 - Log -INFO - 0120 | 
+2023-11-26 12:05:19,815 - Log -INFO - d e | 
+2023-11-26 12:05:19,825 - Log -INFO - f | 
+2023-11-26 12:05:19,836 - Log -INFO -  | 
+2023-11-26 12:05:19,851 - Log -INFO -  | 
+2023-11-26 12:05:19,860 - Log -INFO -  | 
+2023-11-26 12:05:19,870 - Log -INFO -  | 
+2023-11-26 12:05:19,900 - Log -INFO -  | 
+2023-11-26 12:05:19,915 - Log -INFO - 0124 | 
+2023-11-26 12:05:19,929 - Log -INFO - d e | 
+2023-11-26 12:05:19,940 - Log -INFO - f | 
+2023-11-26 12:05:19,953 - Log -INFO -  | 
+2023-11-26 12:05:19,962 - Log -INFO -  | 
+2023-11-26 12:05:19,974 - Log -INFO -  | 
+2023-11-26 12:05:19,987 - Log -INFO -  | 
+2023-11-26 12:05:20,025 - Log -INFO -  | 
+2023-11-26 12:05:20,038 - Log -INFO - 0140 | 
+2023-11-26 12:05:20,054 - Log -INFO - d e | 
+2023-11-26 12:05:20,070 - Log -INFO - f | 
+2023-11-26 12:05:20,084 - Log -INFO -  | 
+2023-11-26 12:05:20,095 - Log -INFO -  | 
+2023-11-26 12:05:20,108 - Log -INFO -  | 
+2023-11-26 12:05:20,125 - Log -INFO -  | 
+2023-11-26 12:05:20,167 - Log -INFO -  | 
+2023-11-26 12:05:20,179 - Log -INFO - 0144 | 
+2023-11-26 12:05:20,192 - Log -INFO - d e | 
+2023-11-26 12:05:20,205 - Log -INFO - f | 
+2023-11-26 12:05:20,214 - Log -INFO -  | 
+2023-11-26 12:05:20,224 - Log -INFO -  | 
+2023-11-26 12:05:20,234 - Log -INFO -  | 
+2023-11-26 12:05:20,242 - Log -INFO -  | 
+2023-11-26 12:05:20,270 - Log -INFO -  | 
+2023-11-26 12:05:20,281 - Log -INFO - 0145 | 
+2023-11-26 12:05:20,294 - Log -INFO - d e | 
+2023-11-26 12:05:20,303 - Log -INFO - f | 
+2023-11-26 12:05:20,314 - Log -INFO -  | 
+2023-11-26 12:05:20,325 - Log -INFO -  | 
+2023-11-26 12:05:20,333 - Log -INFO -  | 
+2023-11-26 12:05:20,344 - Log -INFO -  | 
+2023-11-26 12:05:20,363 - Log -INFO -  | 
+2023-11-26 12:05:20,373 - Log -INFO - 0146 | 
+2023-11-26 12:05:20,384 - Log -INFO - d e | 
+2023-11-26 12:05:20,395 - Log -INFO - f | 
+2023-11-26 12:05:20,406 - Log -INFO -  | 
+2023-11-26 12:05:20,416 - Log -INFO -  | 
+2023-11-26 12:05:20,427 - Log -INFO -  | 
+2023-11-26 12:05:20,436 - Log -INFO -  | 
+2023-11-26 12:05:20,456 - Log -INFO -  | 
+2023-11-26 12:05:20,468 - Log -INFO - 0147 | 
+2023-11-26 12:05:20,477 - Log -INFO - d e | 
+2023-11-26 12:05:20,487 - Log -INFO - f | 
+2023-11-26 12:05:20,495 - Log -INFO -  | 
+2023-11-26 12:05:20,504 - Log -INFO -  | 
+2023-11-26 12:05:20,512 - Log -INFO -  | 
+2023-11-26 12:05:20,523 - Log -INFO -  | 
+2023-11-26 12:05:20,553 - Log -INFO -  | 
+2023-11-26 12:05:20,563 - Log -INFO - 0148 | 
+2023-11-26 12:05:20,573 - Log -INFO - d e | 
+2023-11-26 12:05:20,581 - Log -INFO - f | 
+2023-11-26 12:05:20,589 - Log -INFO -  | 
+2023-11-26 12:05:20,597 - Log -INFO -  | 
+2023-11-26 12:05:20,607 - Log -INFO -  | 
+2023-11-26 12:05:20,616 - Log -INFO -  | 
+2023-11-26 12:05:20,649 - Log -INFO -  | 
+2023-11-26 12:05:20,660 - Log -INFO - 0149 | 
+2023-11-26 12:05:20,670 - Log -INFO - d e | 
+2023-11-26 12:05:20,680 - Log -INFO - f | 
+2023-11-26 12:05:20,689 - Log -INFO -  | 
+2023-11-26 12:05:20,698 - Log -INFO -  | 
+2023-11-26 12:05:20,707 - Log -INFO -  | 
+2023-11-26 12:05:20,716 - Log -INFO -  | 
+2023-11-26 12:05:20,738 - Log -INFO -  | 
+2023-11-26 12:05:20,750 - Log -INFO - 0150 | 
+2023-11-26 12:05:20,760 - Log -INFO - d e | 
+2023-11-26 12:05:20,770 - Log -INFO - f | 
+2023-11-26 12:05:20,778 - Log -INFO -  | 
+2023-11-26 12:05:20,787 - Log -INFO -  | 
+2023-11-26 12:05:20,799 - Log -INFO -  | 
+2023-11-26 12:05:20,811 - Log -INFO -  | 
+2023-11-26 12:05:20,833 - Log -INFO -  | 
+2023-11-26 12:05:20,846 - Log -INFO - 0151 | 
+2023-11-26 12:05:20,859 - Log -INFO - d e | 
+2023-11-26 12:05:20,868 - Log -INFO - f | 
+2023-11-26 12:05:20,879 - Log -INFO -  | 
+2023-11-26 12:05:20,891 - Log -INFO -  | 
+2023-11-26 12:05:20,905 - Log -INFO -  | 
+2023-11-26 12:05:20,916 - Log -INFO -  | 
+2023-11-26 12:05:20,949 - Log -INFO -  | 
+2023-11-26 12:05:20,960 - Log -INFO - 0152 | 
+2023-11-26 12:05:20,970 - Log -INFO - d e | 
+2023-11-26 12:05:20,980 - Log -INFO - f | 
+2023-11-26 12:05:20,987 - Log -INFO -  | 
+2023-11-26 12:05:20,995 - Log -INFO -  | 
+2023-11-26 12:05:21,004 - Log -INFO -  | 
+2023-11-26 12:05:21,013 - Log -INFO -  | 
+2023-11-26 12:05:21,034 - Log -INFO -  | 
+2023-11-26 12:05:21,042 - Log -INFO - 0153 | 
+2023-11-26 12:05:21,050 - Log -INFO - d e | 
+2023-11-26 12:05:21,060 - Log -INFO - f | 
+2023-11-26 12:05:21,068 - Log -INFO -  | 
+2023-11-26 12:05:21,077 - Log -INFO -  | 
+2023-11-26 12:05:21,085 - Log -INFO -  | 
+2023-11-26 12:05:21,093 - Log -INFO -  | 
+2023-11-26 12:05:21,112 - Log -INFO -  | 
+2023-11-26 12:05:21,123 - Log -INFO - 0154 | 
+2023-11-26 12:05:21,132 - Log -INFO - d e | 
+2023-11-26 12:05:21,144 - Log -INFO - f | 
+2023-11-26 12:05:21,153 - Log -INFO -  | 
+2023-11-26 12:05:21,161 - Log -INFO -  | 
+2023-11-26 12:05:21,170 - Log -INFO -  | 
+2023-11-26 12:05:21,179 - Log -INFO -  | 
+2023-11-26 12:05:21,215 - Log -INFO -  | 
+2023-11-26 12:05:21,225 - Log -INFO - 0155 | 
+2023-11-26 12:05:21,233 - Log -INFO - d e | 
+2023-11-26 12:05:21,243 - Log -INFO - f | 
+2023-11-26 12:05:21,253 - Log -INFO -  | 
+2023-11-26 12:05:21,261 - Log -INFO -  | 
+2023-11-26 12:05:21,270 - Log -INFO -  | 
+2023-11-26 12:05:21,277 - Log -INFO -  | 
+2023-11-26 12:05:21,302 - Log -INFO -  | 
+2023-11-26 12:05:21,311 - Log -INFO - 0156 | 
+2023-11-26 12:05:21,322 - Log -INFO - d e | 
+2023-11-26 12:05:21,330 - Log -INFO - f | 
+2023-11-26 12:05:21,340 - Log -INFO -  | 
+2023-11-26 12:05:21,349 - Log -INFO -  | 
+2023-11-26 12:05:21,356 - Log -INFO -  | 
+2023-11-26 12:05:21,367 - Log -INFO -  | 
+2023-11-26 12:05:21,400 - Log -INFO -  | 
+2023-11-26 12:05:21,408 - Log -INFO - 0157 | 
+2023-11-26 12:05:21,419 - Log -INFO - d e | 
+2023-11-26 12:05:21,432 - Log -INFO - f | 
+2023-11-26 12:05:21,439 - Log -INFO -  | 
+2023-11-26 12:05:21,447 - Log -INFO -  | 
+2023-11-26 12:05:21,455 - Log -INFO -  | 
+2023-11-26 12:05:21,465 - Log -INFO -  | 
+2023-11-26 12:05:21,494 - Log -INFO -  | 
+2023-11-26 12:05:21,502 - Log -INFO - 0158 | 
+2023-11-26 12:05:21,511 - Log -INFO - d e | 
+2023-11-26 12:05:21,528 - Log -INFO - f | 
+2023-11-26 12:05:21,551 - Log -INFO -  | 
+2023-11-26 12:05:21,560 - Log -INFO -  | 
+2023-11-26 12:05:21,568 - Log -INFO -  | 
+2023-11-26 12:05:21,577 - Log -INFO -  | 
+2023-11-26 12:05:21,593 - Log -INFO -  | 
+2023-11-26 12:05:21,603 - Log -INFO - 0159 | 
+2023-11-26 12:05:21,612 - Log -INFO - d e | 
+2023-11-26 12:05:21,622 - Log -INFO - f | 
+2023-11-26 12:05:21,631 - Log -INFO -  | 
+2023-11-26 12:05:21,638 - Log -INFO -  | 
+2023-11-26 12:05:21,650 - Log -INFO -  | 
+2023-11-26 12:05:21,658 - Log -INFO -  | 
+2023-11-26 12:05:21,689 - Log -INFO -  | 
+2023-11-26 12:05:21,699 - Log -INFO - 0191 | 
+2023-11-26 12:05:21,711 - Log -INFO - w c | 
+2023-11-26 12:05:21,721 - Log -INFO - q | 
+2023-11-26 12:05:21,731 - Log -INFO -  | 
+2023-11-26 12:05:21,741 - Log -INFO -  | 
+2023-11-26 12:05:21,750 - Log -INFO -  | 
+2023-11-26 12:05:21,759 - Log -INFO -  | 
+2023-11-26 12:05:21,784 - Log -INFO -  | 
+2023-11-26 12:05:21,793 - Log -INFO - 0061 | 
+2023-11-26 12:05:21,802 - Log -INFO - hi hlo | 
+2023-11-26 12:05:21,816 - Log -INFO - rev | 
+2023-11-26 12:05:21,823 - Log -INFO -  | 
+2023-11-26 12:05:21,831 - Log -INFO -  | 
+2023-11-26 12:05:21,841 - Log -INFO -  | 
+2023-11-26 12:05:21,852 - Log -INFO -  | 
+2023-11-26 12:05:21,881 - Log -INFO -  | 
+2023-11-26 12:05:21,895 - Log -INFO - 0013 | 
+2023-11-26 12:05:21,904 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:21,912 - Log -INFO - rev12345 | 
+2023-11-26 12:05:21,919 - Log -INFO -  | 
+2023-11-26 12:05:21,928 - Log -INFO -  | 
+2023-11-26 12:05:21,936 - Log -INFO -  | 
+2023-11-26 12:05:21,944 - Log -INFO -  | 
+2023-11-26 12:05:21,969 - Log -INFO -  | 
+2023-11-26 12:05:21,980 - Log -INFO - 0016 | 
+2023-11-26 12:05:21,988 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:21,999 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,008 - Log -INFO -  | 
+2023-11-26 12:05:22,015 - Log -INFO -  | 
+2023-11-26 12:05:22,023 - Log -INFO -  | 
+2023-11-26 12:05:22,035 - Log -INFO -  | 
+2023-11-26 12:05:22,066 - Log -INFO -  | 
+2023-11-26 12:05:22,078 - Log -INFO - 0018 | 
+2023-11-26 12:05:22,088 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,101 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,115 - Log -INFO -  | 
+2023-11-26 12:05:22,128 - Log -INFO -  | 
+2023-11-26 12:05:22,141 - Log -INFO -  | 
+2023-11-26 12:05:22,149 - Log -INFO -  | 
+2023-11-26 12:05:22,168 - Log -INFO -  | 
+2023-11-26 12:05:22,177 - Log -INFO - 0023 | 
+2023-11-26 12:05:22,186 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,194 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,201 - Log -INFO -  | 
+2023-11-26 12:05:22,210 - Log -INFO -  | 
+2023-11-26 12:05:22,219 - Log -INFO -  | 
+2023-11-26 12:05:22,227 - Log -INFO -  | 
+2023-11-26 12:05:22,250 - Log -INFO -  | 
+2023-11-26 12:05:22,262 - Log -INFO - 0034 | 
+2023-11-26 12:05:22,270 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,276 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,286 - Log -INFO -  | 
+2023-11-26 12:05:22,295 - Log -INFO -  | 
+2023-11-26 12:05:22,304 - Log -INFO -  | 
+2023-11-26 12:05:22,312 - Log -INFO -  | 
+2023-11-26 12:05:22,345 - Log -INFO -  | 
+2023-11-26 12:05:22,355 - Log -INFO - 0037 | 
+2023-11-26 12:05:22,364 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,373 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,383 - Log -INFO -  | 
+2023-11-26 12:05:22,391 - Log -INFO -  | 
+2023-11-26 12:05:22,399 - Log -INFO -  | 
+2023-11-26 12:05:22,407 - Log -INFO -  | 
+2023-11-26 12:05:22,438 - Log -INFO -  | 
+2023-11-26 12:05:22,448 - Log -INFO - 0040 | 
+2023-11-26 12:05:22,458 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,466 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,475 - Log -INFO -  | 
+2023-11-26 12:05:22,482 - Log -INFO -  | 
+2023-11-26 12:05:22,491 - Log -INFO -  | 
+2023-11-26 12:05:22,502 - Log -INFO -  | 
+2023-11-26 12:05:22,531 - Log -INFO -  | 
+2023-11-26 12:05:22,540 - Log -INFO - 0043 | 
+2023-11-26 12:05:22,551 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,560 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,568 - Log -INFO -  | 
+2023-11-26 12:05:22,577 - Log -INFO -  | 
+2023-11-26 12:05:22,586 - Log -INFO -  | 
+2023-11-26 12:05:22,595 - Log -INFO -  | 
+2023-11-26 12:05:22,628 - Log -INFO -  | 
+2023-11-26 12:05:22,638 - Log -INFO - 0046 | 
+2023-11-26 12:05:22,647 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,656 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,667 - Log -INFO -  | 
+2023-11-26 12:05:22,677 - Log -INFO -  | 
+2023-11-26 12:05:22,688 - Log -INFO -  | 
+2023-11-26 12:05:22,698 - Log -INFO -  | 
+2023-11-26 12:05:22,722 - Log -INFO -  | 
+2023-11-26 12:05:22,732 - Log -INFO - 0049 | 
+2023-11-26 12:05:22,743 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,752 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,764 - Log -INFO -  | 
+2023-11-26 12:05:22,773 - Log -INFO -  | 
+2023-11-26 12:05:22,782 - Log -INFO -  | 
+2023-11-26 12:05:22,793 - Log -INFO -  | 
+2023-11-26 12:05:22,811 - Log -INFO -  | 
+2023-11-26 12:05:22,822 - Log -INFO - 0052 | 
+2023-11-26 12:05:22,834 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,844 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,853 - Log -INFO -  | 
+2023-11-26 12:05:22,864 - Log -INFO -  | 
+2023-11-26 12:05:22,874 - Log -INFO -  | 
+2023-11-26 12:05:22,884 - Log -INFO -  | 
+2023-11-26 12:05:22,909 - Log -INFO -  | 
+2023-11-26 12:05:22,921 - Log -INFO - 0055 | 
+2023-11-26 12:05:22,932 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:22,943 - Log -INFO - rev12345 | 
+2023-11-26 12:05:22,953 - Log -INFO -  | 
+2023-11-26 12:05:22,963 - Log -INFO -  | 
+2023-11-26 12:05:22,975 - Log -INFO -  | 
+2023-11-26 12:05:22,987 - Log -INFO -  | 
+2023-11-26 12:05:23,021 - Log -INFO -  | 
+2023-11-26 12:05:23,034 - Log -INFO - 0058 | 
+2023-11-26 12:05:23,042 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:23,053 - Log -INFO - rev12345 | 
+2023-11-26 12:05:23,067 - Log -INFO -  | 
+2023-11-26 12:05:23,077 - Log -INFO -  | 
+2023-11-26 12:05:23,086 - Log -INFO -  | 
+2023-11-26 12:05:23,095 - Log -INFO -  | 
+2023-11-26 12:05:23,131 - Log -INFO -  | 
+2023-11-26 12:05:23,145 - Log -INFO - 0063 | 
+2023-11-26 12:05:23,160 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:23,169 - Log -INFO - rev12345 | 
+2023-11-26 12:05:23,177 - Log -INFO -  | 
+2023-11-26 12:05:23,186 - Log -INFO -  | 
+2023-11-26 12:05:23,196 - Log -INFO -  | 
+2023-11-26 12:05:23,203 - Log -INFO -  | 
+2023-11-26 12:05:23,238 - Log -INFO -  | 
+2023-11-26 12:05:23,246 - Log -INFO - 0066 | 
+2023-11-26 12:05:23,255 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:23,265 - Log -INFO - rev12345 | 
+2023-11-26 12:05:23,275 - Log -INFO -  | 
+2023-11-26 12:05:23,288 - Log -INFO -  | 
+2023-11-26 12:05:23,302 - Log -INFO -  | 
+2023-11-26 12:05:23,315 - Log -INFO -  | 
+2023-11-26 12:05:23,351 - Log -INFO -  | 
+2023-11-26 12:05:23,371 - Log -INFO - 0069 | 
+2023-11-26 12:05:23,387 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:23,402 - Log -INFO - rev12345 | 
+2023-11-26 12:05:23,416 - Log -INFO -  | 
+2023-11-26 12:05:23,429 - Log -INFO -  | 
+2023-11-26 12:05:23,441 - Log -INFO -  | 
+2023-11-26 12:05:23,451 - Log -INFO -  | 
+2023-11-26 12:05:23,493 - Log -INFO -  | 
+2023-11-26 12:05:23,504 - Log -INFO - 0074 | 
+2023-11-26 12:05:23,513 - Log -INFO - rev2 re1223 | 
+2023-11-26 12:05:23,522 - Log -INFO - rev12345 | 
+2023-11-26 12:05:23,533 - Log -INFO -  | 
+2023-11-26 12:05:23,543 - Log -INFO -  | 
+2023-11-26 12:05:23,552 - Log -INFO -  | 
+2023-11-26 12:05:23,561 - Log -INFO -  | 
+2023-11-26 12:05:24,632 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-26 12:05:24,667 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-26 12:05:24,667 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-26 12:05:24,846 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-26 12:05:24,848 - Log -INFO - *********************************************************************
+2023-11-28 09:50:39,342 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-28 09:50:40,035 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-28 09:50:40,075 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-28 09:50:40,078 - Log -INFO - The login page should contains text -Invalid credentials
+2023-11-28 09:50:41,190 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-28 09:50:41,194 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-28 09:50:41,266 - Log -INFO - The number of rows - 4
+2023-11-28 09:50:46,007 - Log -INFO - The User Name is  - Revathi
+2023-11-28 09:50:46,009 - Log -INFO - The Password is - Revathi@123
+2023-11-28 09:50:46,011 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-11-28 09:50:46,050 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-28 09:50:46,052 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-28 09:50:47,243 - Log -INFO - The User Name is  - rev
+2023-11-28 09:50:47,246 - Log -INFO - The Password is - rev123
+2023-11-28 09:50:47,253 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-28 09:50:48,527 - Log -INFO - The User Name is  - tangudu
+2023-11-28 09:50:48,529 - Log -INFO - The Password is - tangudu123
+2023-11-28 09:50:48,536 - Log -INFO -  Failed to Navigated to OrangeHRM Application HomePage - FAIL
+2023-11-28 09:50:50,813 - Log -INFO - The User Name is  - Revathi
+2023-11-28 09:50:50,818 - Log -INFO - The Password is - Revathi@123
+2023-11-28 09:50:50,819 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-11-28 09:50:50,981 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-28 09:50:50,983 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-28 09:50:53,983 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-28 09:50:54,021 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-28 09:50:54,033 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-28 09:50:54,441 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-28 09:50:54,453 - Log -INFO - *********************************************************************
+2023-11-30 15:30:50,151 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 15:30:50,743 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-30 15:30:50,956 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 15:30:50,958 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 15:30:51,465 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-30 15:30:51,469 - Log -INFO - *********************************************************************
+2023-11-30 15:36:33,515 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 15:36:33,937 - Log -INFO - The Expected login page should contains text -LOGIN Panel
+2023-11-30 15:36:34,101 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 15:36:34,107 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 15:36:34,209 - Log -INFO - The expected  title login page should contains  -orangeHRM
+2023-11-30 15:36:34,255 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-11-30 15:36:34,257 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-30 15:36:34,709 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-30 15:36:34,713 - Log -INFO - *********************************************************************
+2023-11-30 15:43:43,802 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 15:43:44,221 - Log -INFO - The Expected login page should contains text -LOGIN Panel
+2023-11-30 15:43:44,438 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 15:43:44,441 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 15:43:44,545 - Log -INFO - The expected  title login page should contains  -orangeHRM
+2023-11-30 15:43:44,584 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-11-30 15:43:44,587 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-30 15:43:44,794 - Log -INFO - The Test Data for User name - Revathi
+2023-11-30 15:43:44,906 - Log -INFO - The Test Data for Password - Revathi@123
+2023-11-30 15:43:49,294 - Log -INFO - The expected Element Text - Admin
+2023-11-30 15:43:49,310 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-30 15:43:49,365 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-30 15:43:49,809 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-30 15:43:49,809 - Log -INFO - *********************************************************************
+2023-11-30 15:48:52,343 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 15:48:52,750 - Log -INFO - The Expected login page should contains text -LOGIN Panel
+2023-11-30 15:48:52,912 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 15:48:52,916 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 15:48:53,007 - Log -INFO - The expected  title login page should contains  -orangeHRM
+2023-11-30 15:48:53,042 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-11-30 15:48:53,044 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-30 15:48:53,232 - Log -INFO - The Test Data for User name - Revathi
+2023-11-30 15:48:53,326 - Log -INFO - The Test Data for Password - Revathi@123
+2023-11-30 15:48:54,600 - Log -INFO - The expected Element Text - Admin
+2023-11-30 15:48:54,619 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-30 15:48:54,673 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-30 15:48:57,081 - Log -INFO - Successfully perform operation on PIM element
+2023-11-30 15:48:57,997 - Log -INFO - The Expected Text that Add Employee page should contains - Add Employee
+2023-11-30 15:48:58,074 - Log -INFO - The Actual Text that Add Employee page should - Add Employee
+2023-11-30 15:48:58,092 - Log -INFO - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+2023-11-30 15:48:58,527 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-30 15:48:58,530 - Log -INFO - *********************************************************************
+2023-11-30 16:11:09,584 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 16:11:09,977 - Log -INFO - The Expected login page should contains text -LOGIN Panel
+2023-11-30 16:11:10,168 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 16:11:10,171 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 16:11:10,264 - Log -INFO - The expected  title login page should contains  -orangeHRM
+2023-11-30 16:11:10,312 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-11-30 16:11:10,315 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-30 16:11:10,509 - Log -INFO - The Test Data for User name - Revathi
+2023-11-30 16:11:10,621 - Log -INFO - The Test Data for Password - Revathi@123
+2023-11-30 16:11:11,919 - Log -INFO - The expected Element Text - Admin
+2023-11-30 16:11:11,938 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-30 16:11:11,994 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-30 16:11:13,087 - Log -INFO - Successfully perform operation on PIM element
+2023-11-30 16:11:13,587 - Log -INFO - The Expected Text that Add Employee page should contains - Add Employee
+2023-11-30 16:11:13,661 - Log -INFO - The Actual Text that Add Employee page should - Add Employee
+2023-11-30 16:11:13,678 - Log -INFO - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+2023-11-30 16:11:13,840 - Log -INFO - The First Name is - T
+2023-11-30 16:11:13,912 - Log -INFO - The Middle Name is - Tangudu
+2023-11-30 16:11:13,993 - Log -INFO - The Last Name is - Revathi
+2023-11-30 16:11:36,960 - Log -INFO - The Expected Personal Details Page cantains Text - Personal Details
+2023-11-30 16:11:37,036 - Log -INFO - The Actual Personal Details Page cantains Text - Personal Details
+2023-11-30 16:11:37,094 - Log -INFO - Successfully navigated to PersonalDetails page - Pass
+2023-11-30 16:11:37,225 - Log -INFO - The Expected First Name - T
+2023-11-30 16:11:37,240 - Log -INFO - The Actual First Name - T
+2023-11-30 16:11:37,335 - Log -INFO - The Actual First Name - T
+2023-11-30 16:11:37,350 - Log -INFO - The ImageUpperSideFullName - T Tangudu Revathi
+2023-11-30 16:11:37,350 - Log -INFO - The Full name of personal details page is matched with Profile pic Full name
+2023-11-30 16:11:37,350 - Log -INFO - Expected first name in personal details matched with actual first name
+2023-11-30 16:11:37,460 - Log -INFO - The Expected Middle Name - Tangudu
+2023-11-30 16:11:37,460 - Log -INFO - The Actual Middle Name - Tangudu
+2023-11-30 16:11:37,492 - Log -INFO - The Actual Middle Name - Tangudu
+2023-11-30 16:11:37,507 - Log -INFO - The ImageUpperSideFullName - T Tangudu Revathi
+2023-11-30 16:11:37,507 - Log -INFO - The Middle name of personal details page is matched with Profile pic Middle name
+2023-11-30 16:11:37,507 - Log -INFO - Expected Middle name in personal details matched with actual Middle name
+2023-11-30 16:11:37,590 - Log -INFO - The Expected Last Name - Revathi
+2023-11-30 16:11:37,590 - Log -INFO - The  Actual Last Name - Revathi
+2023-11-30 16:11:37,637 - Log -INFO - The Actual Last Name - Revathi
+2023-11-30 16:11:37,637 - Log -INFO - The ImageUpperSideFullName - T Tangudu Revathi
+2023-11-30 16:11:37,653 - Log -INFO - Expected Last name in personal details matched with actual last name
+2023-11-30 16:11:37,748 - Log -INFO - The Expected EmployeeID - 0192
+2023-11-30 16:11:37,762 - Log -INFO - The  Actual EmployeeID - 0192
+2023-11-30 16:11:37,810 - Log -INFO - Expected EmployeID in personal details matched with actual  EmployeID name
+2023-11-30 16:11:37,920 - Log -INFO - The Profile is Displayed SuccessFully in the Personal Details Page - true
+2023-11-30 16:11:38,736 - Log -INFO - The First Name is - rev2
+2023-11-30 16:11:38,794 - Log -INFO - The Middle Name is - re1223
+2023-11-30 16:11:38,914 - Log -INFO - The Last Name is - rev12345
+2023-11-30 16:12:00,060 - Log -INFO - The Expected Personal Details Page cantains Text - Personal Details
+2023-11-30 16:12:00,117 - Log -INFO - The Actual Personal Details Page cantains Text - Personal Details
+2023-11-30 16:12:00,168 - Log -INFO - Successfully navigated to PersonalDetails page - Pass
+2023-11-30 16:12:00,252 - Log -INFO - The Expected First Name - rev2
+2023-11-30 16:12:00,254 - Log -INFO - The Actual First Name - rev2
+2023-11-30 16:12:00,342 - Log -INFO - The Actual First Name - rev2
+2023-11-30 16:12:00,345 - Log -INFO - The ImageUpperSideFullName - rev2 re1223 rev12345
+2023-11-30 16:12:00,348 - Log -INFO - The Full name of personal details page is matched with Profile pic Full name
+2023-11-30 16:12:00,351 - Log -INFO - Expected first name in personal details matched with actual first name
+2023-11-30 16:12:00,417 - Log -INFO - The Expected Middle Name - re1223
+2023-11-30 16:12:00,422 - Log -INFO - The Actual Middle Name - re1223
+2023-11-30 16:12:00,455 - Log -INFO - The Actual Middle Name - re1223
+2023-11-30 16:12:00,459 - Log -INFO - The ImageUpperSideFullName - rev2 re1223 rev12345
+2023-11-30 16:12:00,462 - Log -INFO - The Middle name of personal details page is matched with Profile pic Middle name
+2023-11-30 16:12:00,464 - Log -INFO - Expected Middle name in personal details matched with actual Middle name
+2023-11-30 16:12:00,530 - Log -INFO - The Expected Last Name - rev12345
+2023-11-30 16:12:00,533 - Log -INFO - The  Actual Last Name - rev12345
+2023-11-30 16:12:00,566 - Log -INFO - The Actual Last Name - rev12345
+2023-11-30 16:12:00,572 - Log -INFO - The ImageUpperSideFullName - rev2 re1223 rev12345
+2023-11-30 16:12:00,575 - Log -INFO - Expected Last name in personal details matched with actual last name
+2023-11-30 16:12:00,649 - Log -INFO - The Expected EmployeeID - 0193
+2023-11-30 16:12:00,652 - Log -INFO - The  Actual EmployeeID - 0193
+2023-11-30 16:12:00,675 - Log -INFO - Expected EmployeID in personal details matched with actual  EmployeID name
+2023-11-30 16:12:00,785 - Log -INFO - The Profile is Displayed SuccessFully in the Personal Details Page - true
+2023-11-30 16:12:01,565 - Log -INFO - The First Name is - tangudu3
+2023-11-30 16:12:01,653 - Log -INFO - The Middle Name is - tang12
+2023-11-30 16:12:01,732 - Log -INFO - The Last Name is - tang567
+2023-11-30 16:12:22,834 - Log -INFO - The Expected Personal Details Page cantains Text - Personal Details
+2023-11-30 16:12:22,876 - Log -INFO - The Actual Personal Details Page cantains Text - Personal Details
+2023-11-30 16:12:22,912 - Log -INFO - Successfully navigated to PersonalDetails page - Pass
+2023-11-30 16:12:23,006 - Log -INFO - The Expected First Name - tangudu3
+2023-11-30 16:12:23,011 - Log -INFO - The Actual First Name - tangudu3
+2023-11-30 16:12:23,101 - Log -INFO - The Actual First Name - tangudu3
+2023-11-30 16:12:23,104 - Log -INFO - The ImageUpperSideFullName - tangudu3 tang12 tang567
+2023-11-30 16:12:23,108 - Log -INFO - The Full name of personal details page is matched with Profile pic Full name
+2023-11-30 16:12:23,111 - Log -INFO - Expected first name in personal details matched with actual first name
+2023-11-30 16:12:23,203 - Log -INFO - The Expected Middle Name - tang12
+2023-11-30 16:12:23,219 - Log -INFO - The Actual Middle Name - tang12
+2023-11-30 16:12:23,250 - Log -INFO - The Actual Middle Name - tang12
+2023-11-30 16:12:23,250 - Log -INFO - The ImageUpperSideFullName - tangudu3 tang12 tang567
+2023-11-30 16:12:23,250 - Log -INFO - The Middle name of personal details page is matched with Profile pic Middle name
+2023-11-30 16:12:23,250 - Log -INFO - Expected Middle name in personal details matched with actual Middle name
+2023-11-30 16:12:23,348 - Log -INFO - The Expected Last Name - tang567
+2023-11-30 16:12:23,362 - Log -INFO - The  Actual Last Name - tang567
+2023-11-30 16:12:23,394 - Log -INFO - The Actual Last Name - tang567
+2023-11-30 16:12:23,394 - Log -INFO - The ImageUpperSideFullName - tangudu3 tang12 tang567
+2023-11-30 16:12:23,394 - Log -INFO - Expected Last name in personal details matched with actual last name
+2023-11-30 16:12:23,457 - Log -INFO - The Expected EmployeeID - 0194
+2023-11-30 16:12:23,457 - Log -INFO - The  Actual EmployeeID - 0194
+2023-11-30 16:12:23,490 - Log -INFO - Expected EmployeID in personal details matched with actual  EmployeID name
+2023-11-30 16:12:23,583 - Log -INFO - The Profile is Displayed SuccessFully in the Personal Details Page - true
+2023-11-30 16:12:24,220 - Log -INFO - The First Name is - 
+2023-11-30 16:12:24,287 - Log -INFO - The Middle Name is - 
+2023-11-30 16:12:24,345 - Log -INFO - The Last Name is - 
+2023-11-30 16:16:21,413 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 16:16:21,818 - Log -INFO - The Expected login page should contains text -LOGIN Panel
+2023-11-30 16:16:21,984 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 16:16:21,991 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 16:16:22,073 - Log -INFO - The expected  title login page should contains  -orangeHRM
+2023-11-30 16:16:22,115 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-11-30 16:16:22,117 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-30 16:16:22,312 - Log -INFO - The Test Data for User name - Revathi
+2023-11-30 16:16:22,412 - Log -INFO - The Test Data for Password - Revathi@123
+2023-11-30 16:16:23,674 - Log -INFO - The expected Element Text - Admin
+2023-11-30 16:16:23,697 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-30 16:16:23,754 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-30 16:16:24,745 - Log -INFO - Successfully perform operation on PIM element
+2023-11-30 16:16:25,148 - Log -INFO - The Expected Text that Add Employee page should contains - Add Employee
+2023-11-30 16:16:25,239 - Log -INFO - The Actual Text that Add Employee page should - Add Employee
+2023-11-30 16:16:25,248 - Log -INFO - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+2023-11-30 16:16:25,448 - Log -INFO - The First Name is - T
+2023-11-30 16:16:25,556 - Log -INFO - The Middle Name is - Tangudu
+2023-11-30 16:16:25,603 - Log -INFO - The Last Name is - Revathi
+2023-11-30 16:22:32,859 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 16:22:33,245 - Log -INFO - The Expected login page should contains text -LOGIN Panel
+2023-11-30 16:22:33,416 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 16:22:33,418 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 16:22:33,511 - Log -INFO - The expected  title login page should contains  -orangeHRM
+2023-11-30 16:22:33,552 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-11-30 16:22:33,555 - Log -INFO - Failed navigated to login page - FAIL
+2023-11-30 16:22:33,751 - Log -INFO - The Test Data for User name - Revathi
+2023-11-30 16:22:33,847 - Log -INFO - The Test Data for Password - Revathi@123
+2023-11-30 16:22:35,183 - Log -INFO - The expected Element Text - Admin
+2023-11-30 16:22:35,202 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-30 16:22:35,238 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-30 16:22:36,194 - Log -INFO - Successfully perform operation on PIM element
+2023-11-30 16:22:36,719 - Log -INFO - The Expected Text that Add Employee page should contains - Add Employee
+2023-11-30 16:22:36,808 - Log -INFO - The Actual Text that Add Employee page should - Add Employee
+2023-11-30 16:22:36,813 - Log -INFO - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+2023-11-30 16:22:36,991 - Log -INFO - The First Name is - T
+2023-11-30 16:22:37,083 - Log -INFO - The Middle Name is - Tangudu
+2023-11-30 16:22:37,166 - Log -INFO - The Last Name is - Revathi
+2023-11-30 16:22:58,476 - Log -INFO - The Expected Personal Details Page cantains Text - Personal Details
+2023-11-30 16:22:58,539 - Log -INFO - The Actual Personal Details Page cantains Text - Personal Details
+2023-11-30 16:22:58,580 - Log -INFO - Successfully navigated to PersonalDetails page - Pass
+2023-11-30 16:22:58,690 - Log -INFO - The Expected First Name - T
+2023-11-30 16:22:58,694 - Log -INFO - The Actual First Name - T
+2023-11-30 16:22:58,814 - Log -INFO - The Actual First Name - T
+2023-11-30 16:22:58,823 - Log -INFO - The ImageUpperSideFullName - T Tangudu Revathi
+2023-11-30 16:22:58,823 - Log -INFO - The Full name of personal details page is matched with Profile pic Full name
+2023-11-30 16:22:58,823 - Log -INFO - Expected first name in personal details matched with actual first name
+2023-11-30 16:22:58,918 - Log -INFO - The Expected Middle Name - Tangudu
+2023-11-30 16:22:58,918 - Log -INFO - The Actual Middle Name - Tangudu
+2023-11-30 16:22:58,965 - Log -INFO - The Actual Middle Name - Tangudu
+2023-11-30 16:22:58,980 - Log -INFO - The ImageUpperSideFullName - T Tangudu Revathi
+2023-11-30 16:22:58,980 - Log -INFO - The Middle name of personal details page is matched with Profile pic Middle name
+2023-11-30 16:22:58,980 - Log -INFO - Expected Middle name in personal details matched with actual Middle name
+2023-11-30 16:22:59,068 - Log -INFO - The Expected Last Name - Revathi
+2023-11-30 16:22:59,071 - Log -INFO - The  Actual Last Name - Revathi
+2023-11-30 16:22:59,115 - Log -INFO - The Actual Last Name - Revathi
+2023-11-30 16:22:59,115 - Log -INFO - The ImageUpperSideFullName - T Tangudu Revathi
+2023-11-30 16:22:59,115 - Log -INFO - Expected Last name in personal details matched with actual last name
+2023-11-30 16:22:59,203 - Log -INFO - The Expected EmployeeID - 0195
+2023-11-30 16:22:59,215 - Log -INFO - The  Actual EmployeeID - 0195
+2023-11-30 16:22:59,250 - Log -INFO - Expected EmployeID in personal details matched with actual  EmployeID name
+2023-11-30 16:22:59,360 - Log -INFO - The Profile is Displayed SuccessFully in the Personal Details Page - true
+2023-11-30 16:23:00,123 - Log -INFO - The First Name is - rev2
+2023-11-30 16:23:00,183 - Log -INFO - The Middle Name is - re1223
+2023-11-30 16:23:00,296 - Log -INFO - The Last Name is - rev12345
+2023-11-30 16:23:21,415 - Log -INFO - The Expected Personal Details Page cantains Text - Personal Details
+2023-11-30 16:23:21,465 - Log -INFO - The Actual Personal Details Page cantains Text - Personal Details
+2023-11-30 16:23:21,513 - Log -INFO - Successfully navigated to PersonalDetails page - Pass
+2023-11-30 16:23:21,581 - Log -INFO - The Expected First Name - rev2
+2023-11-30 16:23:21,581 - Log -INFO - The Actual First Name - rev2
+2023-11-30 16:23:21,675 - Log -INFO - The Actual First Name - rev2
+2023-11-30 16:23:21,678 - Log -INFO - The ImageUpperSideFullName - rev2 re1223 rev12345
+2023-11-30 16:23:21,680 - Log -INFO - The Full name of personal details page is matched with Profile pic Full name
+2023-11-30 16:23:21,682 - Log -INFO - Expected first name in personal details matched with actual first name
+2023-11-30 16:23:21,757 - Log -INFO - The Expected Middle Name - re1223
+2023-11-30 16:23:21,772 - Log -INFO - The Actual Middle Name - re1223
+2023-11-30 16:23:21,804 - Log -INFO - The Actual Middle Name - re1223
+2023-11-30 16:23:21,804 - Log -INFO - The ImageUpperSideFullName - rev2 re1223 rev12345
+2023-11-30 16:23:21,820 - Log -INFO - The Middle name of personal details page is matched with Profile pic Middle name
+2023-11-30 16:23:21,820 - Log -INFO - Expected Middle name in personal details matched with actual Middle name
+2023-11-30 16:23:21,883 - Log -INFO - The Expected Last Name - rev12345
+2023-11-30 16:23:21,883 - Log -INFO - The  Actual Last Name - rev12345
+2023-11-30 16:23:21,914 - Log -INFO - The Actual Last Name - rev12345
+2023-11-30 16:23:21,930 - Log -INFO - The ImageUpperSideFullName - rev2 re1223 rev12345
+2023-11-30 16:23:21,930 - Log -INFO - Expected Last name in personal details matched with actual last name
+2023-11-30 16:23:22,003 - Log -INFO - The Expected EmployeeID - 0196
+2023-11-30 16:23:22,005 - Log -INFO - The  Actual EmployeeID - 0196
+2023-11-30 16:23:22,027 - Log -INFO - Expected EmployeID in personal details matched with actual  EmployeID name
+2023-11-30 16:23:22,122 - Log -INFO - The Profile is Displayed SuccessFully in the Personal Details Page - true
+2023-11-30 16:23:22,809 - Log -INFO - The First Name is - tangudu3
+2023-11-30 16:23:22,917 - Log -INFO - The Middle Name is - tang12
+2023-11-30 16:23:22,964 - Log -INFO - The Last Name is - tang567
+2023-11-30 16:23:44,065 - Log -INFO - The Expected Personal Details Page cantains Text - Personal Details
+2023-11-30 16:23:44,128 - Log -INFO - The Actual Personal Details Page cantains Text - Personal Details
+2023-11-30 16:23:44,165 - Log -INFO - Successfully navigated to PersonalDetails page - Pass
+2023-11-30 16:23:44,228 - Log -INFO - The Expected First Name - tangudu3
+2023-11-30 16:23:44,245 - Log -INFO - The Actual First Name - tangudu3
+2023-11-30 16:23:44,313 - Log -INFO - The Actual First Name - tangudu3
+2023-11-30 16:23:44,313 - Log -INFO - The ImageUpperSideFullName - tangudu3 tang12 tang567
+2023-11-30 16:23:44,313 - Log -INFO - The Full name of personal details page is matched with Profile pic Full name
+2023-11-30 16:23:44,329 - Log -INFO - Expected first name in personal details matched with actual first name
+2023-11-30 16:23:44,391 - Log -INFO - The Expected Middle Name - tang12
+2023-11-30 16:23:44,407 - Log -INFO - The Actual Middle Name - tang12
+2023-11-30 16:23:44,438 - Log -INFO - The Actual Middle Name - tang12
+2023-11-30 16:23:44,443 - Log -INFO - The ImageUpperSideFullName - tangudu3 tang12 tang567
+2023-11-30 16:23:44,443 - Log -INFO - The Middle name of personal details page is matched with Profile pic Middle name
+2023-11-30 16:23:44,443 - Log -INFO - Expected Middle name in personal details matched with actual Middle name
+2023-11-30 16:23:44,508 - Log -INFO - The Expected Last Name - tang567
+2023-11-30 16:23:44,513 - Log -INFO - The  Actual Last Name - tang567
+2023-11-30 16:23:44,549 - Log -INFO - The Actual Last Name - tang567
+2023-11-30 16:23:44,549 - Log -INFO - The ImageUpperSideFullName - tangudu3 tang12 tang567
+2023-11-30 16:23:44,549 - Log -INFO - Expected Last name in personal details matched with actual last name
+2023-11-30 16:23:44,657 - Log -INFO - The Expected EmployeeID - 0197
+2023-11-30 16:23:44,661 - Log -INFO - The  Actual EmployeeID - 0197
+2023-11-30 16:23:44,692 - Log -INFO - Expected EmployeID in personal details matched with actual  EmployeID name
+2023-11-30 16:23:44,787 - Log -INFO - The Profile is Displayed SuccessFully in the Personal Details Page - true
+2023-11-30 16:23:46,334 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-30 16:23:46,395 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 16:23:46,398 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 16:23:46,428 - Log -INFO - ******************************************************************************8
+2023-11-30 16:23:46,779 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-30 16:23:46,782 - Log -INFO - *********************************************************************
+2023-11-30 16:48:40,270 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 16:48:40,714 - Log -INFO - The Test Data for User name - Revathi
+2023-11-30 16:48:42,158 - Log -INFO - The expected Element Text - Admin
+2023-11-30 16:48:42,304 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-30 16:48:42,306 - Log -INFO - Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-30 16:48:43,754 - Log -INFO - The Expected EmployeeList Page Text - Employee Information
+2023-11-30 16:48:43,786 - Log -INFO - The Actual Home Page Text - Employee Information
+2023-11-30 16:48:43,812 - Log -INFO - Succesfully Navigated to OrangeHRM Application Employee list Page - PASS
+2023-11-30 16:48:43,892 - Log -INFO - The number of rows - 51
+2023-11-30 16:48:43,952 - Log -INFO -  | 
+2023-11-30 16:48:43,998 - Log -INFO - 0100 | 
+2023-11-30 16:48:44,037 - Log -INFO - a b | 
+2023-11-30 16:48:44,085 - Log -INFO - c | 
+2023-11-30 16:48:44,127 - Log -INFO -  | 
+2023-11-30 16:48:44,177 - Log -INFO -  | 
+2023-11-30 16:48:44,233 - Log -INFO -  | 
+2023-11-30 16:48:44,288 - Log -INFO -  | 
+2023-11-30 16:48:44,357 - Log -INFO -  | 
+2023-11-30 16:48:44,405 - Log -INFO - 0109 | 
+2023-11-30 16:48:44,448 - Log -INFO - d e | 
+2023-11-30 16:48:44,486 - Log -INFO - f | 
+2023-11-30 16:48:44,516 - Log -INFO -  | 
+2023-11-30 16:48:44,553 - Log -INFO -  | 
+2023-11-30 16:48:44,591 - Log -INFO -  | 
+2023-11-30 16:48:44,636 - Log -INFO -  | 
+2023-11-30 16:48:44,687 - Log -INFO -  | 
+2023-11-30 16:48:44,727 - Log -INFO - 0110 | 
+2023-11-30 16:48:44,760 - Log -INFO - d e | 
+2023-11-30 16:48:44,792 - Log -INFO - f | 
+2023-11-30 16:48:44,824 - Log -INFO -  | 
+2023-11-30 16:48:44,861 - Log -INFO -  | 
+2023-11-30 16:48:44,898 - Log -INFO -  | 
+2023-11-30 16:48:44,933 - Log -INFO -  | 
+2023-11-30 16:48:44,986 - Log -INFO -  | 
+2023-11-30 16:48:45,016 - Log -INFO - 0111 | 
+2023-11-30 16:48:45,048 - Log -INFO - d e | 
+2023-11-30 16:48:45,085 - Log -INFO - f | 
+2023-11-30 16:48:45,118 - Log -INFO -  | 
+2023-11-30 16:48:45,156 - Log -INFO -  | 
+2023-11-30 16:48:45,193 - Log -INFO -  | 
+2023-11-30 16:48:45,227 - Log -INFO -  | 
+2023-11-30 16:48:45,285 - Log -INFO -  | 
+2023-11-30 16:48:45,331 - Log -INFO - 0112 | 
+2023-11-30 16:48:45,362 - Log -INFO - d e | 
+2023-11-30 16:48:45,403 - Log -INFO - f | 
+2023-11-30 16:48:45,430 - Log -INFO -  | 
+2023-11-30 16:48:45,471 - Log -INFO -  | 
+2023-11-30 16:48:45,502 - Log -INFO -  | 
+2023-11-30 16:48:45,541 - Log -INFO -  | 
+2023-11-30 16:48:45,585 - Log -INFO -  | 
+2023-11-30 16:48:45,635 - Log -INFO - 0113 | 
+2023-11-30 16:48:45,682 - Log -INFO - d e | 
+2023-11-30 16:48:45,716 - Log -INFO - f | 
+2023-11-30 16:48:45,744 - Log -INFO -  | 
+2023-11-30 16:48:45,781 - Log -INFO -  | 
+2023-11-30 16:48:45,810 - Log -INFO -  | 
+2023-11-30 16:48:45,838 - Log -INFO -  | 
+2023-11-30 16:48:45,867 - Log -INFO -  | 
+2023-11-30 16:48:45,900 - Log -INFO - 0114 | 
+2023-11-30 16:48:45,924 - Log -INFO - d e | 
+2023-11-30 16:48:45,957 - Log -INFO - f | 
+2023-11-30 16:48:45,987 - Log -INFO -  | 
+2023-11-30 16:48:46,016 - Log -INFO -  | 
+2023-11-30 16:48:46,039 - Log -INFO -  | 
+2023-11-30 16:48:46,068 - Log -INFO -  | 
+2023-11-30 16:48:46,122 - Log -INFO -  | 
+2023-11-30 16:48:46,167 - Log -INFO - 0115 | 
+2023-11-30 16:48:46,198 - Log -INFO - d e | 
+2023-11-30 16:48:46,226 - Log -INFO - f | 
+2023-11-30 16:48:46,255 - Log -INFO -  | 
+2023-11-30 16:48:46,292 - Log -INFO -  | 
+2023-11-30 16:48:46,321 - Log -INFO -  | 
+2023-11-30 16:48:46,351 - Log -INFO -  | 
+2023-11-30 16:48:46,398 - Log -INFO -  | 
+2023-11-30 16:48:46,428 - Log -INFO - 0116 | 
+2023-11-30 16:48:46,458 - Log -INFO - d e | 
+2023-11-30 16:48:46,495 - Log -INFO - f | 
+2023-11-30 16:48:46,523 - Log -INFO -  | 
+2023-11-30 16:48:46,552 - Log -INFO -  | 
+2023-11-30 16:48:46,579 - Log -INFO -  | 
+2023-11-30 16:48:46,605 - Log -INFO -  | 
+2023-11-30 16:48:46,640 - Log -INFO -  | 
+2023-11-30 16:48:46,662 - Log -INFO - 0117 | 
+2023-11-30 16:48:46,698 - Log -INFO - d e | 
+2023-11-30 16:48:46,725 - Log -INFO - f | 
+2023-11-30 16:48:46,759 - Log -INFO -  | 
+2023-11-30 16:48:46,787 - Log -INFO -  | 
+2023-11-30 16:48:46,814 - Log -INFO -  | 
+2023-11-30 16:48:46,837 - Log -INFO -  | 
+2023-11-30 16:48:46,882 - Log -INFO -  | 
+2023-11-30 16:48:46,909 - Log -INFO - 0118 | 
+2023-11-30 16:48:46,935 - Log -INFO - d e | 
+2023-11-30 16:48:46,963 - Log -INFO - f | 
+2023-11-30 16:48:46,985 - Log -INFO -  | 
+2023-11-30 16:48:47,013 - Log -INFO -  | 
+2023-11-30 16:48:47,051 - Log -INFO -  | 
+2023-11-30 16:48:47,085 - Log -INFO -  | 
+2023-11-30 16:48:47,137 - Log -INFO -  | 
+2023-11-30 16:48:47,172 - Log -INFO - 0119 | 
+2023-11-30 16:48:47,214 - Log -INFO - d e | 
+2023-11-30 16:48:47,248 - Log -INFO - f | 
+2023-11-30 16:48:47,280 - Log -INFO -  | 
+2023-11-30 16:48:47,308 - Log -INFO -  | 
+2023-11-30 16:48:47,338 - Log -INFO -  | 
+2023-11-30 16:48:47,360 - Log -INFO -  | 
+2023-11-30 16:48:47,400 - Log -INFO -  | 
+2023-11-30 16:48:47,426 - Log -INFO - 0120 | 
+2023-11-30 16:48:47,455 - Log -INFO - d e | 
+2023-11-30 16:48:47,485 - Log -INFO - f | 
+2023-11-30 16:48:47,515 - Log -INFO -  | 
+2023-11-30 16:48:47,544 - Log -INFO -  | 
+2023-11-30 16:48:47,576 - Log -INFO -  | 
+2023-11-30 16:48:47,604 - Log -INFO -  | 
+2023-11-30 16:48:47,651 - Log -INFO -  | 
+2023-11-30 16:48:47,684 - Log -INFO - 0124 | 
+2023-11-30 16:48:47,712 - Log -INFO - d e | 
+2023-11-30 16:48:47,738 - Log -INFO - f | 
+2023-11-30 16:48:47,764 - Log -INFO -  | 
+2023-11-30 16:48:47,793 - Log -INFO -  | 
+2023-11-30 16:48:47,822 - Log -INFO -  | 
+2023-11-30 16:48:47,849 - Log -INFO -  | 
+2023-11-30 16:48:47,899 - Log -INFO -  | 
+2023-11-30 16:48:47,929 - Log -INFO - 0140 | 
+2023-11-30 16:48:47,955 - Log -INFO - d e | 
+2023-11-30 16:48:47,986 - Log -INFO - f | 
+2023-11-30 16:48:48,017 - Log -INFO -  | 
+2023-11-30 16:48:48,046 - Log -INFO -  | 
+2023-11-30 16:48:48,079 - Log -INFO -  | 
+2023-11-30 16:48:48,102 - Log -INFO -  | 
+2023-11-30 16:48:48,150 - Log -INFO -  | 
+2023-11-30 16:48:48,181 - Log -INFO - 0144 | 
+2023-11-30 16:48:48,205 - Log -INFO - d e | 
+2023-11-30 16:48:48,234 - Log -INFO - f | 
+2023-11-30 16:48:48,261 - Log -INFO -  | 
+2023-11-30 16:48:48,288 - Log -INFO -  | 
+2023-11-30 16:48:48,320 - Log -INFO -  | 
+2023-11-30 16:48:48,346 - Log -INFO -  | 
+2023-11-30 16:48:48,391 - Log -INFO -  | 
+2023-11-30 16:48:48,420 - Log -INFO - 0145 | 
+2023-11-30 16:48:48,446 - Log -INFO - d e | 
+2023-11-30 16:48:48,476 - Log -INFO - f | 
+2023-11-30 16:48:48,500 - Log -INFO -  | 
+2023-11-30 16:48:48,523 - Log -INFO -  | 
+2023-11-30 16:48:48,565 - Log -INFO -  | 
+2023-11-30 16:48:48,592 - Log -INFO -  | 
+2023-11-30 16:48:48,639 - Log -INFO -  | 
+2023-11-30 16:48:48,666 - Log -INFO - 0146 | 
+2023-11-30 16:48:48,691 - Log -INFO - d e | 
+2023-11-30 16:48:48,714 - Log -INFO - f | 
+2023-11-30 16:48:48,741 - Log -INFO -  | 
+2023-11-30 16:48:48,771 - Log -INFO -  | 
+2023-11-30 16:48:48,796 - Log -INFO -  | 
+2023-11-30 16:48:48,817 - Log -INFO -  | 
+2023-11-30 16:48:48,863 - Log -INFO -  | 
+2023-11-30 16:48:48,891 - Log -INFO - 0147 | 
+2023-11-30 16:48:48,915 - Log -INFO - d e | 
+2023-11-30 16:48:48,937 - Log -INFO - f | 
+2023-11-30 16:48:48,959 - Log -INFO -  | 
+2023-11-30 16:48:48,984 - Log -INFO -  | 
+2023-11-30 16:48:49,008 - Log -INFO -  | 
+2023-11-30 16:48:49,049 - Log -INFO -  | 
+2023-11-30 16:48:49,107 - Log -INFO -  | 
+2023-11-30 16:48:49,139 - Log -INFO - 0148 | 
+2023-11-30 16:48:49,166 - Log -INFO - d e | 
+2023-11-30 16:48:49,194 - Log -INFO - f | 
+2023-11-30 16:48:49,220 - Log -INFO -  | 
+2023-11-30 16:48:49,246 - Log -INFO -  | 
+2023-11-30 16:48:49,272 - Log -INFO -  | 
+2023-11-30 16:48:49,295 - Log -INFO -  | 
+2023-11-30 16:48:49,340 - Log -INFO -  | 
+2023-11-30 16:48:49,362 - Log -INFO - 0149 | 
+2023-11-30 16:48:49,389 - Log -INFO - d e | 
+2023-11-30 16:48:49,412 - Log -INFO - f | 
+2023-11-30 16:48:49,434 - Log -INFO -  | 
+2023-11-30 16:48:49,456 - Log -INFO -  | 
+2023-11-30 16:48:49,479 - Log -INFO -  | 
+2023-11-30 16:48:49,499 - Log -INFO -  | 
+2023-11-30 16:48:49,543 - Log -INFO -  | 
+2023-11-30 16:48:49,566 - Log -INFO - 0150 | 
+2023-11-30 16:48:49,591 - Log -INFO - d e | 
+2023-11-30 16:48:49,619 - Log -INFO - f | 
+2023-11-30 16:48:49,646 - Log -INFO -  | 
+2023-11-30 16:48:49,669 - Log -INFO -  | 
+2023-11-30 16:48:49,693 - Log -INFO -  | 
+2023-11-30 16:48:49,713 - Log -INFO -  | 
+2023-11-30 16:48:49,751 - Log -INFO -  | 
+2023-11-30 16:48:49,775 - Log -INFO - 0151 | 
+2023-11-30 16:48:49,800 - Log -INFO - d e | 
+2023-11-30 16:48:49,819 - Log -INFO - f | 
+2023-11-30 16:48:49,840 - Log -INFO -  | 
+2023-11-30 16:48:49,863 - Log -INFO -  | 
+2023-11-30 16:48:49,887 - Log -INFO -  | 
+2023-11-30 16:48:49,911 - Log -INFO -  | 
+2023-11-30 16:48:49,952 - Log -INFO -  | 
+2023-11-30 16:48:49,972 - Log -INFO - 0152 | 
+2023-11-30 16:48:49,997 - Log -INFO - d e | 
+2023-11-30 16:48:50,019 - Log -INFO - f | 
+2023-11-30 16:48:50,045 - Log -INFO -  | 
+2023-11-30 16:48:50,066 - Log -INFO -  | 
+2023-11-30 16:48:50,084 - Log -INFO -  | 
+2023-11-30 16:48:50,108 - Log -INFO -  | 
+2023-11-30 16:48:50,136 - Log -INFO -  | 
+2023-11-30 16:48:50,157 - Log -INFO - 0153 | 
+2023-11-30 16:48:50,181 - Log -INFO - d e | 
+2023-11-30 16:48:50,201 - Log -INFO - f | 
+2023-11-30 16:48:50,223 - Log -INFO -  | 
+2023-11-30 16:48:50,246 - Log -INFO -  | 
+2023-11-30 16:48:50,267 - Log -INFO -  | 
+2023-11-30 16:48:50,287 - Log -INFO -  | 
+2023-11-30 16:48:50,322 - Log -INFO -  | 
+2023-11-30 16:48:50,349 - Log -INFO - 0154 | 
+2023-11-30 16:48:50,375 - Log -INFO - d e | 
+2023-11-30 16:48:50,400 - Log -INFO - f | 
+2023-11-30 16:48:50,426 - Log -INFO -  | 
+2023-11-30 16:48:50,460 - Log -INFO -  | 
+2023-11-30 16:48:50,490 - Log -INFO -  | 
+2023-11-30 16:48:50,518 - Log -INFO -  | 
+2023-11-30 16:48:50,556 - Log -INFO -  | 
+2023-11-30 16:48:50,582 - Log -INFO - 0155 | 
+2023-11-30 16:48:50,604 - Log -INFO - d e | 
+2023-11-30 16:48:50,642 - Log -INFO - f | 
+2023-11-30 16:48:50,670 - Log -INFO -  | 
+2023-11-30 16:48:50,699 - Log -INFO -  | 
+2023-11-30 16:48:50,727 - Log -INFO -  | 
+2023-11-30 16:48:50,760 - Log -INFO -  | 
+2023-11-30 16:48:50,800 - Log -INFO -  | 
+2023-11-30 16:48:50,825 - Log -INFO - 0156 | 
+2023-11-30 16:48:50,850 - Log -INFO - d e | 
+2023-11-30 16:48:50,872 - Log -INFO - f | 
+2023-11-30 16:48:50,896 - Log -INFO -  | 
+2023-11-30 16:48:50,917 - Log -INFO -  | 
+2023-11-30 16:48:50,939 - Log -INFO -  | 
+2023-11-30 16:48:50,965 - Log -INFO -  | 
+2023-11-30 16:48:51,003 - Log -INFO -  | 
+2023-11-30 16:48:51,027 - Log -INFO - 0157 | 
+2023-11-30 16:48:51,050 - Log -INFO - d e | 
+2023-11-30 16:48:51,071 - Log -INFO - f | 
+2023-11-30 16:48:51,096 - Log -INFO -  | 
+2023-11-30 16:48:51,115 - Log -INFO -  | 
+2023-11-30 16:48:51,138 - Log -INFO -  | 
+2023-11-30 16:48:51,175 - Log -INFO -  | 
+2023-11-30 16:48:51,208 - Log -INFO -  | 
+2023-11-30 16:48:51,238 - Log -INFO - 0158 | 
+2023-11-30 16:48:51,261 - Log -INFO - d e | 
+2023-11-30 16:48:51,292 - Log -INFO - f | 
+2023-11-30 16:48:51,318 - Log -INFO -  | 
+2023-11-30 16:48:51,344 - Log -INFO -  | 
+2023-11-30 16:48:51,368 - Log -INFO -  | 
+2023-11-30 16:48:51,394 - Log -INFO -  | 
+2023-11-30 16:48:51,430 - Log -INFO -  | 
+2023-11-30 16:48:51,456 - Log -INFO - 0159 | 
+2023-11-30 16:48:51,482 - Log -INFO - d e | 
+2023-11-30 16:48:51,505 - Log -INFO - f | 
+2023-11-30 16:48:51,524 - Log -INFO -  | 
+2023-11-30 16:48:51,548 - Log -INFO -  | 
+2023-11-30 16:48:51,570 - Log -INFO -  | 
+2023-11-30 16:48:51,590 - Log -INFO -  | 
+2023-11-30 16:48:51,633 - Log -INFO -  | 
+2023-11-30 16:48:51,659 - Log -INFO - 0191 | 
+2023-11-30 16:48:51,685 - Log -INFO - w c | 
+2023-11-30 16:48:51,706 - Log -INFO - q | 
+2023-11-30 16:48:51,732 - Log -INFO -  | 
+2023-11-30 16:48:51,754 - Log -INFO -  | 
+2023-11-30 16:48:51,780 - Log -INFO -  | 
+2023-11-30 16:48:51,808 - Log -INFO -  | 
+2023-11-30 16:48:51,857 - Log -INFO -  | 
+2023-11-30 16:48:51,888 - Log -INFO - 0061 | 
+2023-11-30 16:48:51,916 - Log -INFO - hi hlo | 
+2023-11-30 16:48:51,941 - Log -INFO - rev | 
+2023-11-30 16:48:51,965 - Log -INFO -  | 
+2023-11-30 16:48:51,987 - Log -INFO -  | 
+2023-11-30 16:48:52,010 - Log -INFO -  | 
+2023-11-30 16:48:52,031 - Log -INFO -  | 
+2023-11-30 16:48:52,073 - Log -INFO -  | 
+2023-11-30 16:48:52,098 - Log -INFO - 0013 | 
+2023-11-30 16:48:52,124 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:52,152 - Log -INFO - rev12345 | 
+2023-11-30 16:48:52,175 - Log -INFO -  | 
+2023-11-30 16:48:52,199 - Log -INFO -  | 
+2023-11-30 16:48:52,221 - Log -INFO -  | 
+2023-11-30 16:48:52,242 - Log -INFO -  | 
+2023-11-30 16:48:52,270 - Log -INFO -  | 
+2023-11-30 16:48:52,292 - Log -INFO - 0016 | 
+2023-11-30 16:48:52,318 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:52,345 - Log -INFO - rev12345 | 
+2023-11-30 16:48:52,373 - Log -INFO -  | 
+2023-11-30 16:48:52,397 - Log -INFO -  | 
+2023-11-30 16:48:52,425 - Log -INFO -  | 
+2023-11-30 16:48:52,452 - Log -INFO -  | 
+2023-11-30 16:48:52,497 - Log -INFO -  | 
+2023-11-30 16:48:52,522 - Log -INFO - 0018 | 
+2023-11-30 16:48:52,543 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:52,566 - Log -INFO - rev12345 | 
+2023-11-30 16:48:52,593 - Log -INFO -  | 
+2023-11-30 16:48:52,619 - Log -INFO -  | 
+2023-11-30 16:48:52,644 - Log -INFO -  | 
+2023-11-30 16:48:52,667 - Log -INFO -  | 
+2023-11-30 16:48:52,710 - Log -INFO -  | 
+2023-11-30 16:48:52,736 - Log -INFO - 0023 | 
+2023-11-30 16:48:52,762 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:52,786 - Log -INFO - rev12345 | 
+2023-11-30 16:48:52,815 - Log -INFO -  | 
+2023-11-30 16:48:52,835 - Log -INFO -  | 
+2023-11-30 16:48:52,860 - Log -INFO -  | 
+2023-11-30 16:48:52,883 - Log -INFO -  | 
+2023-11-30 16:48:52,922 - Log -INFO -  | 
+2023-11-30 16:48:52,950 - Log -INFO - 0034 | 
+2023-11-30 16:48:52,974 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:53,003 - Log -INFO - rev12345 | 
+2023-11-30 16:48:53,033 - Log -INFO -  | 
+2023-11-30 16:48:53,063 - Log -INFO -  | 
+2023-11-30 16:48:53,090 - Log -INFO -  | 
+2023-11-30 16:48:53,117 - Log -INFO -  | 
+2023-11-30 16:48:53,153 - Log -INFO -  | 
+2023-11-30 16:48:53,179 - Log -INFO - 0037 | 
+2023-11-30 16:48:53,205 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:53,233 - Log -INFO - rev12345 | 
+2023-11-30 16:48:53,257 - Log -INFO -  | 
+2023-11-30 16:48:53,288 - Log -INFO -  | 
+2023-11-30 16:48:53,323 - Log -INFO -  | 
+2023-11-30 16:48:53,355 - Log -INFO -  | 
+2023-11-30 16:48:53,389 - Log -INFO -  | 
+2023-11-30 16:48:53,418 - Log -INFO - 0040 | 
+2023-11-30 16:48:53,448 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:53,484 - Log -INFO - rev12345 | 
+2023-11-30 16:48:53,515 - Log -INFO -  | 
+2023-11-30 16:48:53,534 - Log -INFO -  | 
+2023-11-30 16:48:53,560 - Log -INFO -  | 
+2023-11-30 16:48:53,586 - Log -INFO -  | 
+2023-11-30 16:48:53,628 - Log -INFO -  | 
+2023-11-30 16:48:53,660 - Log -INFO - 0043 | 
+2023-11-30 16:48:53,684 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:53,717 - Log -INFO - rev12345 | 
+2023-11-30 16:48:53,750 - Log -INFO -  | 
+2023-11-30 16:48:53,781 - Log -INFO -  | 
+2023-11-30 16:48:53,811 - Log -INFO -  | 
+2023-11-30 16:48:53,843 - Log -INFO -  | 
+2023-11-30 16:48:53,899 - Log -INFO -  | 
+2023-11-30 16:48:53,925 - Log -INFO - 0046 | 
+2023-11-30 16:48:53,954 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:53,984 - Log -INFO - rev12345 | 
+2023-11-30 16:48:54,014 - Log -INFO -  | 
+2023-11-30 16:48:54,042 - Log -INFO -  | 
+2023-11-30 16:48:54,068 - Log -INFO -  | 
+2023-11-30 16:48:54,096 - Log -INFO -  | 
+2023-11-30 16:48:54,140 - Log -INFO -  | 
+2023-11-30 16:48:54,169 - Log -INFO - 0049 | 
+2023-11-30 16:48:54,201 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:54,224 - Log -INFO - rev12345 | 
+2023-11-30 16:48:54,251 - Log -INFO -  | 
+2023-11-30 16:48:54,282 - Log -INFO -  | 
+2023-11-30 16:48:54,309 - Log -INFO -  | 
+2023-11-30 16:48:54,335 - Log -INFO -  | 
+2023-11-30 16:48:54,368 - Log -INFO -  | 
+2023-11-30 16:48:54,387 - Log -INFO - 0052 | 
+2023-11-30 16:48:54,416 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:54,441 - Log -INFO - rev12345 | 
+2023-11-30 16:48:54,465 - Log -INFO -  | 
+2023-11-30 16:48:54,486 - Log -INFO -  | 
+2023-11-30 16:48:54,508 - Log -INFO -  | 
+2023-11-30 16:48:54,532 - Log -INFO -  | 
+2023-11-30 16:48:54,577 - Log -INFO -  | 
+2023-11-30 16:48:54,603 - Log -INFO - 0055 | 
+2023-11-30 16:48:54,625 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:54,649 - Log -INFO - rev12345 | 
+2023-11-30 16:48:54,680 - Log -INFO -  | 
+2023-11-30 16:48:54,704 - Log -INFO -  | 
+2023-11-30 16:48:54,739 - Log -INFO -  | 
+2023-11-30 16:48:54,770 - Log -INFO -  | 
+2023-11-30 16:48:54,816 - Log -INFO -  | 
+2023-11-30 16:48:54,845 - Log -INFO - 0058 | 
+2023-11-30 16:48:54,875 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:54,905 - Log -INFO - rev12345 | 
+2023-11-30 16:48:54,936 - Log -INFO -  | 
+2023-11-30 16:48:54,957 - Log -INFO -  | 
+2023-11-30 16:48:54,988 - Log -INFO -  | 
+2023-11-30 16:48:55,013 - Log -INFO -  | 
+2023-11-30 16:48:55,055 - Log -INFO -  | 
+2023-11-30 16:48:55,084 - Log -INFO - 0063 | 
+2023-11-30 16:48:55,110 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:55,150 - Log -INFO - rev12345 | 
+2023-11-30 16:48:55,177 - Log -INFO -  | 
+2023-11-30 16:48:55,209 - Log -INFO -  | 
+2023-11-30 16:48:55,238 - Log -INFO -  | 
+2023-11-30 16:48:55,275 - Log -INFO -  | 
+2023-11-30 16:48:55,312 - Log -INFO -  | 
+2023-11-30 16:48:55,339 - Log -INFO - 0066 | 
+2023-11-30 16:48:55,367 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:55,404 - Log -INFO - rev12345 | 
+2023-11-30 16:48:55,440 - Log -INFO -  | 
+2023-11-30 16:48:55,472 - Log -INFO -  | 
+2023-11-30 16:48:55,504 - Log -INFO -  | 
+2023-11-30 16:48:55,535 - Log -INFO -  | 
+2023-11-30 16:48:55,581 - Log -INFO -  | 
+2023-11-30 16:48:55,603 - Log -INFO - 0069 | 
+2023-11-30 16:48:55,627 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:55,649 - Log -INFO - rev12345 | 
+2023-11-30 16:48:55,675 - Log -INFO -  | 
+2023-11-30 16:48:55,718 - Log -INFO -  | 
+2023-11-30 16:48:55,748 - Log -INFO -  | 
+2023-11-30 16:48:55,782 - Log -INFO -  | 
+2023-11-30 16:48:55,815 - Log -INFO -  | 
+2023-11-30 16:48:55,838 - Log -INFO - 0074 | 
+2023-11-30 16:48:55,867 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:48:55,897 - Log -INFO - rev12345 | 
+2023-11-30 16:48:55,922 - Log -INFO -  | 
+2023-11-30 16:48:55,944 - Log -INFO -  | 
+2023-11-30 16:48:55,970 - Log -INFO -  | 
+2023-11-30 16:48:56,000 - Log -INFO -  | 
+2023-11-30 16:48:57,102 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-30 16:48:57,105 - Log -INFO - *********************************************************************
+2023-11-30 16:51:36,279 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 16:51:36,745 - Log -INFO - The Test Data for User name - Revathi
+2023-11-30 16:51:36,823 - Log -INFO - The Test Data for Password - Revathi@123
+2023-11-30 16:51:38,245 - Log -INFO - The expected Element Text - Admin
+2023-11-30 16:51:38,406 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-30 16:51:38,417 - Log -INFO - Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-30 16:51:41,874 - Log -INFO - The Expected EmployeeList Page Text - Employee Information
+2023-11-30 16:51:41,912 - Log -INFO - The Actual Home Page Text - Employee Information
+2023-11-30 16:51:41,927 - Log -INFO - Succesfully Navigated to OrangeHRM Application Employee list Page - PASS
+2023-11-30 16:51:42,033 - Log -INFO - The number of rows - 51
+2023-11-30 16:51:42,153 - Log -INFO -  | 
+2023-11-30 16:51:42,217 - Log -INFO - 0100 | 
+2023-11-30 16:51:42,281 - Log -INFO - a b | 
+2023-11-30 16:51:42,326 - Log -INFO - c | 
+2023-11-30 16:51:42,404 - Log -INFO -  | 
+2023-11-30 16:51:42,490 - Log -INFO -  | 
+2023-11-30 16:51:42,538 - Log -INFO -  | 
+2023-11-30 16:51:42,624 - Log -INFO -  | 
+2023-11-30 16:51:42,718 - Log -INFO -  | 
+2023-11-30 16:51:42,796 - Log -INFO - 0109 | 
+2023-11-30 16:51:42,859 - Log -INFO - d e | 
+2023-11-30 16:51:42,922 - Log -INFO - f | 
+2023-11-30 16:51:42,969 - Log -INFO -  | 
+2023-11-30 16:51:43,032 - Log -INFO -  | 
+2023-11-30 16:51:43,095 - Log -INFO -  | 
+2023-11-30 16:51:43,157 - Log -INFO -  | 
+2023-11-30 16:51:43,226 - Log -INFO -  | 
+2023-11-30 16:51:43,341 - Log -INFO - 0110 | 
+2023-11-30 16:51:43,414 - Log -INFO - d e | 
+2023-11-30 16:51:43,497 - Log -INFO - f | 
+2023-11-30 16:51:43,560 - Log -INFO -  | 
+2023-11-30 16:51:43,615 - Log -INFO -  | 
+2023-11-30 16:51:43,670 - Log -INFO -  | 
+2023-11-30 16:51:43,733 - Log -INFO -  | 
+2023-11-30 16:51:43,801 - Log -INFO -  | 
+2023-11-30 16:51:43,839 - Log -INFO - 0111 | 
+2023-11-30 16:51:43,901 - Log -INFO - d e | 
+2023-11-30 16:51:43,949 - Log -INFO - f | 
+2023-11-30 16:51:43,996 - Log -INFO -  | 
+2023-11-30 16:51:44,043 - Log -INFO -  | 
+2023-11-30 16:51:44,074 - Log -INFO -  | 
+2023-11-30 16:51:44,121 - Log -INFO -  | 
+2023-11-30 16:51:44,200 - Log -INFO -  | 
+2023-11-30 16:51:44,247 - Log -INFO - 0112 | 
+2023-11-30 16:51:44,294 - Log -INFO - d e | 
+2023-11-30 16:51:44,341 - Log -INFO - f | 
+2023-11-30 16:51:44,405 - Log -INFO -  | 
+2023-11-30 16:51:44,440 - Log -INFO -  | 
+2023-11-30 16:51:44,502 - Log -INFO -  | 
+2023-11-30 16:51:44,550 - Log -INFO -  | 
+2023-11-30 16:51:44,617 - Log -INFO -  | 
+2023-11-30 16:51:44,660 - Log -INFO - 0113 | 
+2023-11-30 16:51:44,707 - Log -INFO - d e | 
+2023-11-30 16:51:44,738 - Log -INFO - f | 
+2023-11-30 16:51:44,801 - Log -INFO -  | 
+2023-11-30 16:51:44,833 - Log -INFO -  | 
+2023-11-30 16:51:44,896 - Log -INFO -  | 
+2023-11-30 16:51:44,927 - Log -INFO -  | 
+2023-11-30 16:51:44,992 - Log -INFO -  | 
+2023-11-30 16:51:45,023 - Log -INFO - 0114 | 
+2023-11-30 16:51:45,070 - Log -INFO - d e | 
+2023-11-30 16:51:45,117 - Log -INFO - f | 
+2023-11-30 16:51:45,164 - Log -INFO -  | 
+2023-11-30 16:51:45,211 - Log -INFO -  | 
+2023-11-30 16:51:45,243 - Log -INFO -  | 
+2023-11-30 16:51:45,318 - Log -INFO -  | 
+2023-11-30 16:51:45,385 - Log -INFO -  | 
+2023-11-30 16:51:45,432 - Log -INFO - 0115 | 
+2023-11-30 16:51:45,463 - Log -INFO - d e | 
+2023-11-30 16:51:45,526 - Log -INFO - f | 
+2023-11-30 16:51:45,576 - Log -INFO -  | 
+2023-11-30 16:51:45,624 - Log -INFO -  | 
+2023-11-30 16:51:45,671 - Log -INFO -  | 
+2023-11-30 16:51:45,734 - Log -INFO -  | 
+2023-11-30 16:51:45,820 - Log -INFO -  | 
+2023-11-30 16:51:45,874 - Log -INFO - 0116 | 
+2023-11-30 16:51:45,921 - Log -INFO - d e | 
+2023-11-30 16:51:45,968 - Log -INFO - f | 
+2023-11-30 16:51:46,020 - Log -INFO -  | 
+2023-11-30 16:51:46,063 - Log -INFO -  | 
+2023-11-30 16:51:46,109 - Log -INFO -  | 
+2023-11-30 16:51:46,141 - Log -INFO -  | 
+2023-11-30 16:51:46,206 - Log -INFO -  | 
+2023-11-30 16:51:46,254 - Log -INFO - 0117 | 
+2023-11-30 16:51:46,285 - Log -INFO - d e | 
+2023-11-30 16:51:46,321 - Log -INFO - f | 
+2023-11-30 16:51:46,364 - Log -INFO -  | 
+2023-11-30 16:51:46,395 - Log -INFO -  | 
+2023-11-30 16:51:46,443 - Log -INFO -  | 
+2023-11-30 16:51:46,474 - Log -INFO -  | 
+2023-11-30 16:51:46,552 - Log -INFO -  | 
+2023-11-30 16:51:46,599 - Log -INFO - 0118 | 
+2023-11-30 16:51:46,631 - Log -INFO - d e | 
+2023-11-30 16:51:46,678 - Log -INFO - f | 
+2023-11-30 16:51:46,725 - Log -INFO -  | 
+2023-11-30 16:51:46,756 - Log -INFO -  | 
+2023-11-30 16:51:46,809 - Log -INFO -  | 
+2023-11-30 16:51:46,856 - Log -INFO -  | 
+2023-11-30 16:51:46,934 - Log -INFO -  | 
+2023-11-30 16:51:46,966 - Log -INFO - 0119 | 
+2023-11-30 16:51:47,013 - Log -INFO - d e | 
+2023-11-30 16:51:47,044 - Log -INFO - f | 
+2023-11-30 16:51:47,091 - Log -INFO -  | 
+2023-11-30 16:51:47,139 - Log -INFO -  | 
+2023-11-30 16:51:47,170 - Log -INFO -  | 
+2023-11-30 16:51:47,218 - Log -INFO -  | 
+2023-11-30 16:51:47,265 - Log -INFO -  | 
+2023-11-30 16:51:47,312 - Log -INFO - 0120 | 
+2023-11-30 16:51:47,328 - Log -INFO - d e | 
+2023-11-30 16:51:47,380 - Log -INFO - f | 
+2023-11-30 16:51:47,408 - Log -INFO -  | 
+2023-11-30 16:51:47,454 - Log -INFO -  | 
+2023-11-30 16:51:47,485 - Log -INFO -  | 
+2023-11-30 16:51:47,532 - Log -INFO -  | 
+2023-11-30 16:51:47,595 - Log -INFO -  | 
+2023-11-30 16:51:47,642 - Log -INFO - 0124 | 
+2023-11-30 16:51:47,689 - Log -INFO - d e | 
+2023-11-30 16:51:47,723 - Log -INFO - f | 
+2023-11-30 16:51:47,768 - Log -INFO -  | 
+2023-11-30 16:51:47,799 - Log -INFO -  | 
+2023-11-30 16:51:47,831 - Log -INFO -  | 
+2023-11-30 16:51:47,878 - Log -INFO -  | 
+2023-11-30 16:51:47,940 - Log -INFO -  | 
+2023-11-30 16:51:47,984 - Log -INFO - 0140 | 
+2023-11-30 16:51:48,024 - Log -INFO - d e | 
+2023-11-30 16:51:48,055 - Log -INFO - f | 
+2023-11-30 16:51:48,119 - Log -INFO -  | 
+2023-11-30 16:51:48,149 - Log -INFO -  | 
+2023-11-30 16:51:48,198 - Log -INFO -  | 
+2023-11-30 16:51:48,260 - Log -INFO -  | 
+2023-11-30 16:51:48,339 - Log -INFO -  | 
+2023-11-30 16:51:48,370 - Log -INFO - 0144 | 
+2023-11-30 16:51:48,417 - Log -INFO - d e | 
+2023-11-30 16:51:48,443 - Log -INFO - f | 
+2023-11-30 16:51:48,471 - Log -INFO -  | 
+2023-11-30 16:51:48,500 - Log -INFO -  | 
+2023-11-30 16:51:48,527 - Log -INFO -  | 
+2023-11-30 16:51:48,556 - Log -INFO -  | 
+2023-11-30 16:51:48,606 - Log -INFO -  | 
+2023-11-30 16:51:48,647 - Log -INFO - 0145 | 
+2023-11-30 16:51:48,687 - Log -INFO - d e | 
+2023-11-30 16:51:48,720 - Log -INFO - f | 
+2023-11-30 16:51:48,750 - Log -INFO -  | 
+2023-11-30 16:51:48,781 - Log -INFO -  | 
+2023-11-30 16:51:48,810 - Log -INFO -  | 
+2023-11-30 16:51:48,836 - Log -INFO -  | 
+2023-11-30 16:51:48,876 - Log -INFO -  | 
+2023-11-30 16:51:48,901 - Log -INFO - 0146 | 
+2023-11-30 16:51:48,924 - Log -INFO - d e | 
+2023-11-30 16:51:48,950 - Log -INFO - f | 
+2023-11-30 16:51:48,978 - Log -INFO -  | 
+2023-11-30 16:51:49,003 - Log -INFO -  | 
+2023-11-30 16:51:49,031 - Log -INFO -  | 
+2023-11-30 16:51:49,055 - Log -INFO -  | 
+2023-11-30 16:51:49,090 - Log -INFO -  | 
+2023-11-30 16:51:49,122 - Log -INFO - 0147 | 
+2023-11-30 16:51:49,147 - Log -INFO - d e | 
+2023-11-30 16:51:49,173 - Log -INFO - f | 
+2023-11-30 16:51:49,199 - Log -INFO -  | 
+2023-11-30 16:51:49,227 - Log -INFO -  | 
+2023-11-30 16:51:49,249 - Log -INFO -  | 
+2023-11-30 16:51:49,272 - Log -INFO -  | 
+2023-11-30 16:51:49,310 - Log -INFO -  | 
+2023-11-30 16:51:49,338 - Log -INFO - 0148 | 
+2023-11-30 16:51:49,366 - Log -INFO - d e | 
+2023-11-30 16:51:49,394 - Log -INFO - f | 
+2023-11-30 16:51:49,420 - Log -INFO -  | 
+2023-11-30 16:51:49,452 - Log -INFO -  | 
+2023-11-30 16:51:49,479 - Log -INFO -  | 
+2023-11-30 16:51:49,503 - Log -INFO -  | 
+2023-11-30 16:51:49,549 - Log -INFO -  | 
+2023-11-30 16:51:49,572 - Log -INFO - 0149 | 
+2023-11-30 16:51:49,651 - Log -INFO - d e | 
+2023-11-30 16:51:49,683 - Log -INFO - f | 
+2023-11-30 16:51:49,708 - Log -INFO -  | 
+2023-11-30 16:51:49,735 - Log -INFO -  | 
+2023-11-30 16:51:49,761 - Log -INFO -  | 
+2023-11-30 16:51:49,786 - Log -INFO -  | 
+2023-11-30 16:51:49,826 - Log -INFO -  | 
+2023-11-30 16:51:49,853 - Log -INFO - 0150 | 
+2023-11-30 16:51:49,881 - Log -INFO - d e | 
+2023-11-30 16:51:49,910 - Log -INFO - f | 
+2023-11-30 16:51:49,944 - Log -INFO -  | 
+2023-11-30 16:51:49,970 - Log -INFO -  | 
+2023-11-30 16:51:49,997 - Log -INFO -  | 
+2023-11-30 16:51:50,021 - Log -INFO -  | 
+2023-11-30 16:51:50,063 - Log -INFO -  | 
+2023-11-30 16:51:50,090 - Log -INFO - 0151 | 
+2023-11-30 16:51:50,116 - Log -INFO - d e | 
+2023-11-30 16:51:50,141 - Log -INFO - f | 
+2023-11-30 16:51:50,166 - Log -INFO -  | 
+2023-11-30 16:51:50,189 - Log -INFO -  | 
+2023-11-30 16:51:50,216 - Log -INFO -  | 
+2023-11-30 16:51:50,240 - Log -INFO -  | 
+2023-11-30 16:51:50,277 - Log -INFO -  | 
+2023-11-30 16:51:50,304 - Log -INFO - 0152 | 
+2023-11-30 16:51:50,330 - Log -INFO - d e | 
+2023-11-30 16:51:50,362 - Log -INFO - f | 
+2023-11-30 16:51:50,388 - Log -INFO -  | 
+2023-11-30 16:51:50,413 - Log -INFO -  | 
+2023-11-30 16:51:50,436 - Log -INFO -  | 
+2023-11-30 16:51:50,460 - Log -INFO -  | 
+2023-11-30 16:51:50,500 - Log -INFO -  | 
+2023-11-30 16:51:50,528 - Log -INFO - 0153 | 
+2023-11-30 16:51:50,555 - Log -INFO - d e | 
+2023-11-30 16:51:50,580 - Log -INFO - f | 
+2023-11-30 16:51:50,604 - Log -INFO -  | 
+2023-11-30 16:51:50,630 - Log -INFO -  | 
+2023-11-30 16:51:50,657 - Log -INFO -  | 
+2023-11-30 16:51:50,683 - Log -INFO -  | 
+2023-11-30 16:51:50,742 - Log -INFO -  | 
+2023-11-30 16:51:50,773 - Log -INFO - 0154 | 
+2023-11-30 16:51:50,803 - Log -INFO - d e | 
+2023-11-30 16:51:50,830 - Log -INFO - f | 
+2023-11-30 16:51:50,858 - Log -INFO -  | 
+2023-11-30 16:51:50,886 - Log -INFO -  | 
+2023-11-30 16:51:50,919 - Log -INFO -  | 
+2023-11-30 16:51:50,950 - Log -INFO -  | 
+2023-11-30 16:51:51,009 - Log -INFO -  | 
+2023-11-30 16:51:51,038 - Log -INFO - 0155 | 
+2023-11-30 16:51:51,064 - Log -INFO - d e | 
+2023-11-30 16:51:51,092 - Log -INFO - f | 
+2023-11-30 16:51:51,121 - Log -INFO -  | 
+2023-11-30 16:51:51,156 - Log -INFO -  | 
+2023-11-30 16:51:51,184 - Log -INFO -  | 
+2023-11-30 16:51:51,209 - Log -INFO -  | 
+2023-11-30 16:51:51,257 - Log -INFO -  | 
+2023-11-30 16:51:51,296 - Log -INFO - 0156 | 
+2023-11-30 16:51:51,322 - Log -INFO - d e | 
+2023-11-30 16:51:51,354 - Log -INFO - f | 
+2023-11-30 16:51:51,378 - Log -INFO -  | 
+2023-11-30 16:51:51,409 - Log -INFO -  | 
+2023-11-30 16:51:51,435 - Log -INFO -  | 
+2023-11-30 16:51:51,464 - Log -INFO -  | 
+2023-11-30 16:51:51,531 - Log -INFO -  | 
+2023-11-30 16:51:51,560 - Log -INFO - 0157 | 
+2023-11-30 16:51:51,591 - Log -INFO - d e | 
+2023-11-30 16:51:51,639 - Log -INFO - f | 
+2023-11-30 16:51:51,677 - Log -INFO -  | 
+2023-11-30 16:51:51,700 - Log -INFO -  | 
+2023-11-30 16:51:51,727 - Log -INFO -  | 
+2023-11-30 16:51:51,751 - Log -INFO -  | 
+2023-11-30 16:51:51,794 - Log -INFO -  | 
+2023-11-30 16:51:51,818 - Log -INFO - 0158 | 
+2023-11-30 16:51:51,843 - Log -INFO - d e | 
+2023-11-30 16:51:51,868 - Log -INFO - f | 
+2023-11-30 16:51:51,891 - Log -INFO -  | 
+2023-11-30 16:51:51,917 - Log -INFO -  | 
+2023-11-30 16:51:51,939 - Log -INFO -  | 
+2023-11-30 16:51:51,962 - Log -INFO -  | 
+2023-11-30 16:51:52,002 - Log -INFO -  | 
+2023-11-30 16:51:52,025 - Log -INFO - 0159 | 
+2023-11-30 16:51:52,049 - Log -INFO - d e | 
+2023-11-30 16:51:52,072 - Log -INFO - f | 
+2023-11-30 16:51:52,095 - Log -INFO -  | 
+2023-11-30 16:51:52,120 - Log -INFO -  | 
+2023-11-30 16:51:52,145 - Log -INFO -  | 
+2023-11-30 16:51:52,170 - Log -INFO -  | 
+2023-11-30 16:51:52,221 - Log -INFO -  | 
+2023-11-30 16:51:52,247 - Log -INFO - 0191 | 
+2023-11-30 16:51:52,272 - Log -INFO - w c | 
+2023-11-30 16:51:52,298 - Log -INFO - q | 
+2023-11-30 16:51:52,328 - Log -INFO -  | 
+2023-11-30 16:51:52,352 - Log -INFO -  | 
+2023-11-30 16:51:52,378 - Log -INFO -  | 
+2023-11-30 16:51:52,404 - Log -INFO -  | 
+2023-11-30 16:51:52,459 - Log -INFO -  | 
+2023-11-30 16:51:52,487 - Log -INFO - 0061 | 
+2023-11-30 16:51:52,512 - Log -INFO - hi hlo | 
+2023-11-30 16:51:52,538 - Log -INFO - rev | 
+2023-11-30 16:51:52,561 - Log -INFO -  | 
+2023-11-30 16:51:52,585 - Log -INFO -  | 
+2023-11-30 16:51:52,606 - Log -INFO -  | 
+2023-11-30 16:51:52,633 - Log -INFO -  | 
+2023-11-30 16:51:52,676 - Log -INFO -  | 
+2023-11-30 16:51:52,702 - Log -INFO - 0013 | 
+2023-11-30 16:51:52,728 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:52,753 - Log -INFO - rev12345 | 
+2023-11-30 16:51:52,780 - Log -INFO -  | 
+2023-11-30 16:51:52,805 - Log -INFO -  | 
+2023-11-30 16:51:52,828 - Log -INFO -  | 
+2023-11-30 16:51:52,852 - Log -INFO -  | 
+2023-11-30 16:51:52,892 - Log -INFO -  | 
+2023-11-30 16:51:52,919 - Log -INFO - 0016 | 
+2023-11-30 16:51:52,944 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:52,967 - Log -INFO - rev12345 | 
+2023-11-30 16:51:52,992 - Log -INFO -  | 
+2023-11-30 16:51:53,015 - Log -INFO -  | 
+2023-11-30 16:51:53,040 - Log -INFO -  | 
+2023-11-30 16:51:53,064 - Log -INFO -  | 
+2023-11-30 16:51:53,109 - Log -INFO -  | 
+2023-11-30 16:51:53,151 - Log -INFO - 0018 | 
+2023-11-30 16:51:53,181 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:53,214 - Log -INFO - rev12345 | 
+2023-11-30 16:51:53,240 - Log -INFO -  | 
+2023-11-30 16:51:53,268 - Log -INFO -  | 
+2023-11-30 16:51:53,290 - Log -INFO -  | 
+2023-11-30 16:51:53,315 - Log -INFO -  | 
+2023-11-30 16:51:53,355 - Log -INFO -  | 
+2023-11-30 16:51:53,384 - Log -INFO - 0023 | 
+2023-11-30 16:51:53,420 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:53,446 - Log -INFO - rev12345 | 
+2023-11-30 16:51:53,471 - Log -INFO -  | 
+2023-11-30 16:51:53,494 - Log -INFO -  | 
+2023-11-30 16:51:53,519 - Log -INFO -  | 
+2023-11-30 16:51:53,542 - Log -INFO -  | 
+2023-11-30 16:51:53,591 - Log -INFO -  | 
+2023-11-30 16:51:53,618 - Log -INFO - 0034 | 
+2023-11-30 16:51:53,647 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:53,671 - Log -INFO - rev12345 | 
+2023-11-30 16:51:53,696 - Log -INFO -  | 
+2023-11-30 16:51:53,722 - Log -INFO -  | 
+2023-11-30 16:51:53,745 - Log -INFO -  | 
+2023-11-30 16:51:53,768 - Log -INFO -  | 
+2023-11-30 16:51:53,803 - Log -INFO -  | 
+2023-11-30 16:51:53,830 - Log -INFO - 0037 | 
+2023-11-30 16:51:53,854 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:53,877 - Log -INFO - rev12345 | 
+2023-11-30 16:51:53,905 - Log -INFO -  | 
+2023-11-30 16:51:53,929 - Log -INFO -  | 
+2023-11-30 16:51:53,952 - Log -INFO -  | 
+2023-11-30 16:51:53,978 - Log -INFO -  | 
+2023-11-30 16:51:54,043 - Log -INFO -  | 
+2023-11-30 16:51:54,069 - Log -INFO - 0040 | 
+2023-11-30 16:51:54,094 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:54,119 - Log -INFO - rev12345 | 
+2023-11-30 16:51:54,151 - Log -INFO -  | 
+2023-11-30 16:51:54,184 - Log -INFO -  | 
+2023-11-30 16:51:54,228 - Log -INFO -  | 
+2023-11-30 16:51:54,261 - Log -INFO -  | 
+2023-11-30 16:51:54,310 - Log -INFO -  | 
+2023-11-30 16:51:54,337 - Log -INFO - 0043 | 
+2023-11-30 16:51:54,365 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:54,389 - Log -INFO - rev12345 | 
+2023-11-30 16:51:54,412 - Log -INFO -  | 
+2023-11-30 16:51:54,439 - Log -INFO -  | 
+2023-11-30 16:51:54,465 - Log -INFO -  | 
+2023-11-30 16:51:54,491 - Log -INFO -  | 
+2023-11-30 16:51:54,546 - Log -INFO -  | 
+2023-11-30 16:51:54,571 - Log -INFO - 0046 | 
+2023-11-30 16:51:54,600 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:54,635 - Log -INFO - rev12345 | 
+2023-11-30 16:51:54,660 - Log -INFO -  | 
+2023-11-30 16:51:54,687 - Log -INFO -  | 
+2023-11-30 16:51:54,717 - Log -INFO -  | 
+2023-11-30 16:51:54,752 - Log -INFO -  | 
+2023-11-30 16:51:54,799 - Log -INFO -  | 
+2023-11-30 16:51:54,829 - Log -INFO - 0049 | 
+2023-11-30 16:51:54,855 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:54,882 - Log -INFO - rev12345 | 
+2023-11-30 16:51:54,905 - Log -INFO -  | 
+2023-11-30 16:51:54,931 - Log -INFO -  | 
+2023-11-30 16:51:54,955 - Log -INFO -  | 
+2023-11-30 16:51:54,985 - Log -INFO -  | 
+2023-11-30 16:51:55,032 - Log -INFO -  | 
+2023-11-30 16:51:55,064 - Log -INFO - 0052 | 
+2023-11-30 16:51:55,092 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:55,124 - Log -INFO - rev12345 | 
+2023-11-30 16:51:55,154 - Log -INFO -  | 
+2023-11-30 16:51:55,186 - Log -INFO -  | 
+2023-11-30 16:51:55,220 - Log -INFO -  | 
+2023-11-30 16:51:55,254 - Log -INFO -  | 
+2023-11-30 16:51:55,319 - Log -INFO -  | 
+2023-11-30 16:51:55,353 - Log -INFO - 0055 | 
+2023-11-30 16:51:55,389 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:55,422 - Log -INFO - rev12345 | 
+2023-11-30 16:51:55,452 - Log -INFO -  | 
+2023-11-30 16:51:55,486 - Log -INFO -  | 
+2023-11-30 16:51:55,511 - Log -INFO -  | 
+2023-11-30 16:51:55,536 - Log -INFO -  | 
+2023-11-30 16:51:55,588 - Log -INFO -  | 
+2023-11-30 16:51:55,620 - Log -INFO - 0058 | 
+2023-11-30 16:51:55,652 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:55,684 - Log -INFO - rev12345 | 
+2023-11-30 16:51:55,714 - Log -INFO -  | 
+2023-11-30 16:51:55,741 - Log -INFO -  | 
+2023-11-30 16:51:55,770 - Log -INFO -  | 
+2023-11-30 16:51:55,794 - Log -INFO -  | 
+2023-11-30 16:51:55,846 - Log -INFO -  | 
+2023-11-30 16:51:55,875 - Log -INFO - 0063 | 
+2023-11-30 16:51:55,903 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:55,938 - Log -INFO - rev12345 | 
+2023-11-30 16:51:55,972 - Log -INFO -  | 
+2023-11-30 16:51:56,002 - Log -INFO -  | 
+2023-11-30 16:51:56,031 - Log -INFO -  | 
+2023-11-30 16:51:56,060 - Log -INFO -  | 
+2023-11-30 16:51:56,110 - Log -INFO -  | 
+2023-11-30 16:51:56,148 - Log -INFO - 0066 | 
+2023-11-30 16:51:56,184 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:56,215 - Log -INFO - rev12345 | 
+2023-11-30 16:51:56,238 - Log -INFO -  | 
+2023-11-30 16:51:56,265 - Log -INFO -  | 
+2023-11-30 16:51:56,289 - Log -INFO -  | 
+2023-11-30 16:51:56,315 - Log -INFO -  | 
+2023-11-30 16:51:56,366 - Log -INFO -  | 
+2023-11-30 16:51:56,390 - Log -INFO - 0069 | 
+2023-11-30 16:51:56,416 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:56,441 - Log -INFO - rev12345 | 
+2023-11-30 16:51:56,468 - Log -INFO -  | 
+2023-11-30 16:51:56,493 - Log -INFO -  | 
+2023-11-30 16:51:56,522 - Log -INFO -  | 
+2023-11-30 16:51:56,559 - Log -INFO -  | 
+2023-11-30 16:51:56,602 - Log -INFO -  | 
+2023-11-30 16:51:56,627 - Log -INFO - 0074 | 
+2023-11-30 16:51:56,652 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:51:56,683 - Log -INFO - rev12345 | 
+2023-11-30 16:51:56,707 - Log -INFO -  | 
+2023-11-30 16:51:56,739 - Log -INFO -  | 
+2023-11-30 16:51:56,777 - Log -INFO -  | 
+2023-11-30 16:51:56,801 - Log -INFO -  | 
+2023-11-30 16:51:57,945 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-30 16:51:57,948 - Log -INFO - *********************************************************************
+2023-11-30 16:53:22,284 - Log -INFO - **********Successfully navigated to OrangeHRM application*********
+2023-11-30 16:53:22,736 - Log -INFO - The Test Data for User name - Revathi
+2023-11-30 16:53:22,830 - Log -INFO - The Test Data for Password - Revathi@123
+2023-11-30 16:53:24,193 - Log -INFO - The expected Element Text - Admin
+2023-11-30 16:53:24,358 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-11-30 16:53:24,364 - Log -INFO - Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-30 16:53:25,917 - Log -INFO - The Expected EmployeeList Page Text - Employee Information
+2023-11-30 16:53:25,951 - Log -INFO - The Actual Home Page Text - Employee Information
+2023-11-30 16:53:25,990 - Log -INFO - Succesfully Navigated to OrangeHRM Application Employee list Page - PASS
+2023-11-30 16:53:26,059 - Log -INFO - The number of rows - 51
+2023-11-30 16:53:26,113 - Log -INFO -  | 
+2023-11-30 16:53:26,157 - Log -INFO - 0100 | 
+2023-11-30 16:53:26,199 - Log -INFO - a b | 
+2023-11-30 16:53:26,250 - Log -INFO - c | 
+2023-11-30 16:53:26,303 - Log -INFO -  | 
+2023-11-30 16:53:26,351 - Log -INFO -  | 
+2023-11-30 16:53:26,387 - Log -INFO -  | 
+2023-11-30 16:53:26,434 - Log -INFO -  | 
+2023-11-30 16:53:26,506 - Log -INFO -  | 
+2023-11-30 16:53:26,537 - Log -INFO - 0109 | 
+2023-11-30 16:53:26,585 - Log -INFO - d e | 
+2023-11-30 16:53:26,621 - Log -INFO - f | 
+2023-11-30 16:53:26,652 - Log -INFO -  | 
+2023-11-30 16:53:26,684 - Log -INFO -  | 
+2023-11-30 16:53:26,731 - Log -INFO -  | 
+2023-11-30 16:53:26,772 - Log -INFO -  | 
+2023-11-30 16:53:26,841 - Log -INFO -  | 
+2023-11-30 16:53:26,881 - Log -INFO - 0110 | 
+2023-11-30 16:53:26,920 - Log -INFO - d e | 
+2023-11-30 16:53:26,970 - Log -INFO - f | 
+2023-11-30 16:53:27,001 - Log -INFO -  | 
+2023-11-30 16:53:27,033 - Log -INFO -  | 
+2023-11-30 16:53:27,073 - Log -INFO -  | 
+2023-11-30 16:53:27,095 - Log -INFO -  | 
+2023-11-30 16:53:27,170 - Log -INFO -  | 
+2023-11-30 16:53:27,189 - Log -INFO - 0111 | 
+2023-11-30 16:53:27,220 - Log -INFO - d e | 
+2023-11-30 16:53:27,251 - Log -INFO - f | 
+2023-11-30 16:53:27,283 - Log -INFO -  | 
+2023-11-30 16:53:27,314 - Log -INFO -  | 
+2023-11-30 16:53:27,363 - Log -INFO -  | 
+2023-11-30 16:53:27,397 - Log -INFO -  | 
+2023-11-30 16:53:27,442 - Log -INFO -  | 
+2023-11-30 16:53:27,489 - Log -INFO - 0112 | 
+2023-11-30 16:53:27,520 - Log -INFO - d e | 
+2023-11-30 16:53:27,567 - Log -INFO - f | 
+2023-11-30 16:53:27,599 - Log -INFO -  | 
+2023-11-30 16:53:27,630 - Log -INFO -  | 
+2023-11-30 16:53:27,673 - Log -INFO -  | 
+2023-11-30 16:53:27,710 - Log -INFO -  | 
+2023-11-30 16:53:27,779 - Log -INFO -  | 
+2023-11-30 16:53:27,804 - Log -INFO - 0113 | 
+2023-11-30 16:53:27,819 - Log -INFO - d e | 
+2023-11-30 16:53:27,873 - Log -INFO - f | 
+2023-11-30 16:53:27,899 - Log -INFO -  | 
+2023-11-30 16:53:27,946 - Log -INFO -  | 
+2023-11-30 16:53:27,981 - Log -INFO -  | 
+2023-11-30 16:53:28,009 - Log -INFO -  | 
+2023-11-30 16:53:28,041 - Log -INFO -  | 
+2023-11-30 16:53:28,073 - Log -INFO - 0114 | 
+2023-11-30 16:53:28,122 - Log -INFO - d e | 
+2023-11-30 16:53:28,174 - Log -INFO - f | 
+2023-11-30 16:53:28,201 - Log -INFO -  | 
+2023-11-30 16:53:28,249 - Log -INFO -  | 
+2023-11-30 16:53:28,280 - Log -INFO -  | 
+2023-11-30 16:53:28,327 - Log -INFO -  | 
+2023-11-30 16:53:28,390 - Log -INFO -  | 
+2023-11-30 16:53:28,434 - Log -INFO - 0115 | 
+2023-11-30 16:53:28,467 - Log -INFO - d e | 
+2023-11-30 16:53:28,515 - Log -INFO - f | 
+2023-11-30 16:53:28,562 - Log -INFO -  | 
+2023-11-30 16:53:28,609 - Log -INFO -  | 
+2023-11-30 16:53:28,641 - Log -INFO -  | 
+2023-11-30 16:53:28,688 - Log -INFO -  | 
+2023-11-30 16:53:28,735 - Log -INFO -  | 
+2023-11-30 16:53:28,775 - Log -INFO - 0116 | 
+2023-11-30 16:53:28,814 - Log -INFO - d e | 
+2023-11-30 16:53:28,845 - Log -INFO - f | 
+2023-11-30 16:53:28,877 - Log -INFO -  | 
+2023-11-30 16:53:28,930 - Log -INFO -  | 
+2023-11-30 16:53:28,971 - Log -INFO -  | 
+2023-11-30 16:53:29,004 - Log -INFO -  | 
+2023-11-30 16:53:29,083 - Log -INFO -  | 
+2023-11-30 16:53:29,130 - Log -INFO - 0117 | 
+2023-11-30 16:53:29,177 - Log -INFO - d e | 
+2023-11-30 16:53:29,239 - Log -INFO - f | 
+2023-11-30 16:53:29,276 - Log -INFO -  | 
+2023-11-30 16:53:29,318 - Log -INFO -  | 
+2023-11-30 16:53:29,365 - Log -INFO -  | 
+2023-11-30 16:53:29,412 - Log -INFO -  | 
+2023-11-30 16:53:29,459 - Log -INFO -  | 
+2023-11-30 16:53:29,508 - Log -INFO - 0118 | 
+2023-11-30 16:53:29,559 - Log -INFO - d e | 
+2023-11-30 16:53:29,596 - Log -INFO - f | 
+2023-11-30 16:53:29,636 - Log -INFO -  | 
+2023-11-30 16:53:29,684 - Log -INFO -  | 
+2023-11-30 16:53:29,731 - Log -INFO -  | 
+2023-11-30 16:53:29,762 - Log -INFO -  | 
+2023-11-30 16:53:29,841 - Log -INFO -  | 
+2023-11-30 16:53:29,890 - Log -INFO - 0119 | 
+2023-11-30 16:53:29,938 - Log -INFO - d e | 
+2023-11-30 16:53:29,986 - Log -INFO - f | 
+2023-11-30 16:53:30,017 - Log -INFO -  | 
+2023-11-30 16:53:30,065 - Log -INFO -  | 
+2023-11-30 16:53:30,112 - Log -INFO -  | 
+2023-11-30 16:53:30,185 - Log -INFO -  | 
+2023-11-30 16:53:30,252 - Log -INFO -  | 
+2023-11-30 16:53:30,300 - Log -INFO - 0120 | 
+2023-11-30 16:53:30,331 - Log -INFO - d e | 
+2023-11-30 16:53:30,378 - Log -INFO - f | 
+2023-11-30 16:53:30,409 - Log -INFO -  | 
+2023-11-30 16:53:30,456 - Log -INFO -  | 
+2023-11-30 16:53:30,506 - Log -INFO -  | 
+2023-11-30 16:53:30,554 - Log -INFO -  | 
+2023-11-30 16:53:30,602 - Log -INFO -  | 
+2023-11-30 16:53:30,638 - Log -INFO - 0124 | 
+2023-11-30 16:53:30,685 - Log -INFO - d e | 
+2023-11-30 16:53:30,724 - Log -INFO - f | 
+2023-11-30 16:53:30,758 - Log -INFO -  | 
+2023-11-30 16:53:30,790 - Log -INFO -  | 
+2023-11-30 16:53:30,842 - Log -INFO -  | 
+2023-11-30 16:53:30,889 - Log -INFO -  | 
+2023-11-30 16:53:30,936 - Log -INFO -  | 
+2023-11-30 16:53:30,970 - Log -INFO - 0140 | 
+2023-11-30 16:53:31,008 - Log -INFO - d e | 
+2023-11-30 16:53:31,046 - Log -INFO - f | 
+2023-11-30 16:53:31,105 - Log -INFO -  | 
+2023-11-30 16:53:31,144 - Log -INFO -  | 
+2023-11-30 16:53:31,183 - Log -INFO -  | 
+2023-11-30 16:53:31,228 - Log -INFO -  | 
+2023-11-30 16:53:31,292 - Log -INFO -  | 
+2023-11-30 16:53:31,327 - Log -INFO - 0144 | 
+2023-11-30 16:53:31,370 - Log -INFO - d e | 
+2023-11-30 16:53:31,413 - Log -INFO - f | 
+2023-11-30 16:53:31,449 - Log -INFO -  | 
+2023-11-30 16:53:31,489 - Log -INFO -  | 
+2023-11-30 16:53:31,530 - Log -INFO -  | 
+2023-11-30 16:53:31,576 - Log -INFO -  | 
+2023-11-30 16:53:31,634 - Log -INFO -  | 
+2023-11-30 16:53:31,675 - Log -INFO - 0145 | 
+2023-11-30 16:53:31,708 - Log -INFO - d e | 
+2023-11-30 16:53:31,740 - Log -INFO - f | 
+2023-11-30 16:53:31,773 - Log -INFO -  | 
+2023-11-30 16:53:31,806 - Log -INFO -  | 
+2023-11-30 16:53:31,851 - Log -INFO -  | 
+2023-11-30 16:53:31,887 - Log -INFO -  | 
+2023-11-30 16:53:31,967 - Log -INFO -  | 
+2023-11-30 16:53:32,010 - Log -INFO - 0146 | 
+2023-11-30 16:53:32,060 - Log -INFO - d e | 
+2023-11-30 16:53:32,104 - Log -INFO - f | 
+2023-11-30 16:53:32,137 - Log -INFO -  | 
+2023-11-30 16:53:32,182 - Log -INFO -  | 
+2023-11-30 16:53:32,222 - Log -INFO -  | 
+2023-11-30 16:53:32,257 - Log -INFO -  | 
+2023-11-30 16:53:32,340 - Log -INFO -  | 
+2023-11-30 16:53:32,391 - Log -INFO - 0147 | 
+2023-11-30 16:53:32,426 - Log -INFO - d e | 
+2023-11-30 16:53:32,480 - Log -INFO - f | 
+2023-11-30 16:53:32,520 - Log -INFO -  | 
+2023-11-30 16:53:32,573 - Log -INFO -  | 
+2023-11-30 16:53:32,615 - Log -INFO -  | 
+2023-11-30 16:53:32,640 - Log -INFO -  | 
+2023-11-30 16:53:32,723 - Log -INFO -  | 
+2023-11-30 16:53:32,790 - Log -INFO - 0148 | 
+2023-11-30 16:53:32,855 - Log -INFO - d e | 
+2023-11-30 16:53:32,906 - Log -INFO - f | 
+2023-11-30 16:53:32,952 - Log -INFO -  | 
+2023-11-30 16:53:32,999 - Log -INFO -  | 
+2023-11-30 16:53:33,046 - Log -INFO -  | 
+2023-11-30 16:53:33,093 - Log -INFO -  | 
+2023-11-30 16:53:33,155 - Log -INFO -  | 
+2023-11-30 16:53:33,231 - Log -INFO - 0149 | 
+2023-11-30 16:53:33,272 - Log -INFO - d e | 
+2023-11-30 16:53:33,303 - Log -INFO - f | 
+2023-11-30 16:53:33,350 - Log -INFO -  | 
+2023-11-30 16:53:33,398 - Log -INFO -  | 
+2023-11-30 16:53:33,445 - Log -INFO -  | 
+2023-11-30 16:53:33,484 - Log -INFO -  | 
+2023-11-30 16:53:33,555 - Log -INFO -  | 
+2023-11-30 16:53:33,607 - Log -INFO - 0150 | 
+2023-11-30 16:53:33,640 - Log -INFO - d e | 
+2023-11-30 16:53:33,690 - Log -INFO - f | 
+2023-11-30 16:53:33,723 - Log -INFO -  | 
+2023-11-30 16:53:33,773 - Log -INFO -  | 
+2023-11-30 16:53:33,812 - Log -INFO -  | 
+2023-11-30 16:53:33,854 - Log -INFO -  | 
+2023-11-30 16:53:33,917 - Log -INFO -  | 
+2023-11-30 16:53:33,948 - Log -INFO - 0151 | 
+2023-11-30 16:53:33,996 - Log -INFO - d e | 
+2023-11-30 16:53:34,051 - Log -INFO - f | 
+2023-11-30 16:53:34,094 - Log -INFO -  | 
+2023-11-30 16:53:34,126 - Log -INFO -  | 
+2023-11-30 16:53:34,161 - Log -INFO -  | 
+2023-11-30 16:53:34,195 - Log -INFO -  | 
+2023-11-30 16:53:34,248 - Log -INFO -  | 
+2023-11-30 16:53:34,293 - Log -INFO - 0152 | 
+2023-11-30 16:53:34,323 - Log -INFO - d e | 
+2023-11-30 16:53:34,359 - Log -INFO - f | 
+2023-11-30 16:53:34,401 - Log -INFO -  | 
+2023-11-30 16:53:34,435 - Log -INFO -  | 
+2023-11-30 16:53:34,470 - Log -INFO -  | 
+2023-11-30 16:53:34,517 - Log -INFO -  | 
+2023-11-30 16:53:34,595 - Log -INFO -  | 
+2023-11-30 16:53:34,634 - Log -INFO - 0153 | 
+2023-11-30 16:53:34,667 - Log -INFO - d e | 
+2023-11-30 16:53:34,722 - Log -INFO - f | 
+2023-11-30 16:53:34,817 - Log -INFO -  | 
+2023-11-30 16:53:34,863 - Log -INFO -  | 
+2023-11-30 16:53:34,913 - Log -INFO -  | 
+2023-11-30 16:53:34,947 - Log -INFO -  | 
+2023-11-30 16:53:34,989 - Log -INFO -  | 
+2023-11-30 16:53:35,036 - Log -INFO - 0154 | 
+2023-11-30 16:53:35,067 - Log -INFO - d e | 
+2023-11-30 16:53:35,115 - Log -INFO - f | 
+2023-11-30 16:53:35,146 - Log -INFO -  | 
+2023-11-30 16:53:35,194 - Log -INFO -  | 
+2023-11-30 16:53:35,241 - Log -INFO -  | 
+2023-11-30 16:53:35,287 - Log -INFO -  | 
+2023-11-30 16:53:35,367 - Log -INFO -  | 
+2023-11-30 16:53:35,420 - Log -INFO - 0155 | 
+2023-11-30 16:53:35,461 - Log -INFO - d e | 
+2023-11-30 16:53:35,509 - Log -INFO - f | 
+2023-11-30 16:53:35,571 - Log -INFO -  | 
+2023-11-30 16:53:35,607 - Log -INFO -  | 
+2023-11-30 16:53:35,652 - Log -INFO -  | 
+2023-11-30 16:53:35,688 - Log -INFO -  | 
+2023-11-30 16:53:35,746 - Log -INFO -  | 
+2023-11-30 16:53:35,788 - Log -INFO - 0156 | 
+2023-11-30 16:53:35,842 - Log -INFO - d e | 
+2023-11-30 16:53:35,874 - Log -INFO - f | 
+2023-11-30 16:53:35,926 - Log -INFO -  | 
+2023-11-30 16:53:35,969 - Log -INFO -  | 
+2023-11-30 16:53:36,010 - Log -INFO -  | 
+2023-11-30 16:53:36,055 - Log -INFO -  | 
+2023-11-30 16:53:36,123 - Log -INFO -  | 
+2023-11-30 16:53:36,157 - Log -INFO - 0157 | 
+2023-11-30 16:53:36,208 - Log -INFO - d e | 
+2023-11-30 16:53:36,240 - Log -INFO - f | 
+2023-11-30 16:53:36,295 - Log -INFO -  | 
+2023-11-30 16:53:36,372 - Log -INFO -  | 
+2023-11-30 16:53:36,424 - Log -INFO -  | 
+2023-11-30 16:53:36,474 - Log -INFO -  | 
+2023-11-30 16:53:36,591 - Log -INFO -  | 
+2023-11-30 16:53:36,622 - Log -INFO - 0158 | 
+2023-11-30 16:53:36,669 - Log -INFO - d e | 
+2023-11-30 16:53:36,717 - Log -INFO - f | 
+2023-11-30 16:53:36,758 - Log -INFO -  | 
+2023-11-30 16:53:36,789 - Log -INFO -  | 
+2023-11-30 16:53:36,835 - Log -INFO -  | 
+2023-11-30 16:53:36,889 - Log -INFO -  | 
+2023-11-30 16:53:36,963 - Log -INFO -  | 
+2023-11-30 16:53:37,011 - Log -INFO - 0159 | 
+2023-11-30 16:53:37,038 - Log -INFO - d e | 
+2023-11-30 16:53:37,089 - Log -INFO - f | 
+2023-11-30 16:53:37,132 - Log -INFO -  | 
+2023-11-30 16:53:37,164 - Log -INFO -  | 
+2023-11-30 16:53:37,211 - Log -INFO -  | 
+2023-11-30 16:53:37,242 - Log -INFO -  | 
+2023-11-30 16:53:37,321 - Log -INFO -  | 
+2023-11-30 16:53:37,358 - Log -INFO - 0191 | 
+2023-11-30 16:53:37,390 - Log -INFO - w c | 
+2023-11-30 16:53:37,436 - Log -INFO - q | 
+2023-11-30 16:53:37,467 - Log -INFO -  | 
+2023-11-30 16:53:37,515 - Log -INFO -  | 
+2023-11-30 16:53:37,562 - Log -INFO -  | 
+2023-11-30 16:53:37,609 - Log -INFO -  | 
+2023-11-30 16:53:37,672 - Log -INFO -  | 
+2023-11-30 16:53:37,719 - Log -INFO - 0061 | 
+2023-11-30 16:53:37,751 - Log -INFO - hi hlo | 
+2023-11-30 16:53:37,798 - Log -INFO - rev | 
+2023-11-30 16:53:37,830 - Log -INFO -  | 
+2023-11-30 16:53:37,894 - Log -INFO -  | 
+2023-11-30 16:53:37,943 - Log -INFO -  | 
+2023-11-30 16:53:37,979 - Log -INFO -  | 
+2023-11-30 16:53:38,026 - Log -INFO -  | 
+2023-11-30 16:53:38,055 - Log -INFO - 0013 | 
+2023-11-30 16:53:38,100 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:38,139 - Log -INFO - rev12345 | 
+2023-11-30 16:53:38,177 - Log -INFO -  | 
+2023-11-30 16:53:38,216 - Log -INFO -  | 
+2023-11-30 16:53:38,242 - Log -INFO -  | 
+2023-11-30 16:53:38,275 - Log -INFO -  | 
+2023-11-30 16:53:38,350 - Log -INFO -  | 
+2023-11-30 16:53:38,384 - Log -INFO - 0016 | 
+2023-11-30 16:53:38,418 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:38,439 - Log -INFO - rev12345 | 
+2023-11-30 16:53:38,474 - Log -INFO -  | 
+2023-11-30 16:53:38,517 - Log -INFO -  | 
+2023-11-30 16:53:38,551 - Log -INFO -  | 
+2023-11-30 16:53:38,603 - Log -INFO -  | 
+2023-11-30 16:53:38,665 - Log -INFO -  | 
+2023-11-30 16:53:38,705 - Log -INFO - 0018 | 
+2023-11-30 16:53:38,737 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:38,776 - Log -INFO - rev12345 | 
+2023-11-30 16:53:38,818 - Log -INFO -  | 
+2023-11-30 16:53:38,865 - Log -INFO -  | 
+2023-11-30 16:53:38,914 - Log -INFO -  | 
+2023-11-30 16:53:38,944 - Log -INFO -  | 
+2023-11-30 16:53:39,007 - Log -INFO -  | 
+2023-11-30 16:53:39,038 - Log -INFO - 0023 | 
+2023-11-30 16:53:39,055 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:39,119 - Log -INFO - rev12345 | 
+2023-11-30 16:53:39,169 - Log -INFO -  | 
+2023-11-30 16:53:39,222 - Log -INFO -  | 
+2023-11-30 16:53:39,268 - Log -INFO -  | 
+2023-11-30 16:53:39,316 - Log -INFO -  | 
+2023-11-30 16:53:39,394 - Log -INFO -  | 
+2023-11-30 16:53:39,426 - Log -INFO - 0034 | 
+2023-11-30 16:53:39,457 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:39,493 - Log -INFO - rev12345 | 
+2023-11-30 16:53:39,520 - Log -INFO -  | 
+2023-11-30 16:53:39,568 - Log -INFO -  | 
+2023-11-30 16:53:39,600 - Log -INFO -  | 
+2023-11-30 16:53:39,630 - Log -INFO -  | 
+2023-11-30 16:53:39,678 - Log -INFO -  | 
+2023-11-30 16:53:39,724 - Log -INFO - 0037 | 
+2023-11-30 16:53:39,755 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:39,793 - Log -INFO - rev12345 | 
+2023-11-30 16:53:39,836 - Log -INFO -  | 
+2023-11-30 16:53:39,867 - Log -INFO -  | 
+2023-11-30 16:53:39,899 - Log -INFO -  | 
+2023-11-30 16:53:39,946 - Log -INFO -  | 
+2023-11-30 16:53:39,993 - Log -INFO -  | 
+2023-11-30 16:53:40,024 - Log -INFO - 0040 | 
+2023-11-30 16:53:40,056 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:40,093 - Log -INFO - rev12345 | 
+2023-11-30 16:53:40,119 - Log -INFO -  | 
+2023-11-30 16:53:40,166 - Log -INFO -  | 
+2023-11-30 16:53:40,198 - Log -INFO -  | 
+2023-11-30 16:53:40,247 - Log -INFO -  | 
+2023-11-30 16:53:40,294 - Log -INFO -  | 
+2023-11-30 16:53:40,340 - Log -INFO - 0043 | 
+2023-11-30 16:53:40,391 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:40,421 - Log -INFO - rev12345 | 
+2023-11-30 16:53:40,472 - Log -INFO -  | 
+2023-11-30 16:53:40,506 - Log -INFO -  | 
+2023-11-30 16:53:40,548 - Log -INFO -  | 
+2023-11-30 16:53:40,579 - Log -INFO -  | 
+2023-11-30 16:53:40,627 - Log -INFO -  | 
+2023-11-30 16:53:40,672 - Log -INFO - 0046 | 
+2023-11-30 16:53:40,694 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:40,738 - Log -INFO - rev12345 | 
+2023-11-30 16:53:40,769 - Log -INFO -  | 
+2023-11-30 16:53:40,802 - Log -INFO -  | 
+2023-11-30 16:53:40,834 - Log -INFO -  | 
+2023-11-30 16:53:40,865 - Log -INFO -  | 
+2023-11-30 16:53:40,919 - Log -INFO -  | 
+2023-11-30 16:53:40,978 - Log -INFO - 0049 | 
+2023-11-30 16:53:41,004 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:41,052 - Log -INFO - rev12345 | 
+2023-11-30 16:53:41,100 - Log -INFO -  | 
+2023-11-30 16:53:41,136 - Log -INFO -  | 
+2023-11-30 16:53:41,163 - Log -INFO -  | 
+2023-11-30 16:53:41,215 - Log -INFO -  | 
+2023-11-30 16:53:41,270 - Log -INFO -  | 
+2023-11-30 16:53:41,305 - Log -INFO - 0052 | 
+2023-11-30 16:53:41,333 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:41,381 - Log -INFO - rev12345 | 
+2023-11-30 16:53:41,412 - Log -INFO -  | 
+2023-11-30 16:53:41,443 - Log -INFO -  | 
+2023-11-30 16:53:41,474 - Log -INFO -  | 
+2023-11-30 16:53:41,524 - Log -INFO -  | 
+2023-11-30 16:53:41,580 - Log -INFO -  | 
+2023-11-30 16:53:41,604 - Log -INFO - 0055 | 
+2023-11-30 16:53:41,637 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:41,667 - Log -INFO - rev12345 | 
+2023-11-30 16:53:41,714 - Log -INFO -  | 
+2023-11-30 16:53:41,746 - Log -INFO -  | 
+2023-11-30 16:53:41,777 - Log -INFO -  | 
+2023-11-30 16:53:41,810 - Log -INFO -  | 
+2023-11-30 16:53:41,856 - Log -INFO -  | 
+2023-11-30 16:53:41,903 - Log -INFO - 0058 | 
+2023-11-30 16:53:41,946 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:41,982 - Log -INFO - rev12345 | 
+2023-11-30 16:53:42,015 - Log -INFO -  | 
+2023-11-30 16:53:42,063 - Log -INFO -  | 
+2023-11-30 16:53:42,109 - Log -INFO -  | 
+2023-11-30 16:53:42,146 - Log -INFO -  | 
+2023-11-30 16:53:42,196 - Log -INFO -  | 
+2023-11-30 16:53:42,236 - Log -INFO - 0063 | 
+2023-11-30 16:53:42,283 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:42,315 - Log -INFO - rev12345 | 
+2023-11-30 16:53:42,347 - Log -INFO -  | 
+2023-11-30 16:53:42,378 - Log -INFO -  | 
+2023-11-30 16:53:42,409 - Log -INFO -  | 
+2023-11-30 16:53:42,441 - Log -INFO -  | 
+2023-11-30 16:53:42,496 - Log -INFO -  | 
+2023-11-30 16:53:42,521 - Log -INFO - 0066 | 
+2023-11-30 16:53:42,568 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:42,600 - Log -INFO - rev12345 | 
+2023-11-30 16:53:42,649 - Log -INFO -  | 
+2023-11-30 16:53:42,696 - Log -INFO -  | 
+2023-11-30 16:53:42,727 - Log -INFO -  | 
+2023-11-30 16:53:42,770 - Log -INFO -  | 
+2023-11-30 16:53:42,836 - Log -INFO -  | 
+2023-11-30 16:53:42,868 - Log -INFO - 0069 | 
+2023-11-30 16:53:42,916 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:42,963 - Log -INFO - rev12345 | 
+2023-11-30 16:53:42,997 - Log -INFO -  | 
+2023-11-30 16:53:43,042 - Log -INFO -  | 
+2023-11-30 16:53:43,079 - Log -INFO -  | 
+2023-11-30 16:53:43,120 - Log -INFO -  | 
+2023-11-30 16:53:43,174 - Log -INFO -  | 
+2023-11-30 16:53:43,200 - Log -INFO - 0074 | 
+2023-11-30 16:53:43,232 - Log -INFO - rev2 re1223 | 
+2023-11-30 16:53:43,280 - Log -INFO - rev12345 | 
+2023-11-30 16:53:43,327 - Log -INFO -  | 
+2023-11-30 16:53:43,369 - Log -INFO -  | 
+2023-11-30 16:53:43,404 - Log -INFO -  | 
+2023-11-30 16:53:43,451 - Log -INFO -  | 
+2023-11-30 16:53:44,212 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-30 16:53:44,259 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 16:53:44,261 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 16:53:44,692 - Log -INFO - *********Successfully closed OrangeHRM application*********
+2023-11-30 16:53:44,693 - Log -INFO - *********************************************************************

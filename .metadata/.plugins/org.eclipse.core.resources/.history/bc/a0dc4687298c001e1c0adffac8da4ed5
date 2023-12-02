@@ -1,0 +1,145 @@
+package com.OrangeHRMApplicationWebPages;
+
+import java.util.NoSuchElementException;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+
+import com.BaseTest.BaseTest;
+import com.utility.Log;
+
+public class OrangeHRM_LoginPage extends BaseTest {
+
+	//object repository 
+	public OrangeHRM_LoginPage() {
+		
+		PageFactory.initElements(driver, this);
+		
+	}
+	//id="logInPanelHeading"
+	
+	
+	@FindBy(id="logInPanelHeading")
+	WebElement logInPanel;
+	public void validatingLogInPanelText() // Business Logic
+	{
+
+	String expected_OrangeHRMApplicationLogInPageText="LOGIN Panel";
+	Log.info(" The expected Text of the OrangeHRM Application LogIn Page is :- "+expected_OrangeHRMApplicationLogInPageText);
+
+
+	String actual_OrangeHRMApplicationLogInPageText=logInPanel.getText();
+	Log.info(" The actual Text of the OrangeHRM Application LogIn Page is :- "+actual_OrangeHRMApplicationLogInPageText);
+//Log.info(actual_OrangeHRMApplicationLogInPageText);
+	if(actual_OrangeHRMApplicationLogInPageText.equals(expected_OrangeHRMApplicationLogInPageText))
+	{
+	Log.info(" OrangeHRM Application LogIn Page Text Validation Successfull - PASS ");
+	}
+	else
+	{
+	Log.info(" OrangeHRM Application LogIn Page Text Validation UNSuccessfull - FAIL ");
+	}
+	}
+	
+	@FindBy(xpath = "/html/body/div[1]/div/div[2]/div/img")
+	WebElement OrangeHRMLogo;
+
+	public void validatingOrangeHRMApplicationLogInPageLogo()
+	{
+	boolean flag=OrangeHRMLogo.isDisplayed();
+	if(flag)
+	{
+	Log.info("OrangeHRM Applicaiton LogIn WebPage Contains Logo - PASS ");
+	}
+	else
+	{
+	Log.info("OrangeHRM Applicaiton LogIn WebPage doesn Contain Logo - Fail ");
+	}
+
+	}
+	// id="txtUsername"
+			@FindBy(id="txtUsername")
+			WebElement userName;
+
+			// <input name="txtPassword" id="txtPassword" autocomplete="off" type="password">
+
+			// name="txtPassword"
+			@FindBy(name="txtPassword")
+			WebElement password;
+
+			// <input type="submit" name="Submit" class="button" id="btnLogin" value="LOGIN">
+
+			@FindBy(className = "button")
+			WebElement logInButton;
+			@FindBy(id="welcome")
+			WebElement welComeAdminProperty;
+			
+
+			public void ValidatingLogInFunctionality(String UserName,String Password)
+			{
+			userName.sendKeys(UserName);
+			password.sendKeys(Password);
+			logInButton.click();
+			String expected_OrangeHRMApplicationHomePageText="Admin";
+
+			System.out.println(" The Expected Text of OrangeHRM Application HomePage is :- "+expected_OrangeHRMApplicationHomePageText);
+
+
+
+			// id="welcome" - Property of WelCome Admin Element
+
+		
+		Boolean success = true;
+
+		try {
+
+			WebElement	welComeAdminProperty;
+		}
+
+		catch(NoSuchElementException ex) {
+
+			success = false;
+
+		}
+
+		if(success) {
+
+			//WebElement welComeAdmin=driver.findElement(welComeAdminProperty);
+
+			String actual_OrangeHRMApplicationHomePageText=welComeAdminProperty.getText();
+
+			System.out.println(" The actual Text of OrangeHRM Application HomePage is :- "+actual_OrangeHRMApplicationHomePageText);
+
+
+
+
+
+			// Validating HomePage
+
+			if(actual_OrangeHRMApplicationHomePageText.contains(expected_OrangeHRMApplicationHomePageText))
+
+			{
+
+			System.out.println(" Succesfully Navigated to OrangeHRM Application HomePage - PASS");
+
+
+			}
+			else
+
+			{
+
+			System.out.println(" Failed to Navigate to OrangeHRM Application HomePage - FAIL");
+
+
+			}
+			
+		}
+
+			driver.navigate().back();
+			driver.navigate().refresh();
+			
+		
+}
+}

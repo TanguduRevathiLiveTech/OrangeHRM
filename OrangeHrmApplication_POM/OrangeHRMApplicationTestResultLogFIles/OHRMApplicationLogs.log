@@ -1,0 +1,243 @@
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log -  The expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[TestNG-tests-2] INFO Log -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[TestNG-tests-2] INFO Log -  OrangeHRM Application LogIn Page Text Validation Successfull - PASS 
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log - OrangeHRM Applicaiton LogIn WebPage Contains Logo - PASS 
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-2] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[TestNG-tests-2] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[TestNG-tests-2] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-2] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[TestNG-tests-2] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-2] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[TestNG-tests-2] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-2] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[TestNG-tests-2] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-2] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[TestNG-tests-2] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log -  The linkedin Logo is displayed SuccessFully
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log -  The Facebook Logo is displayed SuccessFully
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log -  The YouTube Logo is displayed SuccessFully
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log -  The YouTube Logo is displayed SuccessFully
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log - The expected coptRight - OrangeHRM, Inc
+[TestNG-tests-2] INFO Log - The actual CopyRight - OrangeHRM, Inc
+[TestNG-tests-2] INFO Log - The expected coptRight matched with actual copyright
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log - The expected Alternative Select Option - -- Select --
+[TestNG-tests-2] INFO Log - The actual AlternativeSelectOption - -- Select --
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log - The expected Alternative Login - Login
+[TestNG-tests-2] INFO Log - The actual Alternative Login - Login
+[TestNG-tests-2] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-2] INFO Log - *********************************************************************
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log - Succeesfully Navigated to Home page
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-2] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log -  The expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[TestNG-tests-1] INFO Log -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[TestNG-tests-1] INFO Log -  OrangeHRM Application LogIn Page Text Validation Successfull - PASS 
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log - OrangeHRM Applicaiton LogIn WebPage Contains Logo - PASS 
+[TestNG-tests-1] INFO Log - *********Successfully closed OrangeHRM application*********
+[TestNG-tests-1] INFO Log - *********************************************************************
+[TestNG-tests-1] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[TestNG-tests-1] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO Log -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO Log -  OrangeHRM Application LogIn Page Text Validation Successfull - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - OrangeHRM Applicaiton LogIn WebPage Contains Logo - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log - Succeesfully Navigated to Home page
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - OrangeHRM Applicaiton Home Page Contains Logo - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Expected Home Page Text - Dashboard
+[main] INFO Log - The Actual Home Page Text - Dashboard
+[main] INFO Log - OrangeHRM Applicaiton Home Page Contains Text - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO Log -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO Log -  OrangeHRM Application LogIn Page Text Validation Successfull - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - OrangeHRM Applicaiton LogIn WebPage Contains Logo - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  Failed to Navigate to OrangeHRM Application HomePage - FAIL
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The linkedin Logo is displayed SuccessFully
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The Facebook Logo is displayed SuccessFully
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The YouTube Logo is displayed SuccessFully
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The YouTube Logo is displayed SuccessFully
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The expected coptRight - OrangeHRM, Inc
+[main] INFO Log - The actual CopyRight - OrangeHRM, Inc
+[main] INFO Log - The expected coptRight matched with actual copyright
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The expected Alternative Select Option - -- Select --
+[main] INFO Log - The actual AlternativeSelectOption - -- Select --
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The expected Alternative Login - Login
+[main] INFO Log - The actual Alternative Login - Login
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log - Succeesfully Navigated to Home page
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - OrangeHRM Applicaiton Home Page Contains Logo - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Expected Home Page Text - Dashboard
+[main] INFO Log - The Actual Home Page Text - Dashboard
+[main] INFO Log - OrangeHRM Applicaiton Home Page Contains Text - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO Log -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO Log -  OrangeHRM Application LogIn Page Text Validation Successfull - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - OrangeHRM Applicaiton LogIn WebPage Contains Logo - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log - Succeesfully Navigated to Home page
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - OrangeHRM Applicaiton Home Page Contains Logo - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - The Expected Home Page Text - Dashboard
+[main] INFO Log - The Actual Home Page Text - Dashboard
+[main] INFO Log - OrangeHRM Applicaiton Home Page Contains Text - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log -  The expected Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO Log -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO Log -  OrangeHRM Application LogIn Page Text Validation Successfull - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************
+[main] INFO Log - **********Successfully navigated to OrangeHRM application*********
+[main] INFO Log - OrangeHRM Applicaiton LogIn WebPage Contains Logo - PASS 
+[main] INFO Log - *********Successfully closed OrangeHRM application*********
+[main] INFO Log - *********************************************************************

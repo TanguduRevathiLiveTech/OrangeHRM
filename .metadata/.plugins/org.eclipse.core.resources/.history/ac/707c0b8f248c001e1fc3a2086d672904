@@ -1,0 +1,30 @@
+package OrangeHRMApplicationTestCases;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationWebPages.OrangeHRM_LoginPage;
+
+public class OrangeHRM_LoginPageTest extends BaseTest{
+	@Test(priority=1,description="Validating OrangeHRM Application LogIn Page Text Test")
+public void validatingLogInPanelTextTest() {
+		OrangeHRM_LoginPage loginpage= new OrangeHRM_LoginPage();
+		loginpage.validatingLogInPanelText();
+	}
+	
+	@Test(priority=2,description=" Validating OrangeHRM Application LogIn Page Logo Test ")
+	public void validatingOrangeHRMApplicationLogInPageLogoTest()
+	{
+	OrangeHRM_LoginPage loginpage = new OrangeHRM_LoginPage();
+	loginpage.validatingOrangeHRMApplicationLogInPageLogo();
+	}
+
+	@Test(priority=3,description=" Validating OrangeHRM Application LogIn Page LogIn Test ")
+	public void validatingLogInFunctionalityTest()
+	{
+		OrangeHRM_LoginPage loginpage = new OrangeHRM_LoginPage();
+		ex
+		for(int rowcount=0;rowcount<=)
+		loginpage.validatingLogInFunctionality("srini", "Q@Trainer7");
+	}
+}

@@ -1,0 +1,23 @@
+<suite name="OrangeHRM Application" parallel="tests">
+
+ <test name="LoginTest">
+ 		<classes>
+		 <class name="OrangeHRMTestNGScripts.TestIngLoginDetails"> </class>
+ 		</classes>	 
+ </test>
+ 
+ 
+ <test name="AddEmployeeTest">
+ 		<classes>
+		 <class name="OrangeHRMTestNGScripts.TestNGAddEmployee"> </class>
+ 		</classes>	 
+ </test>
+ 
+ 
+ <test name="EmployeeListTest">
+ 		<classes>
+		 <class name="OrangeHRMTestNGScripts.TestNGEmployeeList"> </class>
+ 		</classes>	 
+ </test>
+ 	
+</suite>

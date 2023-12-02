@@ -1,0 +1,24 @@
+package OrangeHRMApplicationTestCases;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationWebPages.OrangeHRM_HomePage;
+import com.utility.BaseTest1;
+import com.utility.OrangeHrmLogin;
+
+public class OrangeHRM_HomepageTest {
+	
+	
+	
+	
+	@Test(priority=2,description=" Validating OrangeHRM Application Home page Welcome Test ")
+	public void validatingWelcomeAdminFunctionalityTest()
+	{
+		
+		OrangeHRM_HomePage HomePage = new OrangeHRM_HomePage();
+		
+		HomePage.HomePageWelcomeAdminFunctionality();
+
+}
+}
